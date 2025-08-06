@@ -59,6 +59,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:recipes/generic/magnet_ring": {
+    "criteria": {
+      "has_parent_recipe": "2025-08-06 18:43:03 +0000"
+    },
+    "done": false
+  },
   "naturescompass:natures_compass": {
     "criteria": {
       "has_compass": "2025-08-06 02:01:01 +0000"
@@ -134,6 +140,12 @@
   "comforts:sleeping_bag_black": {
     "criteria": {
       "has_the_recipe": "2025-08-06 02:01:02 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:recipes/generic/iron_ring": {
+    "criteria": {
+      "has_iron_ingot": "2025-08-06 18:43:03 +0000"
     },
     "done": true
   },
@@ -233,6 +245,12 @@
       "has_the_recipe": "2025-08-06 02:01:02 +0000"
     },
     "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "cooked_beef": "2025-08-06 18:59:23 +0000"
+    },
+    "done": false
   },
   "vinery:grapevine_lattice": {
     "criteria": {
@@ -366,6 +384,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:book/accessories/iron_ring": {
+    "criteria": {
+      "has_the_recipe": "2025-08-06 18:43:03 +0000"
+    },
+    "done": true
+  },
   "morevillagers:root": {
     "criteria": {
       "always": "2025-08-06 02:01:02 +0000"
@@ -396,6 +420,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-08-06 18:43:28 +0000"
+    },
+    "done": true
+  },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
       "log_spam_fixer": "2025-08-06 02:01:03 +0000"
@@ -413,6 +443,12 @@
       "killed_something": "2025-08-06 18:30:16 +0000"
     },
     "done": true
+  },
+  "enigmaticlegacy:recipes/generic/ender_ring": {
+    "criteria": {
+      "has_parent_recipe": "2025-08-06 18:43:03 +0000"
+    },
+    "done": false
   },
   "comforts:hammock_red": {
     "criteria": {
@@ -642,6 +678,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/master_chef": {
+    "criteria": {
+      "bacon_and_eggs": "2025-08-06 18:43:28 +0000"
+    },
+    "done": false
+  },
   "comforts:sleeping_bag_green_from_white": {
     "criteria": {
       "has_the_recipe": "2025-08-06 02:01:02 +0000"
@@ -762,6 +804,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:recipes/generic/golden_ring": {
+    "criteria": {
+      "has_parent_recipe": "2025-08-06 18:43:03 +0000"
+    },
+    "done": false
+  },
   "cataclysm:root": {
     "criteria": {
       "custom_test_name": "2025-08-06 02:01:02 +0000"
@@ -843,6 +891,12 @@
   "comforts:sleeping_bag_brown_from_white": {
     "criteria": {
       "has_the_recipe": "2025-08-06 02:01:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-08-06 18:43:11 +0000"
     },
     "done": true
   },
@@ -1034,6 +1088,12 @@
     },
     "done": false
   },
+  "byg:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-08-06 18:43:28 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_blue_from_white": {
     "criteria": {
       "has_the_recipe": "2025-08-06 02:01:02 +0000"
@@ -1193,6 +1253,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/eat_nourishing_food": {
+    "criteria": {
+      "nourishment": "2025-08-06 18:43:28 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_pink": {
     "criteria": {
       "has_the_recipe": "2025-08-06 02:01:02 +0000"
@@ -1244,6 +1310,12 @@
   "comforts:hammock_green": {
     "criteria": {
       "has_the_recipe": "2025-08-06 02:01:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2025-08-06 18:43:03 +0000"
     },
     "done": true
   },

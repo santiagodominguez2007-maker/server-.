@@ -8810,3 +8810,141 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Living
 [06Aug2025 18:38:02.311] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticaddons-common.omniconf
 [06Aug2025 18:38:02.312] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
 [06Aug2025 18:38:02.313] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to Iann23
+[06Aug2025 18:41:49.573] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/DoubleBlockCombiner$BlockType
+[06Aug2025 18:41:57.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Iann23 has made the advancement [Darkness Lies Ahead]
+[06Aug2025 18:43:03.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CT_Gabo has made the advancement [Acquire Hardware]
+[06Aug2025 18:43:11.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CT_Gabo has made the advancement [Isn't It Iron Pick]
+[06Aug2025 18:44:44.628] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting vazkii/quark/base/handler/SortingHandler$ItemType
+[06Aug2025 18:49:29.055] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Iann23 has made the advancement [Alex's Mobs]
+[06Aug2025 18:52:01.883] [Worker-Main29/WARN] [ModernFix/]: The namespace byg contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[06Aug2025 18:52:14.660] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/aqutheseal/celestisynth/api/animation/player/AnimationManager$AnimationsList
+[06Aug2025 18:52:14.661] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting io/redspace/ironsspellbooks/capabilities/magic/RecastResult
+[06Aug2025 18:52:14.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Iann23 was slain by Botfly
+[06Aug2025 18:52:14.671] [Server thread/INFO] [Enigmatic Legacy/INFO]: Teared Soul Crystal from Iann23 at X: 50.53929937721044, Y: 64.0, Z: -66.6758231744094
+[06Aug2025 18:52:14.743] [Netty Epoll Server IO #6/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[06Aug2025 18:52:14.744] [Netty Epoll Server IO #6/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 15 is dual wielding: false
+[06Aug2025 18:52:14.744] [Netty Epoll Server IO #6/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 1 air
+[06Aug2025 18:52:14.744] [Netty Epoll Server IO #6/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 1 air
+[06Aug2025 18:52:14.744] [Netty Epoll Server IO #6/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 0 | client: 0
+[06Aug2025 18:52:34.708] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player Iann23 picking up: PermanentItemEntity['Soul Crystal'/3554, l='ServerLevel[world]', x=50.54, y=65.50, z=-66.68]
+[06Aug2025 18:52:34.708] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Soul Crystal'/3554, l='ServerLevel[world]', x=50.54, y=65.50, z=-66.68]
+[06Aug2025 18:52:36.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Iann23 was slain by Zombie
+[06Aug2025 18:52:36.106] [Server thread/INFO] [Enigmatic Legacy/INFO]: Teared Soul Crystal from Iann23 at X: 50.73690281391087, Y: 64.0, Z: -70.69999998807907
+[06Aug2025 18:52:42.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Iann23 fell from a high place
+[06Aug2025 18:52:42.208] [Server thread/INFO] [Enigmatic Legacy/INFO]: Teared Soul Crystal from Iann23 at X: 3.005336096108753, Y: 66.0, Z: -12.448269921488365
+[06Aug2025 18:52:57.105] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Iann23 was kicked for floating too long!
+[06Aug2025 18:52:57.154] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Iann23 lost connection: Flying is not enabled on this server
+[06Aug2025 18:52:57.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Iann23 left the game
+[06Aug2025 18:53:17.732] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 235
+[06Aug2025 18:53:17.771] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 236
+[06Aug2025 18:53:17.837] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 237
+[06Aug2025 18:53:17.872] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 238
+[06Aug2025 18:53:17.922] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 239
+[06Aug2025 18:53:17.978] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 240
+[06Aug2025 18:53:18.023] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 241
+[06Aug2025 18:53:18.080] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 242
+[06Aug2025 18:53:18.129] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 243
+[06Aug2025 18:53:18.181] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 244
+[06Aug2025 18:53:18.224] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 245
+[06Aug2025 18:53:18.275] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 246
+[06Aug2025 18:53:18.906] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 247
+[06Aug2025 18:53:18.906] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 248
+[06Aug2025 18:53:18.916] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 249
+[06Aug2025 18:53:19.009] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@200188d1
+[06Aug2025 18:53:19.016] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Iann23[/127.68.217.12:33597] logged in with entity id 3671 at (-43.712153150889684, 103.7290914209239, 4.926185045115254)
+[06Aug2025 18:53:19.050] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Iann23
+[06Aug2025 18:53:19.050] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Iann23
+[06Aug2025 18:53:19.051] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Iann23
+[06Aug2025 18:53:19.051] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Iann23
+[06Aug2025 18:53:19.052] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Iann23
+[06Aug2025 18:53:19.053] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Iann23
+[06Aug2025 18:53:19.054] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Iann23
+[06Aug2025 18:53:19.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Iann23 joined the game
+[06Aug2025 18:53:19.207] [Server thread/INFO] [Jade/]: Syncing config to Iann23 (b4adcd70-c330-3de8-8053-0c291c36c423)
+[06Aug2025 18:53:19.331] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to Iann23...
+[06Aug2025 18:53:19.331] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticaddons-common.omniconf
+[06Aug2025 18:53:19.331] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[06Aug2025 18:53:19.332] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to Iann23
+[06Aug2025 18:53:44.103] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player Iann23 picking up: PermanentItemEntity['Soul Crystal'/3625, l='ServerLevel[world]', x=3.01, y=67.50, z=-12.45]
+[06Aug2025 18:53:44.104] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Soul Crystal'/3625, l='ServerLevel[world]', x=3.01, y=67.50, z=-12.45]
+[06Aug2025 18:54:11.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Iann23 was slain by Direwolf
+[06Aug2025 18:54:11.408] [Server thread/INFO] [Enigmatic Legacy/INFO]: Teared Soul Crystal from Iann23 at X: 51.48523893786191, Y: 64.0, Z: -67.71062518241212
+[06Aug2025 18:54:22.460] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Iann23 fell from a high place
+[06Aug2025 18:54:22.461] [Server thread/INFO] [Enigmatic Legacy/INFO]: Teared Soul Crystal from Iann23 at X: 12.80365167074895, Y: 80.0, Z: -12.461122102326433
+[06Aug2025 18:54:59.190] [Netty Epoll Server IO #7/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/combatroll/client/RollEffect$Particles
+[06Aug2025 18:57:54.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Iann23 was slain by Direwolf
+[06Aug2025 18:57:54.458] [Server thread/INFO] [Enigmatic Legacy/INFO]: Teared Soul Crystal from Iann23 at X: 47.50736064781902, Y: 65.0, Z: -63.21150859410866
+[06Aug2025 18:58:07.057] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Iann23 was kicked for floating too long!
+[06Aug2025 18:58:07.106] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Iann23 lost connection: Flying is not enabled on this server
+[06Aug2025 18:58:07.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Iann23 left the game
+[06Aug2025 18:58:33.590] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 235
+[06Aug2025 18:58:33.630] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 236
+[06Aug2025 18:58:33.678] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 237
+[06Aug2025 18:58:33.734] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 238
+[06Aug2025 18:58:33.790] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 239
+[06Aug2025 18:58:33.843] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 240
+[06Aug2025 18:58:33.879] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 241
+[06Aug2025 18:58:33.954] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 242
+[06Aug2025 18:58:34.019] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 243
+[06Aug2025 18:58:34.047] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 244
+[06Aug2025 18:58:34.080] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 245
+[06Aug2025 18:58:34.143] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 246
+[06Aug2025 18:58:34.782] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 247
+[06Aug2025 18:58:34.939] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 248
+[06Aug2025 18:58:34.942] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 249
+[06Aug2025 18:58:35.008] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@13e3c656
+[06Aug2025 18:58:35.015] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Iann23[/127.68.217.12:55981] logged in with entity id 4238 at (-33.764279978466945, 123.79777968815382, 5.666133761459365)
+[06Aug2025 18:58:35.051] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Iann23
+[06Aug2025 18:58:35.051] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Iann23
+[06Aug2025 18:58:35.051] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Iann23
+[06Aug2025 18:58:35.051] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Iann23
+[06Aug2025 18:58:35.052] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Iann23
+[06Aug2025 18:58:35.053] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Iann23
+[06Aug2025 18:58:35.053] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Iann23
+[06Aug2025 18:58:35.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Iann23 joined the game
+[06Aug2025 18:58:35.168] [Server thread/INFO] [Jade/]: Syncing config to Iann23 (b4adcd70-c330-3de8-8053-0c291c36c423)
+[06Aug2025 18:58:35.306] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to Iann23...
+[06Aug2025 18:58:35.307] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticaddons-common.omniconf
+[06Aug2025 18:58:35.308] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[06Aug2025 18:58:35.308] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to Iann23
+[06Aug2025 18:58:43.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Iann23 fell from a high place
+[06Aug2025 18:58:43.744] [Server thread/INFO] [Enigmatic Legacy/INFO]: Teared Soul Crystal from Iann23 at X: -33.764279978466945, Y: 64.0, Z: 5.666133761459365
+[06Aug2025 18:59:03.657] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Iann23 was kicked for floating too long!
+[06Aug2025 18:59:03.704] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Iann23 lost connection: Flying is not enabled on this server
+[06Aug2025 18:59:03.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Iann23 left the game
+[06Aug2025 18:59:47.541] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 235
+[06Aug2025 18:59:47.577] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 236
+[06Aug2025 18:59:47.646] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 237
+[06Aug2025 18:59:47.675] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 238
+[06Aug2025 18:59:47.739] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 239
+[06Aug2025 18:59:47.775] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 240
+[06Aug2025 18:59:47.831] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 241
+[06Aug2025 18:59:47.879] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 242
+[06Aug2025 18:59:47.922] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 243
+[06Aug2025 18:59:47.979] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 244
+[06Aug2025 18:59:48.025] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 245
+[06Aug2025 18:59:48.072] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 246
+[06Aug2025 18:59:48.767] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 247
+[06Aug2025 18:59:48.768] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 248
+[06Aug2025 18:59:48.818] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 249
+[06Aug2025 18:59:48.906] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@4d2bb07a
+[06Aug2025 18:59:48.911] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Iann23[/127.68.217.12:53789] logged in with entity id 4486 at (-45.7446216227255, 123.79777968815382, 5.799202489964268)
+[06Aug2025 18:59:48.942] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Iann23
+[06Aug2025 18:59:48.942] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Iann23
+[06Aug2025 18:59:48.943] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Iann23
+[06Aug2025 18:59:48.943] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Iann23
+[06Aug2025 18:59:48.944] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Iann23
+[06Aug2025 18:59:48.945] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Iann23
+[06Aug2025 18:59:48.945] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Iann23
+[06Aug2025 18:59:48.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Iann23 joined the game
+[06Aug2025 18:59:49.047] [Server thread/INFO] [Jade/]: Syncing config to Iann23 (b4adcd70-c330-3de8-8053-0c291c36c423)
+[06Aug2025 18:59:49.140] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to Iann23...
+[06Aug2025 18:59:49.141] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticaddons-common.omniconf
+[06Aug2025 18:59:49.141] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[06Aug2025 18:59:49.142] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to Iann23
+[06Aug2025 18:59:56.462] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[06Aug2025 18:59:56.462] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[06Aug2025 18:59:56.463] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 wisdom_scroll
+[06Aug2025 18:59:56.463] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_block
+[06Aug2025 19:00:09.606] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player Iann23 picking up: PermanentItemEntity['Soul Crystal'/4323, l='ServerLevel[world]', x=-33.76, y=65.50, z=5.67]
+[06Aug2025 19:00:09.607] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Soul Crystal'/4323, l='ServerLevel[world]', x=-33.76, y=65.50, z=5.67]
