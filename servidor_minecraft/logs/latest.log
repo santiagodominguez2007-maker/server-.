@@ -8701,3 +8701,112 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Living
 [06Aug2025 18:27:24.166] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/stal111/forbidden_arcanus/common/entity/lostsoul/LostSoul$Variant
 [06Aug2025 18:27:28.394] [Worker-Main27/INFO] [com.teampotato.redirector.Redirector/]: Redirecting software/bernie/ars_nouveau/geckolib3/core/builder/ILoopType$EDefaultLoopTypes
 [06Aug2025 18:27:32.715] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/monster/AbstractIllager$IllagerArmPose
+[06Aug2025 18:28:33.325] [Server thread/INFO] [io.github.apace100.origins.Origins/]: Player Iann23 was randomly assigned the following Origin: "ResourceKey[origins:origins / cisco_rpg_origins:thors_blessing]" for layer: cisco_rpg_origins:divineblessings
+[06Aug2025 18:29:17.829] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 235
+[06Aug2025 18:29:17.868] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 236
+[06Aug2025 18:29:17.918] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 237
+[06Aug2025 18:29:17.965] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 238
+[06Aug2025 18:29:18.014] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 239
+[06Aug2025 18:29:18.065] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 240
+[06Aug2025 18:29:18.115] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 241
+[06Aug2025 18:29:18.170] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 242
+[06Aug2025 18:29:18.214] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 243
+[06Aug2025 18:29:18.263] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 244
+[06Aug2025 18:29:18.323] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 245
+[06Aug2025 18:29:18.373] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 246
+[06Aug2025 18:29:19.894] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 247
+[06Aug2025 18:29:19.898] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 248
+[06Aug2025 18:29:19.911] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 249
+[06Aug2025 18:29:20.146] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@3d05ec84
+[06Aug2025 18:29:20.214] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: CT_Gabo[/127.53.153.181:44847] logged in with entity id 1192 at (2.461585185387377, 64.0, 26.528907253586464)
+[06Aug2025 18:29:20.348] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to CT_Gabo
+[06Aug2025 18:29:20.348] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to CT_Gabo
+[06Aug2025 18:29:20.348] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to CT_Gabo
+[06Aug2025 18:29:20.348] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to CT_Gabo
+[06Aug2025 18:29:20.355] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to CT_Gabo
+[06Aug2025 18:29:20.357] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to CT_Gabo
+[06Aug2025 18:29:20.365] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to CT_Gabo
+[06Aug2025 18:29:20.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CT_Gabo joined the game
+[06Aug2025 18:29:20.818] [Server thread/INFO] [Jade/]: Syncing config to CT_Gabo (3fb4bfb0-8501-3e7b-aa30-0a039c52975b)
+[06Aug2025 18:29:21.113] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to CT_Gabo...
+[06Aug2025 18:29:21.114] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticaddons-common.omniconf
+[06Aug2025 18:29:21.115] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[06Aug2025 18:29:21.115] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to CT_Gabo
+[06Aug2025 18:29:22.131] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 netherite_scrap
+[06Aug2025 18:29:22.135] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_block
+[06Aug2025 18:29:22.136] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[06Aug2025 18:29:22.136] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[06Aug2025 18:29:22.366] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2019ms or 40 ticks behind
+[06Aug2025 18:29:22.460] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/living/LivingChangeTargetEvent$LivingTargetType
+[06Aug2025 18:29:24.889] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[06Aug2025 18:29:24.889] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[06Aug2025 18:29:24.892] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 wisdom_scroll
+[06Aug2025 18:29:24.893] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[06Aug2025 18:29:29.710] [Server thread/WARN] [minecolonies/]: Writing Recipe Manager: 0 recipes!
+[06Aug2025 18:30:08.976] [Netty Epoll Server IO #5/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/bettercombat/logic/AnimatedHand
+[06Aug2025 18:30:09.935] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/server/commands/AdvancementCommands$Mode
+[06Aug2025 18:30:16.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CT_Gabo has made the advancement [Monster Hunter]
+[06Aug2025 18:30:17.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CT_Gabo has made the advancement [Knight Quest]
+[06Aug2025 18:30:48.850] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting vazkii/quark/content/mobs/entity/Stoneling$StonelingVariant
+[06Aug2025 18:30:53.565] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[06Aug2025 18:30:53.566] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_block
+[06Aug2025 18:30:53.566] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 wisdom_scroll
+[06Aug2025 18:30:53.567] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[06Aug2025 18:32:22.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Iann23 has made the advancement ['X' Marks the Spot]
+[06Aug2025 18:32:22.145] [Server thread/INFO] [mixin/]: Mixing MixinPiglinTasks from enigmaticlegacy.mixins.json into net.minecraft.world.entity.monster.piglin.PiglinAi
+[06Aug2025 18:32:22.145] [Server thread/INFO] [mixin/]: Renaming synthetic method lambda$onPiglinBarter$0(Ljava/util/List;Lnet/minecraft/world/item/ItemStack;)V to md985383$lambda$onPiglinBarter$0$2 in enigmaticlegacy.mixins.json:MixinPiglinTasks
+[06Aug2025 18:32:52.002] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/23, l='ServerLevel[world]', x=60.96, y=97.00, z=-3.25] died, message: 'Farmer hit the ground too hard'
+[06Aug2025 18:33:03.564] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[06Aug2025 18:33:03.564] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_block
+[06Aug2025 18:33:08.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Iann23 has made the advancement [Acquire Hardware]
+[06Aug2025 18:33:11.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Iann23 has made the advancement [Ice Bucket Challenge]
+[06Aug2025 18:33:12.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Iann23 has made the advancement [Suit Up]
+[06Aug2025 18:33:12.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Iann23 has made the advancement [Isn't It Iron Pick]
+[06Aug2025 18:33:29.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Iann23 has made the advancement [Not a Diamond]
+[06Aug2025 18:33:35.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Iann23 has made the advancement [Let's Get To Work]
+[06Aug2025 18:33:38.860] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/ilexiconn/llibrary/server/animation/AnimationHandler
+[06Aug2025 18:33:56.035] [Worker-Main20/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=198, y=48, z=187}
+[06Aug2025 18:34:40.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Iann23 has made the advancement [Stone Age]
+[06Aug2025 18:34:41.412] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 netherite_scrap
+[06Aug2025 18:34:41.413] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[06Aug2025 18:34:41.413] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_block
+[06Aug2025 18:34:47.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Iann23 has made the advancement [Barrel Booty]
+[06Aug2025 18:35:15.752] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/64, l='ServerLevel[world]', x=55.44, y=265.43, z=30.36] died, message: 'Unemployed tried to swim in lava'
+[06Aug2025 18:35:35.455] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/axolotl/Axolotl$Variant
+[06Aug2025 18:36:10.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CT_Gabo has made the advancement [Stone Age]
+[06Aug2025 18:37:09.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CT_Gabo has made the advancement [Getting an Upgrade]
+[06Aug2025 18:37:35.459] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Iann23 was kicked for floating too long!
+[06Aug2025 18:37:35.460] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Iann23 lost connection: Flying is not enabled on this server
+[06Aug2025 18:37:35.460] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Iann23 left the game
+[06Aug2025 18:37:35.465] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting io/redspace/ironsspellbooks/api/spells/CastType
+[06Aug2025 18:37:35.521] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[06Aug2025 18:38:00.732] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 235
+[06Aug2025 18:38:00.779] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 236
+[06Aug2025 18:38:00.833] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 237
+[06Aug2025 18:38:00.871] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 238
+[06Aug2025 18:38:00.930] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 239
+[06Aug2025 18:38:00.975] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 240
+[06Aug2025 18:38:01.031] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 241
+[06Aug2025 18:38:01.087] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 242
+[06Aug2025 18:38:01.125] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 243
+[06Aug2025 18:38:01.177] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 244
+[06Aug2025 18:38:01.237] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 245
+[06Aug2025 18:38:01.272] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 246
+[06Aug2025 18:38:01.934] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 247
+[06Aug2025 18:38:01.934] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 248
+[06Aug2025 18:38:01.934] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 249
+[06Aug2025 18:38:02.010] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@5e82c001
+[06Aug2025 18:38:02.017] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Iann23[/127.68.217.12:46377] logged in with entity id 2951 at (-45.3491956893117, 123.79777968815382, 8.251485826281641)
+[06Aug2025 18:38:02.055] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Iann23
+[06Aug2025 18:38:02.055] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Iann23
+[06Aug2025 18:38:02.055] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Iann23
+[06Aug2025 18:38:02.056] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Iann23
+[06Aug2025 18:38:02.057] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Iann23
+[06Aug2025 18:38:02.059] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Iann23
+[06Aug2025 18:38:02.059] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Iann23
+[06Aug2025 18:38:02.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Iann23 joined the game
+[06Aug2025 18:38:02.210] [Server thread/INFO] [Jade/]: Syncing config to Iann23 (b4adcd70-c330-3de8-8053-0c291c36c423)
+[06Aug2025 18:38:02.311] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to Iann23...
+[06Aug2025 18:38:02.311] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticaddons-common.omniconf
+[06Aug2025 18:38:02.312] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[06Aug2025 18:38:02.313] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to Iann23
