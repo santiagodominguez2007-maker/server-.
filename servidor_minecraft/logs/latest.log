@@ -8948,3 +8948,246 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Living
 [06Aug2025 18:59:56.463] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_block
 [06Aug2025 19:00:09.606] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player Iann23 picking up: PermanentItemEntity['Soul Crystal'/4323, l='ServerLevel[world]', x=-33.76, y=65.50, z=5.67]
 [06Aug2025 19:00:09.607] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Soul Crystal'/4323, l='ServerLevel[world]', x=-33.76, y=65.50, z=5.67]
+[06Aug2025 19:00:30.010] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[06Aug2025 19:00:30.010] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_block
+[06Aug2025 19:00:30.011] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[06Aug2025 19:00:30.011] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_block
+[06Aug2025 19:00:34.631] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player Iann23 picking up: PermanentItemEntity['Soul Crystal'/4134, l='ServerLevel[world]', x=47.51, y=66.50, z=-63.21]
+[06Aug2025 19:00:34.631] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Soul Crystal'/4134, l='ServerLevel[world]', x=47.51, y=66.50, z=-63.21]
+[06Aug2025 19:00:36.052] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player Iann23 picking up: PermanentItemEntity['Soul Crystal'/3617, l='ServerLevel[world]', x=50.74, y=65.50, z=-70.70]
+[06Aug2025 19:00:36.052] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Soul Crystal'/3617, l='ServerLevel[world]', x=50.74, y=65.50, z=-70.70]
+[06Aug2025 19:00:41.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Iann23 was slain by Direwolf
+[06Aug2025 19:00:41.957] [Server thread/INFO] [Enigmatic Legacy/INFO]: Teared Soul Crystal from Iann23 at X: 46.145210431960734, Y: 63.43590398597127, Z: -78.24523762762205
+[06Aug2025 19:00:56.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CT_Gabo has made the advancement [How'd You Get This?]
+[06Aug2025 19:01:07.009] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player Iann23 picking up: PermanentItemEntity['Soul Crystal'/4805, l='ServerLevel[world]', x=46.15, y=64.94, z=-78.25]
+[06Aug2025 19:01:07.009] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Soul Crystal'/4805, l='ServerLevel[world]', x=46.15, y=64.94, z=-78.25]
+[06Aug2025 19:01:09.707] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player Iann23 picking up: PermanentItemEntity['Soul Crystal'/3903, l='ServerLevel[world]', x=51.49, y=65.50, z=-67.71]
+[06Aug2025 19:01:09.707] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Soul Crystal'/3903, l='ServerLevel[world]', x=51.49, y=65.50, z=-67.71]
+[06Aug2025 19:01:21.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made CT_Gabo a server operator
+[06Aug2025 19:01:26.268] [Netty Epoll Server IO #5/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/chat/LastSeenMessagesValidator$ErrorCondition
+[06Aug2025 19:01:26.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CT_Gabo: Teleported Iann23 to CT_Gabo]
+[06Aug2025 19:01:57.224] [Worker-Main20/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=205, y=51, z=204}
+[06Aug2025 19:02:03.682] [Worker-Main20/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=11, y=-12, z=-131}
+[06Aug2025 19:02:03.682] [Worker-Main20/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=21, y=-11, z=-129}
+[06Aug2025 19:02:03.693] [Worker-Main20/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=22, y=-11, z=-129}
+[06Aug2025 19:02:12.261] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[06Aug2025 19:02:12.261] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[06Aug2025 19:02:13.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CT_Gabo has made the advancement [Barrel Booty]
+[06Aug2025 19:02:33.463] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_block
+[06Aug2025 19:02:33.464] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[06Aug2025 19:02:36.038] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-71, y=-48, z=-26}
+[06Aug2025 19:03:00.849] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class dev.itsmeow.whisperwoods.entity.EntityHidebehind from class dev.itsmeow.whisperwoods.imdlib.entity.EntityTypeContainer
+[06Aug2025 19:03:03.817] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[06Aug2025 19:03:03.817] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[06Aug2025 19:03:03.817] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[06Aug2025 19:03:03.817] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[06Aug2025 19:03:30.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Iann23 has made the advancement [Far From Perfect]
+[06Aug2025 19:03:39.464] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Iann23 was slain by Skeleton
+[06Aug2025 19:03:39.467] [Server thread/INFO] [Enigmatic Legacy/INFO]: Teared Soul Crystal from Iann23 at X: 51.373991179804364, Y: 69.5, Z: -224.0914801885754
+[06Aug2025 19:03:39.687] [Netty Epoll Server IO #1/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[06Aug2025 19:03:39.687] [Netty Epoll Server IO #1/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 4 is dual wielding: false
+[06Aug2025 19:03:39.687] [Netty Epoll Server IO #1/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 1 air
+[06Aug2025 19:03:39.687] [Netty Epoll Server IO #1/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 1 air
+[06Aug2025 19:03:39.687] [Netty Epoll Server IO #1/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 0 | client: 0
+[06Aug2025 19:03:57.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CT_Gabo has made the advancement [Tower of Power]
+[06Aug2025 19:04:01.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CT_Gabo has made the advancement [Not a Diamond]
+[06Aug2025 19:04:09.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CT_Gabo has reached the goal [Flawless Crystals]
+[06Aug2025 19:04:13.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CT_Gabo has made the advancement [Far From Perfect]
+[06Aug2025 19:04:17.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CT_Gabo has made the advancement ['X' Marks the Spot]
+[06Aug2025 19:04:23.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CT_Gabo was blown up by Primed TNT
+[06Aug2025 19:04:50.912] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player Iann23 picking up: PermanentItemEntity['Soul Crystal'/6172, l='ServerLevel[world]', x=51.37, y=71.00, z=-224.09]
+[06Aug2025 19:04:50.912] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Soul Crystal'/6172, l='ServerLevel[world]', x=51.37, y=71.00, z=-224.09]
+[06Aug2025 19:05:10.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CT_Gabo has made the advancement [Darkness Lies Ahead]
+[06Aug2025 19:05:22.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Iann23 has made the advancement [I Found It Underground]
+[06Aug2025 19:05:30.490] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CT_Gabo moved wrongly!
+[06Aug2025 19:05:44.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Iann23 was slain by Zombie
+[06Aug2025 19:05:44.265] [Server thread/INFO] [Enigmatic Legacy/INFO]: Teared Soul Crystal from Iann23 at X: 49.4078201688387, Y: 73.0, Z: -222.9959934668736
+[06Aug2025 19:05:44.297] [Netty Epoll Server IO #1/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[06Aug2025 19:05:44.297] [Netty Epoll Server IO #1/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 13 is dual wielding: false
+[06Aug2025 19:05:44.297] [Netty Epoll Server IO #1/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 1 air
+[06Aug2025 19:05:44.297] [Netty Epoll Server IO #1/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 1 air
+[06Aug2025 19:05:44.297] [Netty Epoll Server IO #1/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 0 | client: 0
+[06Aug2025 19:05:45.978] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=7, y=72, z=-2}
+[06Aug2025 19:06:13.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CT_Gabo was slain by Enderman
+[06Aug2025 19:06:13.561] [Server thread/INFO] [Enigmatic Legacy/INFO]: Teared Soul Crystal from CT_Gabo at X: 93.27987656752218, Y: 84.0, Z: 46.115149740496065
+[06Aug2025 19:06:14.806] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[06Aug2025 19:06:14.806] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[06Aug2025 19:06:14.806] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[06Aug2025 19:06:14.957] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[06Aug2025 19:06:14.957] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[06Aug2025 19:06:14.957] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[06Aug2025 19:06:15.563] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[06Aug2025 19:06:15.563] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 wisdom_scroll
+[06Aug2025 19:06:15.564] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_block
+[06Aug2025 19:06:20.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CT_Gabo: Teleported CT_Gabo to Iann23]
+[06Aug2025 19:06:50.612] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player Iann23 picking up: PermanentItemEntity['Soul Crystal'/7550, l='ServerLevel[world]', x=49.41, y=74.50, z=-223.00]
+[06Aug2025 19:06:50.612] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Soul Crystal'/7550, l='ServerLevel[world]', x=49.41, y=74.50, z=-223.00]
+[06Aug2025 19:06:52.565] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[06Aug2025 19:06:52.565] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 wisdom_scroll
+[06Aug2025 19:06:52.566] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[06Aug2025 19:06:53.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CT_Gabo: Teleported Iann23 to CT_Gabo]
+[06Aug2025 19:07:02.766] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[06Aug2025 19:07:02.767] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[06Aug2025 19:07:02.767] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[06Aug2025 19:07:02.767] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[06Aug2025 19:07:10.755] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player CT_Gabo picking up: PermanentItemEntity['Soul Crystal'/8068, l='ServerLevel[world]', x=93.28, y=85.50, z=46.12]
+[06Aug2025 19:07:10.755] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Soul Crystal'/8068, l='ServerLevel[world]', x=93.28, y=85.50, z=46.12]
+[06Aug2025 19:07:18.150] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting me/wesley1808/servercore/common/utils/BreedingCap
+[06Aug2025 19:07:19.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CT_Gabo was slain by Enderman
+[06Aug2025 19:07:19.011] [Server thread/INFO] [Enigmatic Legacy/INFO]: Teared Soul Crystal from CT_Gabo at X: 79.17135490271582, Y: 77.0, Z: 37.73740966195737
+[06Aug2025 19:07:22.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CT_Gabo: Teleported CT_Gabo to Iann23]
+[06Aug2025 19:07:28.626] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/player/Player$BedSleepingProblem
+[06Aug2025 19:07:28.628] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/illusivesoulworks/comforts/common/ComfortsEvents$Result
+[06Aug2025 19:07:29.412] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CT_Gabo moved wrongly!
+[06Aug2025 19:07:31.911] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player CT_Gabo picking up: PermanentItemEntity['Soul Crystal'/8801, l='ServerLevel[world]', x=79.17, y=78.50, z=37.74]
+[06Aug2025 19:07:31.911] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Soul Crystal'/8801, l='ServerLevel[world]', x=79.17, y=78.50, z=37.74]
+[06Aug2025 19:07:35.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CT_Gabo was slain by Enderman
+[06Aug2025 19:07:35.408] [Server thread/INFO] [Enigmatic Legacy/INFO]: Teared Soul Crystal from CT_Gabo at X: 76.1115358533264, Y: 77.95436733030432, Z: 37.583648130239375
+[06Aug2025 19:07:37.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Iann23 was slain by Enderman
+[06Aug2025 19:07:37.560] [Server thread/INFO] [Enigmatic Legacy/INFO]: Teared Soul Crystal from Iann23 at X: 80.98446711021302, Y: 79.0, Z: 33.78772336704038
+[06Aug2025 19:07:37.722] [Netty Epoll Server IO #1/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[06Aug2025 19:07:37.722] [Netty Epoll Server IO #1/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 0 is dual wielding: false
+[06Aug2025 19:07:37.722] [Netty Epoll Server IO #1/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 1 air
+[06Aug2025 19:07:37.722] [Netty Epoll Server IO #1/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 1 air
+[06Aug2025 19:07:37.722] [Netty Epoll Server IO #1/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 0 | client: 0
+[06Aug2025 19:07:37.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CT_Gabo: Teleported CT_Gabo to Iann23]
+[06Aug2025 19:07:39.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CT_Gabo was slain by Enderman
+[06Aug2025 19:07:39.659] [Server thread/INFO] [Enigmatic Legacy/INFO]: Teared Soul Crystal from CT_Gabo at X: 80.80846497238217, Y: 79.40000000596046, Z: 34.62201975572274
+[06Aug2025 19:07:41.774] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/renderdata/TankPosition
+[06Aug2025 19:07:47.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Iann23 was slain by Enderman
+[06Aug2025 19:07:47.559] [Server thread/INFO] [Enigmatic Legacy/INFO]: Teared Soul Crystal from Iann23 at X: 81.13299741913421, Y: 80.0, Z: 30.735644006337438
+[06Aug2025 19:08:06.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Iann23 was slain by Enderman
+[06Aug2025 19:08:06.108] [Server thread/INFO] [Enigmatic Legacy/INFO]: Teared Soul Crystal from Iann23 at X: 82.62007595724066, Y: 85.51157885488821, Z: 28.3694734270777
+[06Aug2025 19:08:15.532] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/180, l='ServerLevel[world]', x=77.74, y=78.00, z=33.35] died, message: 'Fisherman hit the ground too hard'
+[06Aug2025 19:08:37.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Iann23 was stung to death
+[06Aug2025 19:08:37.608] [Server thread/INFO] [Enigmatic Legacy/INFO]: Teared Soul Crystal from Iann23 at X: 86.02275424413106, Y: 85.0, Z: 34.97821482087393
+[06Aug2025 19:08:46.603] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Cleric'/51, l='ServerLevel[world]', x=59.70, y=95.00, z=-3.23] died, message: 'Cleric hit the ground too hard'
+[06Aug2025 19:09:06.614] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player Iann23 picking up: PermanentItemEntity['Soul Crystal'/9481, l='ServerLevel[world]', x=86.02, y=86.50, z=34.98]
+[06Aug2025 19:09:06.614] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Soul Crystal'/9481, l='ServerLevel[world]', x=86.02, y=86.50, z=34.98]
+[06Aug2025 19:09:10.264] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player Iann23 picking up: PermanentItemEntity['Soul Crystal'/9042, l='ServerLevel[world]', x=80.98, y=80.50, z=33.79]
+[06Aug2025 19:09:10.264] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Soul Crystal'/9042, l='ServerLevel[world]', x=80.98, y=80.50, z=33.79]
+[06Aug2025 19:09:31.251] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/monster/Phantom$AttackPhase
+[06Aug2025 19:09:32.233] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Iann23 moved wrongly!
+[06Aug2025 19:09:38.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Iann23 was fireballed by Enderman
+[06Aug2025 19:09:38.822] [Server thread/INFO] [Enigmatic Legacy/INFO]: Teared Soul Crystal from Iann23 at X: 87.9693139067282, Y: 86.92999998971743, Z: 51.918581126901785
+[06Aug2025 19:09:38.973] [Netty Epoll Server IO #1/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[06Aug2025 19:09:38.973] [Netty Epoll Server IO #1/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 9 is dual wielding: false
+[06Aug2025 19:09:38.973] [Netty Epoll Server IO #1/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 1 air
+[06Aug2025 19:09:38.973] [Netty Epoll Server IO #1/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 1 air
+[06Aug2025 19:09:38.973] [Netty Epoll Server IO #1/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 0 | client: 0
+[06Aug2025 19:09:58.535] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Iann23 fell from a high place
+[06Aug2025 19:09:58.536] [Server thread/INFO] [Enigmatic Legacy/INFO]: Teared Soul Crystal from Iann23 at X: 85.01119570106519, Y: 78.0, Z: 47.05606376519915
+[06Aug2025 19:10:00.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CT_Gabo was shot by Skeleton
+[06Aug2025 19:10:00.227] [Server thread/INFO] [Enigmatic Legacy/INFO]: Teared Soul Crystal from CT_Gabo at X: 4.860897639435661, Y: 68.28214910467707, Z: -20.099365416611782
+[06Aug2025 19:10:01.909] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Iann23 lost connection: Disconnected
+[06Aug2025 19:10:01.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Iann23 left the game
+[06Aug2025 19:10:21.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CT_Gabo was slain by Slugger
+[06Aug2025 19:10:21.655] [Server thread/INFO] [Enigmatic Legacy/INFO]: Teared Soul Crystal from CT_Gabo at X: -5.476016288722153, Y: 62.0, Z: -23.018232270728358
+[06Aug2025 19:10:26.173] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 235
+[06Aug2025 19:10:26.224] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 236
+[06Aug2025 19:10:26.284] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 237
+[06Aug2025 19:10:26.326] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 238
+[06Aug2025 19:10:26.376] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 239
+[06Aug2025 19:10:26.429] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 240
+[06Aug2025 19:10:26.470] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 241
+[06Aug2025 19:10:26.525] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 242
+[06Aug2025 19:10:26.573] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 243
+[06Aug2025 19:10:26.630] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 244
+[06Aug2025 19:10:26.673] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 245
+[06Aug2025 19:10:26.721] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 246
+[06Aug2025 19:10:27.421] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 247
+[06Aug2025 19:10:27.421] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 248
+[06Aug2025 19:10:27.464] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 249
+[06Aug2025 19:10:27.560] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@79fbf3ee
+[06Aug2025 19:10:27.565] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Iann23[/127.68.217.12:51221] logged in with entity id 10370 at (101.5, 85.0, 43.5)
+[06Aug2025 19:10:27.596] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Iann23
+[06Aug2025 19:10:27.596] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Iann23
+[06Aug2025 19:10:27.596] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Iann23
+[06Aug2025 19:10:27.597] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Iann23
+[06Aug2025 19:10:27.598] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Iann23
+[06Aug2025 19:10:27.599] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Iann23
+[06Aug2025 19:10:27.599] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Iann23
+[06Aug2025 19:10:27.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Iann23 joined the game
+[06Aug2025 19:10:27.700] [Server thread/INFO] [Jade/]: Syncing config to Iann23 (b4adcd70-c330-3de8-8053-0c291c36c423)
+[06Aug2025 19:10:27.763] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to Iann23...
+[06Aug2025 19:10:27.763] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticaddons-common.omniconf
+[06Aug2025 19:10:27.764] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[06Aug2025 19:10:27.764] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to Iann23
+[06Aug2025 19:10:50.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CT_Gabo was burnt to a crisp whilst fighting Skeleton
+[06Aug2025 19:10:50.163] [Server thread/INFO] [Enigmatic Legacy/INFO]: Teared Soul Crystal from CT_Gabo at X: -6.318594736538395, Y: 71.08240903474346, Z: -18.795816804315706
+[06Aug2025 19:10:54.010] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player Iann23 picking up: PermanentItemEntity['Soul Crystal'/9909, l='ServerLevel[world]', x=85.01, y=79.50, z=47.06]
+[06Aug2025 19:10:54.011] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Soul Crystal'/9909, l='ServerLevel[world]', x=85.01, y=79.50, z=47.06]
+[06Aug2025 19:10:59.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Iann23 was slain by Enderman
+[06Aug2025 19:10:59.360] [Server thread/INFO] [Enigmatic Legacy/INFO]: Teared Soul Crystal from Iann23 at X: 72.72324510584376, Y: 77.0, Z: 48.1950196645993
+[06Aug2025 19:11:03.400] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/10888, l='ServerLevel[world]', x=118.50, y=73.00, z=160.50]
+[06Aug2025 19:11:03.551] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/10889, l='ServerLevel[world]', x=120.50, y=73.00, z=159.50]
+[06Aug2025 19:11:24.828] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Iann23 moved wrongly!
+[06Aug2025 19:11:27.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Iann23 was slain by Phantom
+[06Aug2025 19:11:27.706] [Server thread/INFO] [Enigmatic Legacy/INFO]: Teared Soul Crystal from Iann23 at X: 91.29412006812176, Y: 86.0, Z: 34.32607042159623
+[06Aug2025 19:12:11.125] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Iann23 fell from a high place
+[06Aug2025 19:12:11.126] [Server thread/INFO] [Enigmatic Legacy/INFO]: Teared Soul Crystal from Iann23 at X: 86.22200775857196, Y: 77.0, Z: 48.31272833954819
+[06Aug2025 19:12:12.664] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting vazkii/quark/api/ICollateralMover$MoveResult
+[06Aug2025 19:12:23.009] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player CT_Gabo picking up: PermanentItemEntity['Soul Crystal'/10317, l='ServerLevel[world]', x=-5.48, y=63.50, z=-23.02]
+[06Aug2025 19:12:23.009] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Soul Crystal'/10317, l='ServerLevel[world]', x=-5.48, y=63.50, z=-23.02]
+[06Aug2025 19:12:28.362] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player CT_Gabo picking up: PermanentItemEntity['Soul Crystal'/10080, l='ServerLevel[world]', x=4.86, y=69.78, z=-20.10]
+[06Aug2025 19:12:28.362] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Soul Crystal'/10080, l='ServerLevel[world]', x=4.86, y=69.78, z=-20.10]
+[06Aug2025 19:12:30.365] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player Iann23 picking up: PermanentItemEntity['Soul Crystal'/11210, l='ServerLevel[world]', x=86.22, y=78.50, z=48.31]
+[06Aug2025 19:12:30.365] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Soul Crystal'/11210, l='ServerLevel[world]', x=86.22, y=78.50, z=48.31]
+[06Aug2025 19:12:40.307] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player CT_Gabo picking up: PermanentItemEntity['Soul Crystal'/10559, l='ServerLevel[world]', x=-6.32, y=72.58, z=-18.80]
+[06Aug2025 19:12:40.308] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Soul Crystal'/10559, l='ServerLevel[world]', x=-6.32, y=72.58, z=-18.80]
+[06Aug2025 19:12:44.299] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/11469, l='ServerLevel[world]', x=118.50, y=73.00, z=159.50]
+[06Aug2025 19:12:45.308] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player Iann23 picking up: PermanentItemEntity['Soul Crystal'/11005, l='ServerLevel[world]', x=91.29, y=87.50, z=34.33]
+[06Aug2025 19:12:45.308] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Soul Crystal'/11005, l='ServerLevel[world]', x=91.29, y=87.50, z=34.33]
+[06Aug2025 19:12:46.552] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/84, l='ServerLevel[world]', x=60.70, y=91.00, z=-3.52] died, message: 'Farmer hit the ground too hard'
+[06Aug2025 19:12:47.707] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player Iann23 picking up: PermanentItemEntity['Soul Crystal'/9382, l='ServerLevel[world]', x=82.62, y=87.01, z=28.37]
+[06Aug2025 19:12:47.707] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Soul Crystal'/9382, l='ServerLevel[world]', x=82.62, y=87.01, z=28.37]
+[06Aug2025 19:12:49.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Iann23 has made the advancement [Tower of Power]
+[06Aug2025 19:13:11.416] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[06Aug2025 19:13:11.416] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[06Aug2025 19:13:11.416] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[06Aug2025 19:13:11.416] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[06Aug2025 19:14:12.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Iann23 fell from a high place
+[06Aug2025 19:14:12.102] [Server thread/INFO] [Enigmatic Legacy/INFO]: Teared Soul Crystal from Iann23 at X: 91.82000840356363, Y: 79.0, Z: 52.35941392507039
+[06Aug2025 19:14:17.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CT_Gabo has made the advancement [Take Aim]
+[06Aug2025 19:14:28.661] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player Iann23 picking up: PermanentItemEntity['Soul Crystal'/11832, l='ServerLevel[world]', x=91.82, y=80.50, z=52.36]
+[06Aug2025 19:14:28.661] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Soul Crystal'/11832, l='ServerLevel[world]', x=91.82, y=80.50, z=52.36]
+[06Aug2025 19:14:36.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Iann23 was blown up by Creeper
+[06Aug2025 19:14:36.359] [Server thread/INFO] [Enigmatic Legacy/INFO]: Teared Soul Crystal from Iann23 at X: 89.28230915662151, Y: 76.08847749274547, Z: 48.861938030962065
+[06Aug2025 19:14:52.158] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player Iann23 picking up: PermanentItemEntity['Soul Crystal'/12048, l='ServerLevel[world]', x=89.28, y=77.59, z=48.86]
+[06Aug2025 19:14:52.158] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Soul Crystal'/12048, l='ServerLevel[world]', x=89.28, y=77.59, z=48.86]
+[06Aug2025 19:14:52.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Iann23 fell from a high place
+[06Aug2025 19:14:52.373] [Server thread/INFO] [Enigmatic Legacy/INFO]: Teared Soul Crystal from Iann23 at X: 88.32436122018385, Y: 75.0, Z: 49.21733485358285
+[06Aug2025 19:15:13.841] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player Iann23 picking up: PermanentItemEntity['Soul Crystal'/12222, l='ServerLevel[world]', x=88.32, y=76.50, z=49.22]
+[06Aug2025 19:15:13.841] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Soul Crystal'/12222, l='ServerLevel[world]', x=88.32, y=76.50, z=49.22]
+[06Aug2025 19:15:38.460] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player Iann23 picking up: PermanentItemEntity['Soul Crystal'/9140, l='ServerLevel[world]', x=81.13, y=81.50, z=30.74]
+[06Aug2025 19:15:38.460] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Soul Crystal'/9140, l='ServerLevel[world]', x=81.13, y=81.50, z=30.74]
+[06Aug2025 19:15:45.162] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player Iann23 picking up: PermanentItemEntity['Soul Crystal'/10750, l='ServerLevel[world]', x=72.72, y=78.50, z=48.20]
+[06Aug2025 19:15:45.162] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Soul Crystal'/10750, l='ServerLevel[world]', x=72.72, y=78.50, z=48.20]
+[06Aug2025 19:16:26.014] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[06Aug2025 19:16:26.015] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[06Aug2025 19:16:26.015] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[06Aug2025 19:16:26.015] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[06Aug2025 19:16:33.389] [Worker-Main28/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=22, y=-11, z=-115}
+[06Aug2025 19:16:33.399] [Worker-Main28/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=11, y=-12, z=-116}
+[06Aug2025 19:16:45.332] [Worker-Main28/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=334, y=7, z=318}
+[06Aug2025 19:16:50.659] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/IronGolem$Crackiness
+[06Aug2025 19:16:51.382] [Worker-Main27/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=332, y=7, z=320}
+[06Aug2025 19:17:40.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Iann23 has made the advancement [How'd You Get This?]
+[06Aug2025 19:17:40.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Iann23 has reached the goal [Worthy Equipment]
+[06Aug2025 19:17:48.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Iann23 has made the advancement [Disme A Dozen]
+[06Aug2025 19:18:05.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Iann23 was burnt to a crisp whilst fighting Umvuthi, the Sunbird
+[06Aug2025 19:18:05.118] [Server thread/INFO] [Enigmatic Legacy/INFO]: Teared Soul Crystal from Iann23 at X: 205.69867293193215, Y: 67.9375, Z: 153.50506112012732
+[06Aug2025 19:18:07.913] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 netherite_scrap
+[06Aug2025 19:18:07.914] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[06Aug2025 19:18:07.914] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[06Aug2025 19:18:07.914] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_block
+[06Aug2025 19:19:02.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Iann23 was slain by Iron Golem
+[06Aug2025 19:19:02.860] [Server thread/INFO] [Enigmatic Legacy/INFO]: Teared Soul Crystal from Iann23 at X: 180.46470285599995, Y: 68.0, Z: 156.5505483722751
+[06Aug2025 19:19:05.119] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[06Aug2025 19:19:05.119] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[06Aug2025 19:19:05.119] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[06Aug2025 19:19:13.467] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player Iann23 picking up: PermanentItemEntity['Soul Crystal'/13914, l='ServerLevel[world]', x=180.46, y=69.50, z=156.55]
+[06Aug2025 19:19:13.467] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Soul Crystal'/13914, l='ServerLevel[world]', x=180.46, y=69.50, z=156.55]
+[06Aug2025 19:19:38.108] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Iann23 lost connection: Disconnected
+[06Aug2025 19:19:38.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Iann23 left the game
+[06Aug2025 19:20:29.606] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond

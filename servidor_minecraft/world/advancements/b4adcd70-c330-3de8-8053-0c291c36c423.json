@@ -5,6 +5,12 @@
     },
     "done": true
   },
+  "apotheosis:affix/rare": {
+    "criteria": {
+      "sword": "2025-08-06 19:17:40 +0000"
+    },
+    "done": true
+  },
   "enigmaticaddons:book/misc/bless_stone": {
     "criteria": {
       "has_the_recipe": "2025-08-06 18:27:18 +0000"
@@ -240,6 +246,12 @@
     },
     "done": true
   },
+  "apotheotic_additions:main/tower": {
+    "criteria": {
+      "enter_tower": "2025-08-06 19:12:49 +0000"
+    },
+    "done": true
+  },
   "vinery:dark_oak_wine_rack_big": {
     "criteria": {
       "has_the_recipe": "2025-08-06 18:27:18 +0000"
@@ -331,6 +343,12 @@
       "has_the_recipe": "2025-08-06 18:27:18 +0000"
     },
     "done": true
+  },
+  "dungeons_enhanced:ambitious_explorer": {
+    "criteria": {
+      "entered_tower_of_the_undead": "2025-08-06 19:02:58 +0000"
+    },
+    "done": false
   },
   "enigmaticlegacy:recipes/generic/twisted_mirror": {
     "criteria": {
@@ -476,6 +494,18 @@
     },
     "done": true
   },
+  "apotheosis:affix/chests": {
+    "criteria": {
+      "sword": "2025-08-06 19:05:22 +0000"
+    },
+    "done": true
+  },
+  "lootr:10loot": {
+    "criteria": {
+      "loot_stat": "2025-08-06 19:17:48 +0000"
+    },
+    "done": true
+  },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
       "log_spam_fixer": "2025-08-06 18:27:20 +0000"
@@ -499,6 +529,12 @@
       "has_parent_recipe": "2025-08-06 18:33:08 +0000"
     },
     "done": false
+  },
+  "apotheosis:affix/random": {
+    "criteria": {
+      "sword": "2025-08-06 19:17:40 +0000"
+    },
+    "done": true
   },
   "comforts:hammock_red": {
     "criteria": {
@@ -588,6 +624,12 @@
   "vinery:cherry_sign": {
     "criteria": {
       "has_the_recipe": "2025-08-06 18:27:18 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/rare_gem": {
+    "criteria": {
+      "gem": "2025-08-06 19:03:30 +0000"
     },
     "done": true
   },
@@ -754,6 +796,12 @@
     },
     "done": false
   },
+  "dungeons_enhanced:root": {
+    "criteria": {
+      "entered_tower_of_the_undead": "2025-08-06 19:02:58 +0000"
+    },
+    "done": true
+  },
   "vinery:spruce_wine_rack_small": {
     "criteria": {
       "has_the_recipe": "2025-08-06 18:27:18 +0000"
@@ -889,6 +937,12 @@
   "cataclysm:root": {
     "criteria": {
       "custom_test_name": "2025-08-06 18:27:19 +0000"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/bone": {
+    "criteria": {
+      "has_item": "2025-08-06 19:03:30 +0000"
     },
     "done": true
   },
@@ -1121,6 +1175,14 @@
     },
     "done": true
   },
+  "byg:adventure/oh_the_biomes_youll_go": {
+    "criteria": {
+      "byg:red_oak_forest": "2025-08-06 19:03:00 +0000",
+      "byg:baobab_savanna": "2025-08-06 19:17:34 +0000",
+      "byg:amaranth_fields": "2025-08-06 19:02:39 +0000"
+    },
+    "done": false
+  },
   "comforts:hammock_brown_from_white": {
     "criteria": {
       "has_the_recipe": "2025-08-06 18:27:18 +0000"
@@ -1157,7 +1219,8 @@
       "atmospheric:rainforest": "2025-08-06 18:38:36 +0000",
       "minecraft:river": "2025-08-06 18:38:23 +0000",
       "minecraft:forest": "2025-08-06 18:32:45 +0000",
-      "minecraft:jungle": "2025-08-06 18:27:20 +0000"
+      "minecraft:jungle": "2025-08-06 18:27:20 +0000",
+      "minecraft:savanna": "2025-08-06 19:16:47 +0000"
     },
     "done": false
   },
@@ -1308,6 +1371,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:book/misc/animal_guidebook": {
+    "criteria": {
+      "has_the_recipe": "2025-08-06 19:07:46 +0000"
+    },
+    "done": true
+  },
   "enigmaticlegacy:recipes/generic/ender_slayer": {
     "criteria": {
       "is_cursed_one": "2025-08-06 18:41:57 +0000"
@@ -1404,6 +1473,12 @@
     },
     "done": false
   },
+  "enigmaticlegacy:recipes/generic/animal_guidebook": {
+    "criteria": {
+      "has_items": "2025-08-06 19:07:46 +0000"
+    },
+    "done": true
+  },
   "enigmaticlegacy:main/root": {
     "criteria": {
       "flower": "2025-08-06 18:27:19 +0000"
@@ -1413,6 +1488,12 @@
   "enigmaticaddons:book/misc/bless_amplifier": {
     "criteria": {
       "has_the_recipe": "2025-08-06 18:27:18 +0000"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/warrior": {
+    "criteria": {
+      "has_item": "2025-08-06 19:17:40 +0000"
     },
     "done": true
   },
