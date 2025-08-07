@@ -283,6 +283,12 @@
     },
     "done": false
   },
+  "enigmaticlegacy:book/misc/hunter_guidebook": {
+    "criteria": {
+      "has_the_recipe": "2025-08-06 19:23:27 +0000"
+    },
+    "done": true
+  },
   "vinery:grapevine_lattice": {
     "criteria": {
       "has_the_recipe": "2025-08-06 18:27:18 +0000"
@@ -371,6 +377,12 @@
   "vinery:fermentation_barrel": {
     "criteria": {
       "has_the_recipe": "2025-08-06 18:27:18 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:recipes/generic/hunter_guidebook": {
+    "criteria": {
+      "has_items": "2025-08-06 19:23:27 +0000"
     },
     "done": true
   },
@@ -1012,6 +1024,12 @@
     },
     "done": true
   },
+  "totw_modded:derelict_grass_tower": {
+    "criteria": {
+      "derelict_grass": "2025-08-06 19:23:23 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_green": {
     "criteria": {
       "has_the_recipe": "2025-08-06 18:27:18 +0000"
@@ -1220,7 +1238,8 @@
       "minecraft:river": "2025-08-06 18:38:23 +0000",
       "minecraft:forest": "2025-08-06 18:32:45 +0000",
       "minecraft:jungle": "2025-08-06 18:27:20 +0000",
-      "minecraft:savanna": "2025-08-06 19:16:47 +0000"
+      "minecraft:savanna": "2025-08-06 19:16:47 +0000",
+      "minecraft:plains": "2025-08-06 19:23:18 +0000"
     },
     "done": false
   },
