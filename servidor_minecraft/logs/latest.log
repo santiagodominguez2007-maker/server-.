@@ -8729,3 +8729,35 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Living
 [08Aug2025 23:47:58.377] [Worker-Main15/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=5427, y=81, z=-9001}
 [08Aug2025 23:47:58.378] [Worker-Main15/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=5427, y=81, z=-9000}
 [08Aug2025 23:47:58.378] [Worker-Main15/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=5427, y=81, z=-8999}
+[08Aug2025 23:48:29.957] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrSanZzZ drowned
+[08Aug2025 23:48:49.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MrSanZzZ: Set own game mode to Creative Mode]
+[08Aug2025 23:49:01.165] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MrSanZzZ: Set own game mode to Survival Mode]
+[08Aug2025 23:49:11.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrSanZzZ went up in flames
+[08Aug2025 23:49:31.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrSanZzZ burned to death
+[08Aug2025 23:49:51.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrSanZzZ went up in flames
+[08Aug2025 23:50:10.002] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/living/LivingChangeTargetEvent$LivingTargetType
+[08Aug2025 23:50:25.338] [Worker-Main16/WARN] [ModernFix/]: The namespace ctov contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[08Aug2025 23:50:45.999] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/monster/AbstractIllager$IllagerArmPose
+[08Aug2025 23:51:24.116] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/server/commands/AdvancementCommands$Mode
+[08Aug2025 23:51:28.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrSanZzZ was slain by Zombie
+[08Aug2025 23:51:41.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrSanZzZ has made the advancement [How'd You Get This?]
+[08Aug2025 23:51:42.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrSanZzZ has made the advancement [Monster Hunter]
+[08Aug2025 23:52:13.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrSanZzZ has made the advancement [Knight Quest]
+[08Aug2025 23:52:17.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrSanZzZ was slain by Zombie
+[08Aug2025 23:52:33.111] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[08Aug2025 23:52:33.111] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[08Aug2025 23:52:33.111] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[08Aug2025 23:52:41.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrSanZzZ was slain by Zombie
+[08Aug2025 23:52:57.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrSanZzZ was chopped up by Vanamar the Funky
+[08Aug2025 23:53:13.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrSanZzZ was chopped up by Vanamar the Funky
+[08Aug2025 23:53:22.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrSanZzZ was chopped up by Vanamar the Funky
+[08Aug2025 23:53:29.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrSanZzZ was chopped up by Vanamar the Funky
+[08Aug2025 23:53:33.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrSanZzZ was chopped up by Vanamar the Funky
+[08Aug2025 23:53:36.519] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Minotaur['Vanamar the Funky'/2839, l='ServerLevel[world]', x=-94.69, y=69.00, z=-116.55] died: Vanamar the Funky was slain by MrSanZzZ
+[08Aug2025 23:53:36.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrSanZzZ has made the advancement [Not a Diamond]
+[08Aug2025 23:53:38.156] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrSanZzZ has completed the challenge [He Wasn't So Strong]
+[08Aug2025 23:53:38.156] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrSanZzZ has reached the goal [Worthy Equipment]
+[08Aug2025 23:53:56.852] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/ilexiconn/llibrary/server/animation/AnimationHandler
+[08Aug2025 23:54:16.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MrSanZzZ: Set own game mode to Creative Mode]
+[08Aug2025 23:58:03.032] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MrSanZzZ: Set own game mode to Survival Mode]
+[08Aug2025 23:58:07.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MrSanZzZ: Set own game mode to Creative Mode]

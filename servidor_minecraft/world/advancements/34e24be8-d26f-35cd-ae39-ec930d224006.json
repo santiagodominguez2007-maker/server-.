@@ -5,6 +5,12 @@
     },
     "done": true
   },
+  "apotheosis:affix/rare": {
+    "criteria": {
+      "sword": "2025-08-08 23:53:38 +0000"
+    },
+    "done": true
+  },
   "enigmaticaddons:book/misc/bless_stone": {
     "criteria": {
       "has_the_recipe": "2025-08-08 23:43:23 +0000"
@@ -222,6 +228,12 @@
     },
     "done": true
   },
+  "mutantmonsters:root": {
+    "criteria": {
+      "killed_something": "2025-08-08 23:51:26 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_purple": {
     "criteria": {
       "has_the_recipe": "2025-08-08 23:43:23 +0000"
@@ -396,6 +408,18 @@
     },
     "done": true
   },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2025-08-08 23:51:26 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/random": {
+    "criteria": {
+      "sword": "2025-08-08 23:51:41 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_red": {
     "criteria": {
       "has_the_recipe": "2025-08-08 23:43:23 +0000"
@@ -443,6 +467,14 @@
       "has_the_recipe": "2025-08-08 23:43:23 +0000"
     },
     "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:spider": "2025-08-08 23:52:13 +0000",
+      "minecraft:zombie": "2025-08-08 23:51:42 +0000",
+      "minecraft:zombie_villager": "2025-08-08 23:53:30 +0000"
+    },
+    "done": false
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
@@ -690,6 +722,12 @@
     },
     "done": true
   },
+  "apotheosis:affix/boss": {
+    "criteria": {
+      "sword": "2025-08-08 23:53:38 +0000"
+    },
+    "done": true
+  },
   "mowziesmobs:root": {
     "criteria": {
       "custom_test_name": "2025-08-08 23:43:24 +0000"
@@ -789,6 +827,12 @@
   "vinery:wine_bottle": {
     "criteria": {
       "has_the_recipe": "2025-08-08 23:43:23 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/gem": {
+    "criteria": {
+      "gem": "2025-08-08 23:53:36 +0000"
     },
     "done": true
   },
@@ -894,6 +938,12 @@
     },
     "done": true
   },
+  "knightquest:knightquest": {
+    "criteria": {
+      "requirement": "2025-08-08 23:52:13 +0000"
+    },
+    "done": true
+  },
   "explorerscompass:explorers_compass_cracked_stone_bricks": {
     "criteria": {
       "has_recipe": "2025-08-08 23:43:23 +0000",
@@ -910,6 +960,12 @@
   "lootr:root": {
     "criteria": {
       "always_true": "2025-08-08 23:43:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:zombie": "2025-08-08 23:51:42 +0000"
     },
     "done": true
   },
@@ -969,6 +1025,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:frozen_river": "2025-08-08 23:48:03 +0000",
       "minecraft:snowy_plains": "2025-08-08 23:43:24 +0000"
     },
     "done": false
@@ -978,6 +1035,26 @@
       "has_the_recipe": "2025-08-08 23:43:23 +0000"
     },
     "done": true
+  },
+  "incendium:technical/on_hit": {
+    "criteria": {
+      "!bit13": "2025-08-08 23:53:35 +0000",
+      "!bit14": "2025-08-08 23:53:35 +0000",
+      "!bit11": "2025-08-08 23:53:35 +0000",
+      "!bit12": "2025-08-08 23:53:35 +0000",
+      "!bit10": "2025-08-08 23:53:35 +0000",
+      "!bit9": "2025-08-08 23:53:35 +0000",
+      "!bit8": "2025-08-08 23:53:35 +0000",
+      "!bit7": "2025-08-08 23:53:35 +0000",
+      "!bit6": "2025-08-08 23:53:35 +0000",
+      "!bit5": "2025-08-08 23:53:35 +0000",
+      "!bit4": "2025-08-08 23:53:35 +0000",
+      "!bit3": "2025-08-08 23:53:35 +0000",
+      "!bit2": "2025-08-08 23:53:35 +0000",
+      "!bit1": "2025-08-08 23:53:35 +0000",
+      "!bit0": "2025-08-08 23:53:35 +0000"
+    },
+    "done": false
   },
   "comforts:sleeping_bag_gray_from_white": {
     "criteria": {
@@ -1084,9 +1161,10 @@
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
+      "requirement": "2025-08-08 23:47:36 +0000",
       "log_spam_fixer": "2025-08-08 23:43:24 +0000"
     },
-    "done": false
+    "done": true
   },
   "enigmaticaddons:book/accessories/quartz_ring": {
     "criteria": {
@@ -1181,6 +1259,12 @@
   "comforts:hammock_green": {
     "criteria": {
       "has_the_recipe": "2025-08-08 23:43:23 +0000"
+    },
+    "done": true
+  },
+  "meetyourfight:main/root": {
+    "criteria": {
+      "killed_something": "2025-08-08 23:51:26 +0000"
     },
     "done": true
   },
