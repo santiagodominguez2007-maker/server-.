@@ -8873,3 +8873,148 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Living
 [08Aug2025 20:55:16.092] [Server thread/INFO] [Enigmatic Legacy/INFO]: Teared Soul Crystal from CT_Gabo at X: 130.118163035648, Y: 62.0, Z: 166.10733818239078
 [08Aug2025 20:55:17.137] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/TropicalFish$Pattern
 [08Aug2025 20:55:21.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CT_Gabo: Teleported CT_Gabo to MrSanZzZ]
+[08Aug2025 20:55:26.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CT_Gabo was slain by Phantom
+[08Aug2025 20:55:26.639] [Server thread/INFO] [Enigmatic Legacy/INFO]: Teared Soul Crystal from CT_Gabo at X: 115.45747850480305, Y: 57.40412311537282, Z: 215.1510976765419
+[08Aug2025 20:55:27.181] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/11545, l='ServerLevel[world]', x=-7.50, y=72.00, z=162.50]
+[08Aug2025 20:55:28.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CT_Gabo: Teleported CT_Gabo to MrSanZzZ]
+[08Aug2025 20:55:29.490] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player MrSanZzZ picking up: PermanentItemEntity['Soul Crystal'/11008, l='ServerLevel[world]', x=109.68, y=63.85, z=213.55]
+[08Aug2025 20:55:29.490] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Soul Crystal'/11008, l='ServerLevel[world]', x=109.68, y=63.85, z=213.55]
+[08Aug2025 20:55:32.187] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player CT_Gabo picking up: PermanentItemEntity['Soul Crystal'/11543, l='ServerLevel[world]', x=115.46, y=58.90, z=215.15]
+[08Aug2025 20:55:32.187] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Soul Crystal'/11543, l='ServerLevel[world]', x=115.46, y=58.90, z=215.15]
+[08Aug2025 20:55:44.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CT_Gabo was slain by Phantom
+[08Aug2025 20:55:44.842] [Server thread/INFO] [Enigmatic Legacy/INFO]: Teared Soul Crystal from CT_Gabo at X: 121.84758159651582, Y: 63.7531999805212, Z: 183.12571321295317
+[08Aug2025 20:55:46.245] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[08Aug2025 20:55:46.245] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[08Aug2025 20:55:46.245] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 wisdom_scroll
+[08Aug2025 20:55:46.246] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_block
+[08Aug2025 20:55:46.246] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[08Aug2025 20:55:46.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CT_Gabo: Teleported CT_Gabo to MrSanZzZ]
+[08Aug2025 20:55:59.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrSanZzZ was slain by Phantom
+[08Aug2025 20:55:59.239] [Server thread/INFO] [Enigmatic Legacy/INFO]: Teared Soul Crystal from MrSanZzZ at X: 70.86960594337525, Y: 62.00923582586679, Z: 216.10125911772425
+[08Aug2025 20:56:00.700] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[08Aug2025 20:56:00.700] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_block
+[08Aug2025 20:56:00.700] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[08Aug2025 20:56:00.700] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_block
+[08Aug2025 20:56:02.793] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player CT_Gabo picking up: PermanentItemEntity['Soul Crystal'/9880, l='ServerLevel[world]', x=116.70, y=64.15, z=188.33]
+[08Aug2025 20:56:02.793] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Soul Crystal'/9880, l='ServerLevel[world]', x=116.70, y=64.15, z=188.33]
+[08Aug2025 20:56:04.544] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player CT_Gabo picking up: PermanentItemEntity['Soul Crystal'/11131, l='ServerLevel[world]', x=119.35, y=64.74, z=187.36]
+[08Aug2025 20:56:04.545] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Soul Crystal'/11131, l='ServerLevel[world]', x=119.35, y=64.74, z=187.36]
+[08Aug2025 20:56:05.244] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player CT_Gabo picking up: PermanentItemEntity['Soul Crystal'/11695, l='ServerLevel[world]', x=121.85, y=65.25, z=183.13]
+[08Aug2025 20:56:05.245] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Soul Crystal'/11695, l='ServerLevel[world]', x=121.85, y=65.25, z=183.13]
+[08Aug2025 20:56:05.580] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/12062, l='ServerLevel[world]', x=30.50, y=73.00, z=164.50]
+[08Aug2025 20:56:10.693] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player CT_Gabo picking up: PermanentItemEntity['Soul Crystal'/10847, l='ServerLevel[world]', x=129.78, y=63.82, z=191.06]
+[08Aug2025 20:56:10.693] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Soul Crystal'/10847, l='ServerLevel[world]', x=129.78, y=63.82, z=191.06]
+[08Aug2025 20:56:12.682] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/12078, l='ServerLevel[world]', x=53.50, y=70.00, z=180.50]
+[08Aug2025 20:56:18.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CT_Gabo has made the advancement [A trip to the Countryside]
+[08Aug2025 20:56:33.649] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player MrSanZzZ picking up: PermanentItemEntity['Soul Crystal'/11907, l='ServerLevel[world]', x=70.87, y=63.51, z=216.10]
+[08Aug2025 20:56:33.649] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Soul Crystal'/11907, l='ServerLevel[world]', x=70.87, y=63.51, z=216.10]
+[08Aug2025 20:56:51.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MrSanZzZ: Set the weather to clear]
+[08Aug2025 20:57:20.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrSanZzZ has made the advancement [A trip to the Countryside]
+[08Aug2025 20:57:22.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrSanZzZ has made the advancement [Shards of the Past]
+[08Aug2025 20:57:40.681] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/12536, l='ServerLevel[world]', x=54.50, y=70.00, z=178.50]
+[08Aug2025 20:57:58.392] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 netherite_scrap
+[08Aug2025 20:57:58.393] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[08Aug2025 20:57:58.393] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[08Aug2025 20:59:15.334] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/13095, l='ServerLevel[world]', x=32.50, y=73.00, z=164.50]
+[08Aug2025 20:59:42.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CT_Gabo: Teleported CT_Gabo to MrSanZzZ]
+[08Aug2025 20:59:50.930] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/13250, l='ServerLevel[world]', x=-38.50, y=69.00, z=168.50]
+[08Aug2025 21:00:02.830] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/13255, l='ServerLevel[world]', x=-39.50, y=69.00, z=166.50]
+[08Aug2025 21:00:31.230] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/13412, l='ServerLevel[world]', x=-87.50, y=77.00, z=202.50]
+[08Aug2025 21:00:50.636] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting vazkii/quark/api/event/SimpleHarvestEvent$Source
+[08Aug2025 21:01:14.680] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/13521, l='ServerLevel[world]', x=-23.50, y=72.00, z=168.50]
+[08Aug2025 21:01:15.432] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/13536, l='ServerLevel[world]', x=-86.50, y=77.00, z=200.50]
+[08Aug2025 21:01:35.406] [Netty Epoll Server IO #4/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/ldtteam/structurize/network/messages/BuildToolPlacementMessage$HandlerType
+[08Aug2025 21:01:35.412] [Structurize IO Worker #0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/ldtteam/structurize/blueprints/v1/DataVersion
+[08Aug2025 21:01:35.415] [Structurize IO Worker #0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/ldtteam/structurize/util/RotationMirror
+[08Aug2025 21:01:35.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CT_Gabo has made the advancement [MineColonies]
+[08Aug2025 21:01:35.446] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/ldtteam/structurize/util/TickedWorldOperation$OperationType
+[08Aug2025 21:01:35.480] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/ldtteam/structurize/placement/StructurePlacer$Operation
+[08Aug2025 21:01:35.481] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/ldtteam/structurize/placement/AbstractBlueprintIterator$Result
+[08Aug2025 21:01:35.512] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/ldtteam/structurize/placement/BlockPlacementResult$Result
+[08Aug2025 21:01:35.932] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/ldtteam/structurize/placement/handlers/placement/IPlacementHandler$ActionProcessingResult
+[08Aug2025 21:01:42.889] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CT_Gabo lost connection: Disconnected
+[08Aug2025 21:01:42.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CT_Gabo left the game
+[08Aug2025 21:01:45.680] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/13616, l='ServerLevel[world]', x=-87.50, y=77.00, z=201.50]
+[08Aug2025 21:01:47.331] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/13617, l='ServerLevel[world]', x=-21.50, y=72.00, z=170.50]
+[08Aug2025 21:01:57.483] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 235
+[08Aug2025 21:01:57.532] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 236
+[08Aug2025 21:01:57.582] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 237
+[08Aug2025 21:01:57.630] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 238
+[08Aug2025 21:01:57.682] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 239
+[08Aug2025 21:01:57.732] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 240
+[08Aug2025 21:01:57.785] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 241
+[08Aug2025 21:01:57.833] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 242
+[08Aug2025 21:01:57.884] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 243
+[08Aug2025 21:01:57.932] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 244
+[08Aug2025 21:01:57.981] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 245
+[08Aug2025 21:01:58.031] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 246
+[08Aug2025 21:01:58.179] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 247
+[08Aug2025 21:01:58.181] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 248
+[08Aug2025 21:01:58.205] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 249
+[08Aug2025 21:01:58.295] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@1d467038
+[08Aug2025 21:01:58.305] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: CT_Gabo[/100.80.105.17:53065] logged in with entity id 13714 at (26.35301862474178, 63.0, 238.39338002645235)
+[08Aug2025 21:01:58.353] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to CT_Gabo
+[08Aug2025 21:01:58.353] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to CT_Gabo
+[08Aug2025 21:01:58.353] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to CT_Gabo
+[08Aug2025 21:01:58.353] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to CT_Gabo
+[08Aug2025 21:01:58.355] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to CT_Gabo
+[08Aug2025 21:01:58.356] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to CT_Gabo
+[08Aug2025 21:01:58.356] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to CT_Gabo
+[08Aug2025 21:01:58.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CT_Gabo joined the game
+[08Aug2025 21:01:58.534] [Server thread/INFO] [Jade/]: Syncing config to CT_Gabo (3fb4bfb0-8501-3e7b-aa30-0a039c52975b)
+[08Aug2025 21:01:58.669] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to CT_Gabo...
+[08Aug2025 21:01:58.670] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticaddons-common.omniconf
+[08Aug2025 21:01:58.670] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[08Aug2025 21:01:58.670] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to CT_Gabo
+[08Aug2025 21:02:18.591] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[08Aug2025 21:02:18.591] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[08Aug2025 21:02:18.591] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[08Aug2025 21:02:31.880] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/13882, l='ServerLevel[world]', x=-39.50, y=69.00, z=167.50]
+[08Aug2025 21:02:40.079] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/13907, l='ServerLevel[world]', x=-9.50, y=72.00, z=162.50]
+[08Aug2025 21:03:02.929] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/13968, l='ServerLevel[world]', x=-23.50, y=72.00, z=170.50]
+[08Aug2025 21:03:11.829] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/14028, l='ServerLevel[world]', x=-57.50, y=70.00, z=183.50]
+[08Aug2025 21:03:13.230] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/14031, l='ServerLevel[world]', x=18.50, y=71.00, z=176.50]
+[08Aug2025 21:03:18.629] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/14035, l='ServerLevel[world]', x=31.50, y=73.00, z=164.50]
+[08Aug2025 21:03:33.830] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/14046, l='ServerLevel[world]', x=-9.50, y=72.00, z=163.50]
+[08Aug2025 21:03:46.194] [Server thread/ERROR] [minecolonies/]: Packet error:
+java.lang.NullPointerException: Cannot invoke "com.ldtteam.structurize.storage.StructurePackMeta.getName()" because "style" is null
+	at com.minecolonies.api.tileentities.TileEntityColonyBuilding.setStructurePack(TileEntityColonyBuilding.java:531) ~[minecolonies-1.19.2-1.1.516-BETA.jar%23549!/:1.19.2-1.1.516-BETA]
+	at com.minecolonies.core.network.messages.server.DirectPlaceMessage.onExecute(DirectPlaceMessage.java:130) ~[minecolonies-1.19.2-1.1.516-BETA.jar%23549!/:1.19.2-1.1.516-BETA]
+	at com.minecolonies.core.network.messages.splitting.SplitPacketMessage.lambda$onExecute$1(SplitPacketMessage.java:142) ~[minecolonies-1.19.2-1.1.516-BETA.jar%23549!/:1.19.2-1.1.516-BETA]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18693_(BlockableEventLoop.java:68) ~[server-1.19.2-20220805.130853-srg.jar%23658!/:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.19.2-20220805.130853-srg.jar%23658!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:157) ~[server-1.19.2-20220805.130853-srg.jar%23658!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.19.2-20220805.130853-srg.jar%23658!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:763) ~[server-1.19.2-20220805.130853-srg.jar%23658!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:157) ~[server-1.19.2-20220805.130853-srg.jar%23658!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:131) ~[server-1.19.2-20220805.130853-srg.jar%23658!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:746) ~[server-1.19.2-20220805.130853-srg.jar%23658!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:740) ~[server-1.19.2-20220805.130853-srg.jar%23658!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18701_(BlockableEventLoop.java:140) ~[server-1.19.2-20220805.130853-srg.jar%23658!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:726) ~[server-1.19.2-20220805.130853-srg.jar%23658!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:658) ~[server-1.19.2-20220805.130853-srg.jar%23658!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:244) ~[server-1.19.2-20220805.130853-srg.jar%23658!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[08Aug2025 21:03:51.642] [Server thread/ERROR] [minecolonies/]: Packet error:
+java.lang.NullPointerException: Cannot invoke "com.ldtteam.structurize.storage.StructurePackMeta.getName()" because "style" is null
+	at com.minecolonies.api.tileentities.TileEntityColonyBuilding.setStructurePack(TileEntityColonyBuilding.java:531) ~[minecolonies-1.19.2-1.1.516-BETA.jar%23549!/:1.19.2-1.1.516-BETA]
+	at com.minecolonies.core.network.messages.client.CreateColonyMessage.onExecute(CreateColonyMessage.java:137) ~[minecolonies-1.19.2-1.1.516-BETA.jar%23549!/:1.19.2-1.1.516-BETA]
+	at com.minecolonies.core.network.messages.splitting.SplitPacketMessage.lambda$onExecute$1(SplitPacketMessage.java:142) ~[minecolonies-1.19.2-1.1.516-BETA.jar%23549!/:1.19.2-1.1.516-BETA]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18693_(BlockableEventLoop.java:68) ~[server-1.19.2-20220805.130853-srg.jar%23658!/:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.19.2-20220805.130853-srg.jar%23658!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:157) ~[server-1.19.2-20220805.130853-srg.jar%23658!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.19.2-20220805.130853-srg.jar%23658!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:763) ~[server-1.19.2-20220805.130853-srg.jar%23658!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:157) ~[server-1.19.2-20220805.130853-srg.jar%23658!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:131) ~[server-1.19.2-20220805.130853-srg.jar%23658!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:746) ~[server-1.19.2-20220805.130853-srg.jar%23658!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:740) ~[server-1.19.2-20220805.130853-srg.jar%23658!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18701_(BlockableEventLoop.java:140) ~[server-1.19.2-20220805.130853-srg.jar%23658!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:726) ~[server-1.19.2-20220805.130853-srg.jar%23658!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:658) ~[server-1.19.2-20220805.130853-srg.jar%23658!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:244) ~[server-1.19.2-20220805.130853-srg.jar%23658!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[08Aug2025 21:04:19.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CT_Gabo: Teleported CT_Gabo to MrSanZzZ]
+[08Aug2025 21:05:06.031] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/14246, l='ServerLevel[world]', x=-71.50, y=75.00, z=197.50]
