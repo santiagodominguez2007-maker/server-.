@@ -286,6 +286,7 @@
   },
   "enigmaticlegacy:book/soul_loss": {
     "criteria": {
+      "incompletable": "2025-08-08 20:46:54 +0000",
       "is_cursed_one": "2025-08-08 20:28:57 +0000"
     },
     "done": true
@@ -531,6 +532,12 @@
     },
     "done": false
   },
+  "enigmaticlegacy:book/relics/enigmatic_eye": {
+    "criteria": {
+      "impossible": "2025-08-08 20:45:04 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_red": {
     "criteria": {
       "has_the_recipe": "2025-08-08 20:26:55 +0000"
@@ -588,7 +595,9 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
-      "minecraft:phantom": "2025-08-08 20:34:38 +0000"
+      "minecraft:skeleton": "2025-08-08 20:43:44 +0000",
+      "minecraft:phantom": "2025-08-08 20:34:38 +0000",
+      "minecraft:zombie": "2025-08-08 20:43:00 +0000"
     },
     "done": false
   },
@@ -1159,6 +1168,12 @@
     },
     "done": true
   },
+  "byg:adventure/oh_the_biomes_youll_go": {
+    "criteria": {
+      "byg:baobab_savanna": "2025-08-08 20:44:51 +0000"
+    },
+    "done": false
+  },
   "comforts:hammock_brown_from_white": {
     "criteria": {
       "has_the_recipe": "2025-08-08 20:26:54 +0000"
@@ -1198,8 +1213,10 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "atmospheric:rainforest": "2025-08-08 20:29:46 +0000",
+      "minecraft:river": "2025-08-08 20:42:35 +0000",
       "minecraft:forest": "2025-08-08 20:28:27 +0000",
-      "minecraft:jungle": "2025-08-08 20:26:56 +0000"
+      "minecraft:jungle": "2025-08-08 20:26:56 +0000",
+      "minecraft:savanna": "2025-08-08 20:44:38 +0000"
     },
     "done": false
   },
@@ -1208,6 +1225,26 @@
       "has_the_recipe": "2025-08-08 20:26:55 +0000"
     },
     "done": true
+  },
+  "incendium:technical/on_hit": {
+    "criteria": {
+      "!bit13": "2025-08-08 20:44:13 +0000",
+      "!bit14": "2025-08-08 20:44:13 +0000",
+      "!bit11": "2025-08-08 20:44:13 +0000",
+      "!bit12": "2025-08-08 20:44:13 +0000",
+      "!bit10": "2025-08-08 20:44:13 +0000",
+      "!bit9": "2025-08-08 20:44:13 +0000",
+      "!bit8": "2025-08-08 20:44:13 +0000",
+      "!bit7": "2025-08-08 20:44:13 +0000",
+      "!bit6": "2025-08-08 20:44:13 +0000",
+      "!bit5": "2025-08-08 20:44:13 +0000",
+      "!bit4": "2025-08-08 20:44:13 +0000",
+      "!bit3": "2025-08-08 20:44:13 +0000",
+      "!bit2": "2025-08-08 20:44:13 +0000",
+      "!bit1": "2025-08-08 20:44:13 +0000",
+      "!bit0": "2025-08-08 20:44:13 +0000"
+    },
+    "done": false
   },
   "comforts:sleeping_bag_gray_from_white": {
     "criteria": {
@@ -1472,6 +1509,12 @@
   "meetyourfight:main/root": {
     "criteria": {
       "killed_something": "2025-08-08 20:34:38 +0000"
+    },
+    "done": true
+  },
+  "majruszsaccessories:adventurer_kit": {
+    "criteria": {
+      "picked_up_accessory": "2025-08-08 20:48:13 +0000"
     },
     "done": true
   },

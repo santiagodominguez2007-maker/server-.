@@ -241,6 +241,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:book/brewing/recall_potion": {
+    "criteria": {
+      "has_items": "2025-08-08 20:43:05 +0000"
+    },
+    "done": true
+  },
   "vinery:red_grape_crate": {
     "criteria": {
       "has_the_recipe": "2025-08-06 02:01:02 +0000"
@@ -282,6 +288,12 @@
       "cooked_beef": "2025-08-06 18:59:23 +0000"
     },
     "done": false
+  },
+  "enigmaticlegacy:book/misc/hunter_guidebook": {
+    "criteria": {
+      "has_the_recipe": "2025-08-08 20:43:05 +0000"
+    },
+    "done": true
   },
   "vinery:grapevine_lattice": {
     "criteria": {
@@ -365,6 +377,12 @@
   "vinery:fermentation_barrel": {
     "criteria": {
       "has_the_recipe": "2025-08-06 02:01:02 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:recipes/generic/hunter_guidebook": {
+    "criteria": {
+      "has_items": "2025-08-08 20:43:05 +0000"
     },
     "done": true
   },
@@ -477,6 +495,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-08-08 20:50:03 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:root": {
     "criteria": {
       "ars_nouveau:worn_notebook": "2025-08-06 02:01:01 +0000"
@@ -543,6 +567,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:book/relics/enigmatic_eye": {
+    "criteria": {
+      "impossible": "2025-08-08 20:45:25 +0000"
+    },
+    "done": true
+  },
   "lootr:social": {
     "criteria": {
       "opened_barrel": "2025-08-06 19:02:13 +0000",
@@ -595,6 +625,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:phantom": "2025-08-06 19:11:54 +0000",
+      "minecraft:enderman": "2025-08-08 20:43:04 +0000",
       "minecraft:zombie": "2025-08-06 18:30:16 +0000"
     },
     "done": false
@@ -695,6 +726,12 @@
     },
     "done": false
   },
+  "lootr:25loot": {
+    "criteria": {
+      "loot_stat": "2025-08-08 20:48:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/upgrade_tools": {
     "criteria": {
       "stone_pickaxe": "2025-08-06 18:37:09 +0000"
@@ -774,6 +811,12 @@
     },
     "done": false
   },
+  "enigmaticlegacy:recipes/generic/xp_scroll": {
+    "criteria": {
+      "has_items": "2025-08-08 20:43:36 +0000"
+    },
+    "done": false
+  },
   "majruszsdifficulty:game_stage_normal": {
     "criteria": {
       "is_triggered": "2025-08-06 02:01:02 +0000"
@@ -783,6 +826,12 @@
   "vinery:flower_pot": {
     "criteria": {
       "has_the_recipe": "2025-08-06 02:01:02 +0000"
+    },
+    "done": true
+  },
+  "cisco_mod:adventurer_ad": {
+    "criteria": {
+      "adventurer_ad": "2025-08-08 20:46:35 +0000"
     },
     "done": true
   },
@@ -997,6 +1046,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:recipes/generic/super_magnet_ring": {
+    "criteria": {
+      "has_items": "2025-08-08 20:43:05 +0000"
+    },
+    "done": false
+  },
   "comforts:sleeping_bag_blue_from_white": {
     "criteria": {
       "has_the_recipe": "2025-08-06 02:01:02 +0000"
@@ -1042,6 +1097,12 @@
   "minecraft:story/iron_tools": {
     "criteria": {
       "iron_pickaxe": "2025-08-06 18:43:11 +0000"
+    },
+    "done": true
+  },
+  "undead_unleashed:boo": {
+    "criteria": {
+      "boo": "2025-08-08 20:43:04 +0000"
     },
     "done": true
   },
@@ -1207,6 +1268,12 @@
     },
     "done": true
   },
+  "byg:adventure/oh_the_biomes_youll_go": {
+    "criteria": {
+      "byg:baobab_savanna": "2025-08-08 20:44:46 +0000"
+    },
+    "done": false
+  },
   "comforts:hammock_brown_from_white": {
     "criteria": {
       "has_the_recipe": "2025-08-06 02:01:02 +0000"
@@ -1231,6 +1298,12 @@
     },
     "done": false
   },
+  "endrem:main/eyes_recipe": {
+    "criteria": {
+      "eyes": "2025-08-08 20:43:05 +0000"
+    },
+    "done": true
+  },
   "enigmaticlegacy:book/accessories/ender_ring": {
     "criteria": {
       "is_cursed_one": "2025-08-06 19:05:10 +0000"
@@ -1243,7 +1316,8 @@
       "atmospheric:rainforest": "2025-08-06 02:01:03 +0000",
       "minecraft:river": "2025-08-06 19:00:50 +0000",
       "minecraft:forest": "2025-08-06 19:00:35 +0000",
-      "minecraft:jungle": "2025-08-06 02:06:40 +0000"
+      "minecraft:jungle": "2025-08-06 02:06:40 +0000",
+      "minecraft:savanna": "2025-08-08 20:44:33 +0000"
     },
     "done": false
   },
@@ -1268,6 +1342,12 @@
   "comforts:sleeping_bag_gray_from_white": {
     "criteria": {
       "has_the_recipe": "2025-08-06 02:01:02 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:recipes/generic/extradimensional_eye": {
+    "criteria": {
+      "has_items": "2025-08-08 20:43:05 +0000"
     },
     "done": true
   },
@@ -1481,6 +1561,12 @@
   "comforts:sleeping_bag_cyan_from_white": {
     "criteria": {
       "has_the_recipe": "2025-08-06 02:01:02 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/misc/extradimensional_eye": {
+    "criteria": {
+      "has_the_recipe": "2025-08-08 20:43:05 +0000"
     },
     "done": true
   },

@@ -8815,3 +8815,61 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Living
 [08Aug2025 20:43:54.100] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
 [08Aug2025 20:43:55.282] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/7495, l='ServerLevel[world]', x=20.50, y=71.00, z=177.50]
 [08Aug2025 20:44:38.836] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/IronGolem$Crackiness
+[08Aug2025 20:45:19.181] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/alexsmobs/entity/util/TerrapinTypes
+[08Aug2025 20:45:57.981] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class dev.itsmeow.whisperwoods.entity.EntityHidebehind from class dev.itsmeow.whisperwoods.imdlib.entity.EntityTypeContainer
+[08Aug2025 20:46:35.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CT_Gabo has reached the goal [Adventurer ]
+[08Aug2025 20:46:48.639] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[08Aug2025 20:46:48.639] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 wisdom_scroll
+[08Aug2025 20:46:48.640] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_block
+[08Aug2025 20:46:54.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrSanZzZ was burnt to a crisp whilst fighting Umvuthi, the Sunbird
+[08Aug2025 20:46:54.891] [Server thread/INFO] [Enigmatic Legacy/INFO]: Teared Soul Crystal from MrSanZzZ at X: 193.87528428083854, Y: 64.0, Z: 129.06583957610385
+[08Aug2025 20:47:03.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CT_Gabo: Teleported MrSanZzZ to CT_Gabo]
+[08Aug2025 20:47:09.638] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player MrSanZzZ picking up: PermanentItemEntity['Soul Crystal'/8453, l='ServerLevel[world]', x=193.88, y=65.50, z=129.07]
+[08Aug2025 20:47:09.639] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Soul Crystal'/8453, l='ServerLevel[world]', x=193.88, y=65.50, z=129.07]
+[08Aug2025 20:48:06.952] [Worker-Main1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/stal111/forbidden_arcanus/common/entity/lostsoul/LostSoul$Variant
+[08Aug2025 20:48:08.359] [Worker-Main1/WARN] [ModernFix/]: The namespace byg contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[08Aug2025 20:48:13.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrSanZzZ has reached the goal [Adventure Time]
+[08Aug2025 20:48:41.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CT_Gabo has made the advancement [Close Quarters]
+[08Aug2025 20:50:03.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CT_Gabo has made the advancement [Sweet Dreams]
+[08Aug2025 20:51:51.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrSanZzZ has reached the goal [Flawless Crystals]
+[08Aug2025 20:51:58.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CT_Gabo was slain by Iron Golem
+[08Aug2025 20:51:58.212] [Server thread/INFO] [Enigmatic Legacy/INFO]: Teared Soul Crystal from CT_Gabo at X: 116.7026940592588, Y: 62.65188046878342, Z: 188.33228394924947
+[08Aug2025 20:51:58.252] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_block
+[08Aug2025 20:51:58.252] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[08Aug2025 20:51:58.252] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_block
+[08Aug2025 20:51:58.253] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[08Aug2025 20:51:59.330] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/9885, l='ServerLevel[world]', x=18.50, y=71.00, z=177.50]
+[08Aug2025 20:52:18.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrSanZzZ has made the advancement [Close Quarters]
+[08Aug2025 20:52:22.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CT_Gabo was slain by Iron Golem
+[08Aug2025 20:52:22.339] [Server thread/INFO] [Enigmatic Legacy/INFO]: Teared Soul Crystal from CT_Gabo at X: 119.19117995060412, Y: 62.0, Z: 190.79761649570756
+[08Aug2025 20:52:51.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CT_Gabo was slain by Phantom
+[08Aug2025 20:52:51.843] [Server thread/INFO] [Enigmatic Legacy/INFO]: Teared Soul Crystal from CT_Gabo at X: 130.690108075007, Y: 59.92232924446277, Z: 188.21872573038954
+[08Aug2025 20:53:33.830] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/10309, l='ServerLevel[world]', x=32.50, y=73.00, z=165.50]
+[08Aug2025 20:53:36.881] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/10324, l='ServerLevel[world]', x=-12.50, y=70.00, z=158.50]
+[08Aug2025 20:53:40.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CT_Gabo has made the advancement [Shards of the Past]
+[08Aug2025 20:53:54.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CT_Gabo was slain by Phantom
+[08Aug2025 20:53:54.445] [Server thread/INFO] [Enigmatic Legacy/INFO]: Teared Soul Crystal from CT_Gabo at X: 120.01803637242296, Y: 62.05693825428447, Z: 193.13888559017602
+[08Aug2025 20:54:24.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CT_Gabo: Teleported MrSanZzZ to CT_Gabo]
+[08Aug2025 20:54:25.137] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CT_Gabo was slain by Phantom
+[08Aug2025 20:54:25.139] [Server thread/INFO] [Enigmatic Legacy/INFO]: Teared Soul Crystal from CT_Gabo at X: 126.49433046543034, Y: 59.576890272807226, Z: 191.85638660319384
+[08Aug2025 20:54:32.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CT_Gabo: Teleported CT_Gabo to MrSanZzZ]
+[08Aug2025 20:54:34.930] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/10836, l='ServerLevel[world]', x=31.50, y=73.00, z=166.50]
+[08Aug2025 20:54:36.189] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player CT_Gabo picking up: PermanentItemEntity['Soul Crystal'/10663, l='ServerLevel[world]', x=126.49, y=61.08, z=191.86]
+[08Aug2025 20:54:36.189] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Soul Crystal'/10663, l='ServerLevel[world]', x=126.49, y=61.08, z=191.86]
+[08Aug2025 20:54:37.889] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player CT_Gabo picking up: PermanentItemEntity['Soul Crystal'/10157, l='ServerLevel[world]', x=130.69, y=61.42, z=188.22]
+[08Aug2025 20:54:37.889] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Soul Crystal'/10157, l='ServerLevel[world]', x=130.69, y=61.42, z=188.22]
+[08Aug2025 20:54:39.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CT_Gabo was slain by Phantom
+[08Aug2025 20:54:39.714] [Server thread/INFO] [Enigmatic Legacy/INFO]: Teared Soul Crystal from CT_Gabo at X: 129.7765732008169, Y: 62.31809305660304, Z: 191.06246435938542
+[08Aug2025 20:54:43.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CT_Gabo: Teleported CT_Gabo to MrSanZzZ]
+[08Aug2025 20:54:45.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrSanZzZ was slain by Phantom
+[08Aug2025 20:54:45.441] [Server thread/INFO] [Enigmatic Legacy/INFO]: Teared Soul Crystal from MrSanZzZ at X: 109.6767680674989, Y: 62.34784641718121, Z: 213.54568111089927
+[08Aug2025 20:54:48.714] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player CT_Gabo picking up: PermanentItemEntity['Soul Crystal'/10466, l='ServerLevel[world]', x=120.02, y=63.56, z=193.14]
+[08Aug2025 20:54:48.715] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Soul Crystal'/10466, l='ServerLevel[world]', x=120.02, y=63.56, z=193.14]
+[08Aug2025 20:54:51.149] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player CT_Gabo picking up: PermanentItemEntity['Soul Crystal'/10011, l='ServerLevel[world]', x=119.19, y=63.50, z=190.80]
+[08Aug2025 20:54:51.149] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Soul Crystal'/10011, l='ServerLevel[world]', x=119.19, y=63.50, z=190.80]
+[08Aug2025 20:54:52.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CT_Gabo was slain by Phantom
+[08Aug2025 20:54:52.444] [Server thread/INFO] [Enigmatic Legacy/INFO]: Teared Soul Crystal from CT_Gabo at X: 119.34891150389952, Y: 63.23798494102905, Z: 187.3564797517788
+[08Aug2025 20:55:16.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CT_Gabo was slain by Phantom
+[08Aug2025 20:55:16.092] [Server thread/INFO] [Enigmatic Legacy/INFO]: Teared Soul Crystal from CT_Gabo at X: 130.118163035648, Y: 62.0, Z: 166.10733818239078
+[08Aug2025 20:55:17.137] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/TropicalFish$Pattern
+[08Aug2025 20:55:21.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CT_Gabo: Teleported CT_Gabo to MrSanZzZ]
