@@ -8,7 +8,7 @@
 	properties: {
 		"ftbteams:display_name": "MrSanZzZ"
 		"ftbteams:description": ""
-		"ftbteams:color": "#B2FF59"
+		"ftbteams:color": "#59C5FF"
 		"ftbteams:free_to_join": 0b
 		"ftbteams:max_msg_history_size": 1000
 		"ftbchunks:allow_explosions": 0b
