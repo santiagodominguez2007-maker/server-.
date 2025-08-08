@@ -8784,3 +8784,34 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Living
 [08Aug2025 20:34:45.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrSanZzZ has reached the goal [Worthy Equipment]
 [08Aug2025 20:34:54.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CT_Gabo has reached the goal [Worthy Equipment]
 [08Aug2025 20:34:54.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CT_Gabo has made the advancement [Suit Up]
+[08Aug2025 20:35:35.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CT_Gabo has made the advancement [Ice Bucket Challenge]
+[08Aug2025 20:35:41.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrSanZzZ has made the advancement [Disme A Dozen]
+[08Aug2025 20:36:00.734] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/5260, l='ServerLevel[world]', x=-14.50, y=70.00, z=158.50]
+[08Aug2025 20:37:08.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CT_Gabo has made the advancement [Disme A Dozen]
+[08Aug2025 20:37:12.183] [Netty Epoll Server IO #3/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/combatroll/client/RollEffect$Particles
+[08Aug2025 20:37:25.941] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Cartographer'/74, l='ServerLevel[world]', x=81.17, y=77.00, z=39.51] died, message: 'Cartographer hit the ground too hard'
+[08Aug2025 20:37:31.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrSanZzZ has made the advancement [I Found It Underground]
+[08Aug2025 20:37:31.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrSanZzZ has made the advancement [Hunt and Gather]
+[08Aug2025 20:38:13.792] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/level/NoteBlockEvent$Note
+[08Aug2025 20:38:38.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CT_Gabo was slain by MrSanZzZ
+[08Aug2025 20:38:38.736] [Server thread/INFO] [Enigmatic Legacy/INFO]: Teared Soul Crystal from CT_Gabo at X: 29.6790910161486, Y: 265.0, Z: 20.84805210637614
+[08Aug2025 20:38:44.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CT_Gabo: Teleported CT_Gabo to MrSanZzZ]
+[08Aug2025 20:38:49.136] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Toolsmith'/8, l='ServerLevel[world]', x=15.50, y=265.76, z=40.51] died, message: 'Toolsmith tried to swim in lava'
+[08Aug2025 20:38:49.344] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player CT_Gabo picking up: PermanentItemEntity['Soul Crystal'/5702, l='ServerLevel[world]', x=29.68, y=266.50, z=20.85]
+[08Aug2025 20:38:49.345] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Soul Crystal'/5702, l='ServerLevel[world]', x=29.68, y=266.50, z=20.85]
+[08Aug2025 20:39:13.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrSanZzZ has made the advancement [Acquire Hardware]
+[08Aug2025 20:40:59.436] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Toolsmith'/21, l='ServerLevel[world]', x=55.47, y=265.88, z=30.37] died, message: 'Toolsmith tried to swim in lava'
+[08Aug2025 20:42:05.185] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Toolsmith'/5, l='ServerLevel[world]', x=16.51, y=265.68, z=9.41] died, message: 'Toolsmith tried to swim in lava'
+[08Aug2025 20:42:19.204] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 netherite_scrap
+[08Aug2025 20:42:19.205] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[08Aug2025 20:42:19.205] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[08Aug2025 20:42:19.205] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[08Aug2025 20:42:36.538] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/axolotl/Axolotl$Variant
+[08Aug2025 20:43:04.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CT_Gabo has made the advancement [Boo!]
+[08Aug2025 20:43:09.231] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/7096, l='ServerLevel[world]', x=-13.50, y=70.00, z=156.50]
+[08Aug2025 20:43:35.281] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/7297, l='ServerLevel[world]', x=30.50, y=73.00, z=165.50]
+[08Aug2025 20:43:42.481] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/7389, l='ServerLevel[world]', x=-8.50, y=72.00, z=161.50]
+[08Aug2025 20:43:54.099] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[08Aug2025 20:43:54.100] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[08Aug2025 20:43:55.282] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/7495, l='ServerLevel[world]', x=20.50, y=71.00, z=177.50]
+[08Aug2025 20:44:38.836] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/IronGolem$Crackiness

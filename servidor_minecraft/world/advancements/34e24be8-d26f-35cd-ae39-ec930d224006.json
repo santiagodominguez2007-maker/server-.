@@ -5,6 +5,12 @@
     },
     "done": true
   },
+  "apotheosis:affix/rare": {
+    "criteria": {
+      "sword": "2025-08-08 20:34:45 +0000"
+    },
+    "done": true
+  },
   "enigmaticaddons:book/misc/bless_stone": {
     "criteria": {
       "has_the_recipe": "2025-08-08 20:26:55 +0000"
@@ -64,6 +70,12 @@
       "has_the_recipe": "2025-08-08 20:26:54 +0000"
     },
     "done": true
+  },
+  "enigmaticlegacy:recipes/generic/magnet_ring": {
+    "criteria": {
+      "has_parent_recipe": "2025-08-08 20:39:13 +0000"
+    },
+    "done": false
   },
   "naturescompass:natures_compass": {
     "criteria": {
@@ -140,6 +152,12 @@
   "vinery:straw_hat": {
     "criteria": {
       "has_the_recipe": "2025-08-08 20:26:55 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:recipes/generic/iron_ring": {
+    "criteria": {
+      "has_iron_ingot": "2025-08-08 20:39:13 +0000"
     },
     "done": true
   },
@@ -241,11 +259,24 @@
     },
     "done": true
   },
+  "mutantmonsters:root": {
+    "criteria": {
+      "killed_something": "2025-08-08 20:34:38 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_purple": {
     "criteria": {
       "has_the_recipe": "2025-08-08 20:26:55 +0000"
     },
     "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "apple": "2025-08-08 20:33:07 +0000",
+      "bread": "2025-08-08 20:32:53 +0000"
+    },
+    "done": false
   },
   "vinery:grapevine_lattice": {
     "criteria": {
@@ -331,6 +362,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:book/accessories/golden_ring": {
+    "criteria": {
+      "has_the_recipe": "2025-08-08 20:39:13 +0000"
+    },
+    "done": true
+  },
   "enigmaticaddons:book/accessories/chaos_elytra": {
     "criteria": {
       "has_the_recipe": "2025-08-08 20:26:55 +0000"
@@ -357,6 +394,7 @@
   },
   "enigmaticlegacy:recipes/generic/desolation_ring": {
     "criteria": {
+      "has_parent_recipe": "2025-08-08 20:39:13 +0000",
       "is_cursed_one": "2025-08-08 20:28:57 +0000"
     },
     "done": false
@@ -397,6 +435,18 @@
     },
     "done": true
   },
+  "deeperdarker:main/kill_all_sculk_mobs": {
+    "criteria": {
+      "phantom": "2025-08-08 20:34:38 +0000"
+    },
+    "done": false
+  },
+  "enigmaticlegacy:book/accessories/iron_ring": {
+    "criteria": {
+      "has_the_recipe": "2025-08-08 20:39:13 +0000"
+    },
+    "done": true
+  },
   "enigmaticlegacy:recipes/generic/soul_compass": {
     "criteria": {
       "is_cursed_one": "2025-08-08 20:28:57 +0000"
@@ -433,9 +483,27 @@
     },
     "done": true
   },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-08-08 20:32:53 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_orange": {
     "criteria": {
       "has_the_recipe": "2025-08-08 20:26:54 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/chests": {
+    "criteria": {
+      "sword": "2025-08-08 20:37:31 +0000"
+    },
+    "done": true
+  },
+  "lootr:10loot": {
+    "criteria": {
+      "loot_stat": "2025-08-08 20:35:41 +0000"
     },
     "done": true
   },
@@ -450,6 +518,18 @@
       "has_the_recipe": "2025-08-08 20:26:55 +0000"
     },
     "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2025-08-08 20:34:38 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:recipes/generic/ender_ring": {
+    "criteria": {
+      "has_parent_recipe": "2025-08-08 20:39:13 +0000"
+    },
+    "done": false
   },
   "comforts:hammock_red": {
     "criteria": {
@@ -505,6 +585,12 @@
       "has_the_recipe": "2025-08-08 20:26:54 +0000"
     },
     "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:phantom": "2025-08-08 20:34:38 +0000"
+    },
+    "done": false
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
@@ -815,9 +901,10 @@
   },
   "enigmaticlegacy:recipes/generic/golden_ring": {
     "criteria": {
+      "has_parent_recipe": "2025-08-08 20:39:13 +0000",
       "has_items": "2025-08-08 20:29:53 +0000"
     },
-    "done": false
+    "done": true
   },
   "cataclysm:root": {
     "criteria": {
@@ -891,6 +978,12 @@
     },
     "done": true
   },
+  "apotheosis:affix/gem": {
+    "criteria": {
+      "gem": "2025-08-08 20:34:20 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_green": {
     "criteria": {
       "has_the_recipe": "2025-08-08 20:26:55 +0000"
@@ -900,6 +993,12 @@
   "comforts:sleeping_bag_brown_from_white": {
     "criteria": {
       "has_the_recipe": "2025-08-08 20:26:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-08-08 20:34:21 +0000"
     },
     "done": true
   },
@@ -936,6 +1035,12 @@
   "comforts:hammock_light_blue": {
     "criteria": {
       "has_the_recipe": "2025-08-08 20:26:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-08-08 20:34:23 +0000"
     },
     "done": true
   },
@@ -993,6 +1098,12 @@
     },
     "done": true
   },
+  "knightquest:knightquest": {
+    "criteria": {
+      "requirement": "2025-08-08 20:34:40 +0000"
+    },
+    "done": true
+  },
   "explorerscompass:explorers_compass_cracked_stone_bricks": {
     "criteria": {
       "has_recipe": "2025-08-08 20:26:54 +0000",
@@ -1009,6 +1120,12 @@
   "lootr:root": {
     "criteria": {
       "always_true": "2025-08-08 20:26:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:phantom": "2025-08-08 20:34:38 +0000"
     },
     "done": true
   },
@@ -1069,6 +1186,12 @@
   "enigmaticlegacy:book/accessories/ender_ring": {
     "criteria": {
       "is_cursed_one": "2025-08-08 20:28:57 +0000"
+    },
+    "done": true
+  },
+  "byg:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-08-08 20:32:53 +0000"
     },
     "done": true
   },
@@ -1256,6 +1379,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/craft_knife": {
+    "criteria": {
+      "golden_knife": "2025-08-08 20:37:31 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_green_from_white": {
     "criteria": {
       "has_the_recipe": "2025-08-08 20:26:55 +0000"
@@ -1328,9 +1457,21 @@
     },
     "done": true
   },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2025-08-08 20:39:13 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_green": {
     "criteria": {
       "has_the_recipe": "2025-08-08 20:26:55 +0000"
+    },
+    "done": true
+  },
+  "meetyourfight:main/root": {
+    "criteria": {
+      "killed_something": "2025-08-08 20:34:38 +0000"
     },
     "done": true
   },

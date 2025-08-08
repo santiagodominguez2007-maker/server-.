@@ -5,6 +5,12 @@
     },
     "done": true
   },
+  "apotheosis:affix/rare": {
+    "criteria": {
+      "sword": "2025-08-08 20:34:54 +0000"
+    },
+    "done": true
+  },
   "enigmaticaddons:book/misc/bless_stone": {
     "criteria": {
       "has_the_recipe": "2025-08-06 02:01:02 +0000"
@@ -362,6 +368,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:book/accessories/golden_ring": {
+    "criteria": {
+      "has_the_recipe": "2025-08-08 20:37:23 +0000"
+    },
+    "done": true
+  },
   "enigmaticaddons:book/accessories/chaos_elytra": {
     "criteria": {
       "has_the_recipe": "2025-08-06 02:01:02 +0000"
@@ -388,6 +400,7 @@
   },
   "enigmaticlegacy:recipes/generic/desolation_ring": {
     "criteria": {
+      "has_parent_recipe": "2025-08-08 20:37:23 +0000",
       "is_cursed_one": "2025-08-06 19:05:10 +0000"
     },
     "done": false
@@ -409,6 +422,12 @@
       "log_spam_fixer": "2025-08-06 02:01:03 +0000"
     },
     "done": false
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_chestplate": "2025-08-08 20:34:54 +0000"
+    },
+    "done": true
   },
   "comforts:sleeping_bag_blue": {
     "criteria": {
@@ -479,6 +498,12 @@
   "minecraft:husbandry/root": {
     "criteria": {
       "consumed_item": "2025-08-06 18:43:28 +0000"
+    },
+    "done": true
+  },
+  "lootr:10loot": {
+    "criteria": {
+      "loot_stat": "2025-08-08 20:37:08 +0000"
     },
     "done": true
   },
@@ -919,9 +944,10 @@
   },
   "enigmaticlegacy:recipes/generic/golden_ring": {
     "criteria": {
-      "has_parent_recipe": "2025-08-06 18:43:03 +0000"
+      "has_parent_recipe": "2025-08-06 18:43:03 +0000",
+      "has_items": "2025-08-08 20:37:23 +0000"
     },
-    "done": false
+    "done": true
   },
   "cataclysm:root": {
     "criteria": {
@@ -1058,6 +1084,12 @@
   "comforts:hammock_light_blue": {
     "criteria": {
       "has_the_recipe": "2025-08-06 02:01:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-08-08 20:35:35 +0000"
     },
     "done": true
   },
