@@ -1,3 +1,5 @@
 [09Aug2025 00:00:01.188] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MrSanZzZ: Set own game mode to Creative Mode]
 [09Aug2025 00:00:50.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrSanZzZ has made the advancement [Your portable arsenal]
 [09Aug2025 00:02:23.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrSanZzZ has made the advancement [Master of the Brewing Stand]
+[09Aug2025 00:17:46.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MrSanZzZ: Set own game mode to Survival Mode]
+[09Aug2025 00:18:03.522] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Wallace the Undoubtable'/4363, l='ServerLevel[world]', x=-79.34, y=69.00, z=-121.38] died: Wallace the Undoubtable was slain by MrSanZzZ
