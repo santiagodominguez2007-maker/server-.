@@ -168,6 +168,12 @@
     },
     "done": true
   },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_boots": "2025-08-09 01:37:19 +0000"
+    },
+    "done": true
+  },
   "apotheosis:give_book": {
     "criteria": {
       "tick": "2025-08-09 00:19:44 +0000"
@@ -809,6 +815,12 @@
     },
     "done": false
   },
+  "enigmaticlegacy:recipes/generic/xp_scroll": {
+    "criteria": {
+      "has_items": "2025-08-09 01:40:36 +0000"
+    },
+    "done": false
+  },
   "majruszsdifficulty:game_stage_normal": {
     "criteria": {
       "is_triggered": "2025-08-09 00:19:44 +0000"
@@ -818,6 +830,12 @@
   "vinery:flower_pot": {
     "criteria": {
       "has_the_recipe": "2025-08-09 00:19:44 +0000"
+    },
+    "done": true
+  },
+  "cisco_mod:adventurer_ad": {
+    "criteria": {
+      "adventurer_ad": "2025-08-09 01:44:07 +0000"
     },
     "done": true
   },
@@ -1319,6 +1337,7 @@
     "criteria": {
       "minecraft:frozen_river": "2025-08-09 00:40:32 +0000",
       "minecraft:beach": "2025-08-09 01:01:33 +0000",
+      "minecraft:river": "2025-08-09 01:44:45 +0000",
       "minecraft:snowy_plains": "2025-08-09 00:19:44 +0000",
       "minecraft:snowy_taiga": "2025-08-09 00:59:02 +0000",
       "minecraft:cold_ocean": "2025-08-09 01:05:08 +0000",

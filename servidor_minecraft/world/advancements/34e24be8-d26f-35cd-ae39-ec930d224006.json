@@ -156,6 +156,12 @@
     },
     "done": true
   },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_boots": "2025-08-09 01:36:39 +0000"
+    },
+    "done": true
+  },
   "apotheosis:give_book": {
     "criteria": {
       "tick": "2025-08-08 23:43:24 +0000"
@@ -280,6 +286,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2025-08-09 00:50:08 +0000",
+      "cooked_beef": "2025-08-09 01:42:22 +0000",
       "bread": "2025-08-09 01:34:44 +0000",
       "golden_carrot": "2025-08-09 01:00:43 +0000"
     },
@@ -610,6 +617,7 @@
       "minecraft:vindicator": "2025-08-09 01:20:40 +0000",
       "minecraft:spider": "2025-08-08 23:52:13 +0000",
       "minecraft:phantom": "2025-08-09 01:13:36 +0000",
+      "minecraft:stray": "2025-08-09 01:43:12 +0000",
       "minecraft:zombie": "2025-08-08 23:51:42 +0000",
       "minecraft:zombie_villager": "2025-08-08 23:53:30 +0000"
     },
@@ -654,6 +662,12 @@
   "vinery:wine_rack_1": {
     "criteria": {
       "has_the_recipe": "2025-08-08 23:43:23 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/rare_gem": {
+    "criteria": {
+      "gem": "2025-08-09 01:38:48 +0000"
     },
     "done": true
   },
@@ -1328,6 +1342,26 @@
     },
     "done": true
   },
+  "incendium:technical/on_hit": {
+    "criteria": {
+      "!bit13": "2025-08-09 01:45:27 +0000",
+      "!bit14": "2025-08-09 01:45:27 +0000",
+      "!bit11": "2025-08-09 01:45:27 +0000",
+      "!bit12": "2025-08-09 01:45:27 +0000",
+      "!bit10": "2025-08-09 01:45:27 +0000",
+      "!bit9": "2025-08-09 01:45:27 +0000",
+      "!bit8": "2025-08-09 01:45:27 +0000",
+      "!bit7": "2025-08-09 01:45:27 +0000",
+      "!bit6": "2025-08-09 01:45:27 +0000",
+      "!bit5": "2025-08-09 01:45:27 +0000",
+      "!bit4": "2025-08-09 01:45:27 +0000",
+      "!bit3": "2025-08-09 01:45:27 +0000",
+      "!bit2": "2025-08-09 01:45:27 +0000",
+      "!bit1": "2025-08-09 01:45:27 +0000",
+      "!bit0": "2025-08-09 01:45:27 +0000"
+    },
+    "done": false
+  },
   "comforts:sleeping_bag_gray_from_white": {
     "criteria": {
       "has_the_recipe": "2025-08-08 23:43:23 +0000"
@@ -1501,6 +1535,12 @@
   "comforts:hammock_orange": {
     "criteria": {
       "has_the_recipe": "2025-08-08 23:43:23 +0000"
+    },
+    "done": true
+  },
+  "lootr:50loot": {
+    "criteria": {
+      "loot_stat": "2025-08-09 01:42:25 +0000"
     },
     "done": true
   },
