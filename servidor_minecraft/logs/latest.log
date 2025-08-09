@@ -3,3 +3,53 @@
 [09Aug2025 00:02:23.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrSanZzZ has made the advancement [Master of the Brewing Stand]
 [09Aug2025 00:17:46.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MrSanZzZ: Set own game mode to Survival Mode]
 [09Aug2025 00:18:03.522] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Wallace the Undoubtable'/4363, l='ServerLevel[world]', x=-79.34, y=69.00, z=-121.38] died: Wallace the Undoubtable was slain by MrSanZzZ
+[09Aug2025 00:19:42.071] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 235
+[09Aug2025 00:19:42.102] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 236
+[09Aug2025 00:19:42.151] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 237
+[09Aug2025 00:19:42.202] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 238
+[09Aug2025 00:19:42.252] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 239
+[09Aug2025 00:19:42.302] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 240
+[09Aug2025 00:19:42.352] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 241
+[09Aug2025 00:19:42.402] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 242
+[09Aug2025 00:19:42.451] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 243
+[09Aug2025 00:19:42.502] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 244
+[09Aug2025 00:19:42.553] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 245
+[09Aug2025 00:19:42.605] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 246
+[09Aug2025 00:19:43.795] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 247
+[09Aug2025 00:19:43.799] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 248
+[09Aug2025 00:19:43.814] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 249
+[09Aug2025 00:19:43.904] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@38dcd802
+[09Aug2025 00:19:43.907] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: CT_Gabo[/100.80.105.17:50240] logged in with entity id 4746 at (-101.5, 70.0, -120.5)
+[09Aug2025 00:19:43.944] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to CT_Gabo
+[09Aug2025 00:19:43.945] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to CT_Gabo
+[09Aug2025 00:19:43.945] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to CT_Gabo
+[09Aug2025 00:19:43.945] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to CT_Gabo
+[09Aug2025 00:19:43.947] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to CT_Gabo
+[09Aug2025 00:19:43.948] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to CT_Gabo
+[09Aug2025 00:19:43.948] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to CT_Gabo
+[09Aug2025 00:19:44.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CT_Gabo joined the game
+[09Aug2025 00:19:44.025] [Server thread/INFO] [insane96mcp.insanelib.InsaneLib/]: [Progressive Bosses] CT_Gabo first spawned. Set First Dragon to 1
+[09Aug2025 00:19:44.127] [Server thread/INFO] [Jade/]: Syncing config to CT_Gabo (3fb4bfb0-8501-3e7b-aa30-0a039c52975b)
+[09Aug2025 00:19:44.259] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to CT_Gabo...
+[09Aug2025 00:19:44.259] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticaddons-common.omniconf
+[09Aug2025 00:19:44.260] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[09Aug2025 00:19:44.260] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to CT_Gabo
+[09Aug2025 00:19:44.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CT_Gabo has made the advancement [Apothic Affixes]
+[09Aug2025 00:21:04.854] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / strictly:winged_elytra] from power ResourceKey[apoli:configured_power / strictly:winged]
+[09Aug2025 00:21:04.855] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / strictly:winged_flap] from power ResourceKey[apoli:configured_power / strictly:winged]
+[09Aug2025 00:21:40.453] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / cisco_rpg_origins:zephyrus_boon_major_flap] from power ResourceKey[apoli:configured_power / cisco_rpg_origins:zephyrus_boon_major]
+[09Aug2025 00:21:40.453] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / cisco_rpg_origins:zephyrus_boon_major_elytra] from power ResourceKey[apoli:configured_power / cisco_rpg_origins:zephyrus_boon_major]
+[09Aug2025 00:21:41.157] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 netherite_scrap
+[09Aug2025 00:21:41.158] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[09Aug2025 00:21:41.158] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[09Aug2025 00:21:56.124] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / origins-classes:stealth_core_silent_step] from power ResourceKey[apoli:configured_power / origins-classes:stealth_core]
+[09Aug2025 00:21:56.124] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / origins-classes:stealth_core_damage_boost] from power ResourceKey[apoli:configured_power / origins-classes:stealth_core]
+[09Aug2025 00:21:56.124] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / origins-classes:stealth_core_tick] from power ResourceKey[apoli:configured_power / origins-classes:stealth_core]
+[09Aug2025 00:21:56.125] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / origins-classes:stealth_core_overlay] from power ResourceKey[apoli:configured_power / origins-classes:stealth_core]
+[09Aug2025 00:22:37.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CT_Gabo: Teleported CT_Gabo to MrSanZzZ]
+[09Aug2025 00:22:51.050] [Worker-Main16/WARN] [ModernFix/]: The namespace dungeons_enhanced contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[09Aug2025 00:26:34.728] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CT_Gabo moved wrongly!
+[09Aug2025 00:28:48.860] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[09Aug2025 00:28:48.860] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[09Aug2025 00:28:48.861] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 wisdom_scroll
+[09Aug2025 00:28:48.861] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
