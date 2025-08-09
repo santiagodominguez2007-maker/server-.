@@ -922,3 +922,125 @@
 [09Aug2025 01:49:27.457] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
 [09Aug2025 01:49:31.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CT_Gabo has made the advancement [The Secrets of Enchanting]
 [09Aug2025 01:49:35.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrSanZzZ has made the advancement [The Secrets of Enchanting]
+[09Aug2025 01:49:38.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CT_Gabo has made the advancement [Local Librarian]
+[09Aug2025 01:49:47.358] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 netherite_scrap
+[09Aug2025 01:49:47.358] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 wisdom_scroll
+[09Aug2025 01:50:01.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VCDORITO has made the advancement [Local Librarian]
+[09Aug2025 01:50:13.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrSanZzZ has made the advancement [Local Librarian]
+[09Aug2025 01:50:14.754] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class dev.itsmeow.whisperwoods.entity.EntityMoth from class dev.itsmeow.whisperwoods.imdlib.entity.EntityTypeContainer
+[09Aug2025 01:50:14.755] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class dev.itsmeow.whisperwoods.entity.EntityMoth from class dev.itsmeow.whisperwoods.imdlib.entity.util.EntityTypeContainerContainable
+[09Aug2025 01:50:14.813] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_block
+[09Aug2025 01:50:26.069] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[09Aug2025 01:50:26.070] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[09Aug2025 01:50:26.070] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[09Aug2025 01:50:26.070] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[09Aug2025 01:50:33.254] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting alexthw/ars_elemental/common/entity/MermaidEntity$Variants
+[09Aug2025 01:50:36.900] [Worker-Main17/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[09Aug2025 01:50:36.900] [Worker-Main17/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[09Aug2025 01:50:36.900] [Worker-Main17/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[09Aug2025 01:50:36.900] [Worker-Main17/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[09Aug2025 01:50:36.900] [Worker-Main17/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[09Aug2025 01:50:36.900] [Worker-Main17/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[09Aug2025 01:50:36.900] [Worker-Main17/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[09Aug2025 01:50:38.300] [Worker-Main17/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[09Aug2025 01:50:38.300] [Worker-Main17/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[09Aug2025 01:50:38.300] [Worker-Main17/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[09Aug2025 01:50:38.300] [Worker-Main17/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[09Aug2025 01:50:45.288] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2491ms or 49 ticks behind
+[09Aug2025 01:50:46.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MrSanZzZ: Teleported MrSanZzZ to CT_Gabo]
+[09Aug2025 01:51:07.568] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 netherite_scrap
+[09Aug2025 01:51:07.568] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_block
+[09Aug2025 01:51:07.569] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[09Aug2025 01:51:25.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CT_Gabo: Teleported VCDORITO to CT_Gabo]
+[09Aug2025 01:51:35.395] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[09Aug2025 01:51:35.395] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[09Aug2025 01:51:50.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MrSanZzZ: Teleported MrSanZzZ to CT_Gabo]
+[09Aug2025 01:52:07.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CT_Gabo: Teleported MrSanZzZ to CT_Gabo]
+[09Aug2025 01:52:27.064] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MrSanZzZ moved wrongly!
+[09Aug2025 01:52:33.489] [Worker-Main17/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/hollingsworth/arsnouveau/common/entity/WildenHunter$Animations
+[09Aug2025 01:53:23.476] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 netherite_scrap
+[09Aug2025 01:53:23.477] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[09Aug2025 01:53:23.477] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 wisdom_scroll
+[09Aug2025 01:53:23.477] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[09Aug2025 01:53:43.479] [Worker-Main17/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/horse/Variant
+[09Aug2025 01:53:43.483] [Worker-Main17/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/horse/Markings
+[09Aug2025 01:53:46.340] [Worker-Main17/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-19, y=-53, z=1724}
+[09Aug2025 01:54:35.409] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2512ms or 50 ticks behind
+[09Aug2025 01:54:35.485] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/IronGolem$Crackiness
+[09Aug2025 01:54:35.770] [Worker-Main15/WARN] [ModernFix/]: The namespace betterstrongholds contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[09Aug2025 01:54:36.187] [Worker-Main15/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[09Aug2025 01:54:36.187] [Worker-Main15/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[09Aug2025 01:54:36.187] [Worker-Main15/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[09Aug2025 01:54:36.187] [Worker-Main15/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[09Aug2025 01:54:36.187] [Worker-Main15/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[09Aug2025 01:55:28.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VCDORITO was slain by Skeleton
+[09Aug2025 01:55:33.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CT_Gabo: Teleported CT_Gabo to MrSanZzZ]
+[09Aug2025 01:55:33.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CT_Gabo was slain by MrSanZzZ
+[09Aug2025 01:55:33.876] [Server thread/INFO] [Enigmatic Legacy/INFO]: Teared Soul Crystal from CT_Gabo at X: 113.76941076556736, Y: 147.5, Z: -1517.356191350652
+[09Aug2025 01:55:35.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrSanZzZ was slain by Skeleton
+[09Aug2025 01:55:37.908] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/52327, l='ServerLevel[world]', x=112.50, y=73.00, z=-864.50]
+[09Aug2025 01:55:39.039] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[09Aug2025 01:55:39.039] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[09Aug2025 01:55:43.815] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity WitherSkull['Wither Skull'/46128, l='ServerLevel[world]', x=51.69, y=223.85, z=-661.23, removed=KILLED]
+[09Aug2025 01:55:45.270] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[09Aug2025 01:55:45.271] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[09Aug2025 01:55:45.271] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[09Aug2025 01:55:45.271] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[09Aug2025 01:55:46.920] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[09Aug2025 01:55:46.920] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[09Aug2025 01:55:47.224] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 netherite_scrap
+[09Aug2025 01:55:47.225] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_block
+[09Aug2025 01:55:47.225] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[09Aug2025 01:55:47.225] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[09Aug2025 01:55:48.770] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[09Aug2025 01:55:48.770] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[09Aug2025 01:55:48.770] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[09Aug2025 01:55:48.770] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_block
+[09Aug2025 01:55:48.770] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[09Aug2025 01:55:54.211] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-71, y=-48, z=-26}
+[09Aug2025 01:56:00.318] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[09Aug2025 01:56:00.318] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_block
+[09Aug2025 01:56:00.318] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[09Aug2025 01:56:00.318] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[09Aug2025 01:56:17.367] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity WitherSkull['Wither Skull'/46128, l='ServerLevel[world]', x=51.69, y=223.85, z=-661.23, removed=KILLED]
+[09Aug2025 01:56:18.478] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[09Aug2025 01:56:18.479] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[09Aug2025 01:56:18.479] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[09Aug2025 01:56:18.479] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[09Aug2025 01:56:19.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MrSanZzZ: Teleported MrSanZzZ to CT_Gabo]
+[09Aug2025 01:56:28.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CT_Gabo: Teleported VCDORITO to CT_Gabo]
+[09Aug2025 01:56:37.310] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player CT_Gabo picking up: PermanentItemEntity['Soul Crystal'/54380, l='ServerLevel[world]', x=113.77, y=149.00, z=-1517.36]
+[09Aug2025 01:56:37.311] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Soul Crystal'/54380, l='ServerLevel[world]', x=113.77, y=149.00, z=-1517.36]
+[09Aug2025 01:56:55.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CT_Gabo was slain by MrSanZzZ
+[09Aug2025 01:56:55.020] [Server thread/INFO] [Enigmatic Legacy/INFO]: Teared Soul Crystal from CT_Gabo at X: 114.30620445356317, Y: 147.5, Z: -1518.52979383602
+[09Aug2025 01:56:59.519] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CT_Gabo: Teleported CT_Gabo to MrSanZzZ]
+[09Aug2025 01:57:02.906] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player CT_Gabo picking up: PermanentItemEntity['Soul Crystal'/55544, l='ServerLevel[world]', x=114.31, y=149.00, z=-1518.53]
+[09Aug2025 01:57:02.907] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Soul Crystal'/55544, l='ServerLevel[world]', x=114.31, y=149.00, z=-1518.53]
+[09Aug2025 01:57:15.445] [Worker-Main8/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[09Aug2025 01:57:15.445] [Worker-Main8/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[09Aug2025 01:57:15.451] [Worker-Main8/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[09Aug2025 01:57:15.454] [Worker-Main8/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[09Aug2025 01:57:15.456] [Worker-Main8/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[09Aug2025 01:57:15.456] [Worker-Main8/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[09Aug2025 01:57:16.151] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7104ms or 142 ticks behind
+[09Aug2025 01:57:40.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VCDORITO has made the advancement [Stealer of Souls]
+[09Aug2025 01:57:43.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CT_Gabo was slain by Skeleton
+[09Aug2025 01:57:43.059] [Server thread/INFO] [Enigmatic Legacy/INFO]: Teared Soul Crystal from CT_Gabo at X: 110.00471166918727, Y: 147.5, Z: -1519.0759968370855
+[09Aug2025 01:57:43.111] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[09Aug2025 01:57:43.111] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 1 is dual wielding: false
+[09Aug2025 01:57:43.111] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 1 air
+[09Aug2025 01:57:43.111] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 1 air
+[09Aug2025 01:57:43.111] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 0 | client: 0
+[09Aug2025 01:57:46.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CT_Gabo: Teleported CT_Gabo to MrSanZzZ]
+[09Aug2025 01:57:49.006] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player CT_Gabo picking up: PermanentItemEntity['Soul Crystal'/56098, l='ServerLevel[world]', x=110.00, y=149.00, z=-1519.08]
+[09Aug2025 01:57:49.006] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Soul Crystal'/56098, l='ServerLevel[world]', x=110.00, y=149.00, z=-1519.08]
+[09Aug2025 01:58:13.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VCDORITO has made the advancement [Shards of the Past]
+[09Aug2025 01:58:19.409] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/level/NoteBlockEvent$Note
+[09Aug2025 01:58:19.409] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/level/NoteBlockEvent$Octave
+[09Aug2025 01:58:25.312] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VCDORITO has made the advancement [Forged in Flames]
+[09Aug2025 01:58:46.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CT_Gabo was slain by VCDORITO
+[09Aug2025 01:58:46.251] [Server thread/INFO] [Enigmatic Legacy/INFO]: Teared Soul Crystal from CT_Gabo at X: 112.0974560115145, Y: 147.5, Z: -1517.300000011921
+[09Aug2025 01:58:51.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CT_Gabo: Teleported CT_Gabo to VCDORITO]
+[09Aug2025 01:58:52.607] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player CT_Gabo picking up: PermanentItemEntity['Soul Crystal'/56479, l='ServerLevel[world]', x=112.10, y=149.00, z=-1517.30]
+[09Aug2025 01:58:52.607] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Soul Crystal'/56479, l='ServerLevel[world]', x=112.10, y=149.00, z=-1517.30]
+[09Aug2025 01:59:15.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CT_Gabo has made the advancement [Stealer of Souls]
