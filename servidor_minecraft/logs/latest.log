@@ -227,3 +227,568 @@
 [09Aug2025 00:48:53.981] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting io/redspace/ironsspellbooks/api/spells/CastResult$Type
 [09Aug2025 00:49:03.462] [Netty Epoll Server IO #3/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/combatroll/client/RollEffect$Particles
 [09Aug2025 00:49:04.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CT_Gabo has made the advancement [Getting an Upgrade]
+[09Aug2025 00:49:28.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VCDORITO has made the advancement [Tower of Power]
+[09Aug2025 00:49:31.922] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VCDORITO has made the advancement [Not a Diamond]
+[09Aug2025 00:49:31.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VCDORITO has made the advancement [Far From Perfect]
+[09Aug2025 00:49:35.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ROMPEKUKA has made the advancement [Alex's Mobs]
+[09Aug2025 00:49:47.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VCDORITO has made the advancement ['X' Marks the Spot]
+[09Aug2025 00:49:48.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CT_Gabo: Teleported ROMPEKUKA to CT_Gabo]
+[09Aug2025 00:49:49.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VCDORITO has made the advancement [Acquire Hardware]
+[09Aug2025 00:49:50.962] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[09Aug2025 00:49:50.963] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[09Aug2025 00:50:11.515] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[09Aug2025 00:50:11.515] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[09Aug2025 00:50:11.515] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[09Aug2025 00:50:11.515] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[09Aug2025 00:50:19.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ROMPEKUKA has made the advancement ['X' Marks the Spot]
+[09Aug2025 00:50:24.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CT_Gabo: Teleported ROMPEKUKA to CT_Gabo]
+[09Aug2025 00:50:26.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VCDORITO has made the advancement [Suit Up]
+[09Aug2025 00:50:33.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CT_Gabo: Teleported MrSanZzZ to CT_Gabo]
+[09Aug2025 00:50:33.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MrSanZzZ: Teleported MrSanZzZ to CT_Gabo]
+[09Aug2025 00:50:34.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ROMPEKUKA has made the advancement [Ice Bucket Challenge]
+[09Aug2025 00:50:38.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ROMPEKUKA has made the advancement [Tools of the Trade]
+[09Aug2025 00:50:40.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ROMPEKUKA has made the advancement [I Found It Underground]
+[09Aug2025 00:51:00.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VCDORITO has reached the goal [Adventure Time]
+[09Aug2025 00:51:02.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CT_Gabo: Teleported VCDORITO to CT_Gabo]
+[09Aug2025 00:51:27.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CT_Gabo has made the advancement [Isn't It Iron Pick]
+[09Aug2025 00:51:29.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ROMPEKUKA was slain by VCDORITO
+[09Aug2025 00:51:36.133] [Worker-Main16/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[09Aug2025 00:51:36.133] [Worker-Main16/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[09Aug2025 00:51:36.133] [Worker-Main16/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[09Aug2025 00:51:36.133] [Worker-Main16/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[09Aug2025 00:51:39.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CT_Gabo: Teleported ROMPEKUKA to CT_Gabo]
+[09Aug2025 00:51:44.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ROMPEKUKA has made the advancement [Darkness Lies Ahead]
+[09Aug2025 00:51:54.804] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/monster/Phantom$AttackPhase
+[09Aug2025 00:51:59.126] [Worker-Main15/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-19, y=69, z=-151}
+[09Aug2025 00:51:59.126] [Worker-Main15/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-19, y=69, z=-150}
+[09Aug2025 00:52:08.175] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/server/commands/FillCommand$Mode
+[09Aug2025 00:52:19.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrSanZzZ was blown up by Creeper
+[09Aug2025 00:52:21.046] [Worker-Main15/WARN] [ModernFix/]: The namespace dungeons_arise contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[09Aug2025 00:52:29.074] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 netherite_scrap
+[09Aug2025 00:52:29.074] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[09Aug2025 00:52:29.074] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 wisdom_scroll
+[09Aug2025 00:52:38.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ROMPEKUKA was slain by Phantom
+[09Aug2025 00:52:38.667] [Server thread/INFO] [Enigmatic Legacy/INFO]: Teared Soul Crystal from ROMPEKUKA at X: -354.7515878734557, Y: 64.0, Z: -348.6219018812073
+[09Aug2025 00:52:40.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CT_Gabo was slain by Tarantula
+[09Aug2025 00:52:40.361] [Server thread/INFO] [Enigmatic Legacy/INFO]: Teared Soul Crystal from CT_Gabo at X: -416.95712132483624, Y: 68.0, Z: -325.51314399583634
+[09Aug2025 00:53:04.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ROMPEKUKA was blown up by Eld Bomb
+[09Aug2025 00:53:04.472] [Server thread/INFO] [Enigmatic Legacy/INFO]: Teared Soul Crystal from ROMPEKUKA at X: -62.000943035593394, Y: 67.0, Z: -133.36638220053715
+[09Aug2025 00:53:07.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CT_Gabo: Teleported ROMPEKUKA to CT_Gabo]
+[09Aug2025 00:53:10.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CT_Gabo: Teleported ROMPEKUKA to CT_Gabo]
+[09Aug2025 00:53:15.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrSanZzZ has made the advancement [Shards of the Past]
+[09Aug2025 00:53:19.125] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrSanZzZ has reached the goal [Adventure Time]
+[09Aug2025 00:53:22.420] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player CT_Gabo picking up: PermanentItemEntity['Soul Crystal'/14016, l='ServerLevel[world]', x=-416.96, y=69.50, z=-325.51]
+[09Aug2025 00:53:22.420] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Soul Crystal'/14016, l='ServerLevel[world]', x=-416.96, y=69.50, z=-325.51]
+[09Aug2025 00:53:24.520] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CT_Gabo was struck by lightning whilst fighting Tarantula
+[09Aug2025 00:53:24.522] [Server thread/INFO] [Enigmatic Legacy/INFO]: Teared Soul Crystal from CT_Gabo at X: -410.91530992020716, Y: 70.79637789683188, Z: -303.3761848863181
+[09Aug2025 00:53:32.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ROMPEKUKA was shot by Stray
+[09Aug2025 00:53:32.572] [Server thread/INFO] [Enigmatic Legacy/INFO]: Teared Soul Crystal from ROMPEKUKA at X: -365.42201495072777, Y: 70.0, Z: -285.89683062325133
+[09Aug2025 00:53:36.440] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[09Aug2025 00:53:36.440] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 wisdom_scroll
+[09Aug2025 00:53:36.441] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[09Aug2025 00:53:56.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CT_Gabo was slain by Equestrian
+[09Aug2025 00:53:56.870] [Server thread/INFO] [Enigmatic Legacy/INFO]: Teared Soul Crystal from CT_Gabo at X: -409.659249916105, Y: 67.0, Z: -303.25212854773633
+[09Aug2025 00:54:16.642] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / strictly:winged_elytra] from power ResourceKey[apoli:configured_power / strictly:winged]
+[09Aug2025 00:54:16.642] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / strictly:winged_flap] from power ResourceKey[apoli:configured_power / strictly:winged]
+[09Aug2025 00:54:28.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MrSanZzZ: Teleported MrSanZzZ to CT_Gabo]
+[09Aug2025 00:54:30.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrSanZzZ fell from a high place
+[09Aug2025 00:54:34.006] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / cisco_rpg_origins:zephyrus_boon_major_flap] from power ResourceKey[apoli:configured_power / cisco_rpg_origins:zephyrus_boon_major]
+[09Aug2025 00:54:34.006] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / cisco_rpg_origins:zephyrus_boon_major_elytra] from power ResourceKey[apoli:configured_power / cisco_rpg_origins:zephyrus_boon_major]
+[09Aug2025 00:54:34.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CT_Gabo: Teleported ROMPEKUKA to CT_Gabo]
+[09Aug2025 00:54:40.047] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / origins-classes:quality_equipment_helmet] from power ResourceKey[apoli:configured_power / origins-classes:quality_equipment]
+[09Aug2025 00:54:40.047] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / origins-classes:quality_equipment_shoes] from power ResourceKey[apoli:configured_power / origins-classes:quality_equipment]
+[09Aug2025 00:54:40.047] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / origins-classes:quality_equipment_digger] from power ResourceKey[apoli:configured_power / origins-classes:quality_equipment]
+[09Aug2025 00:54:40.047] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / origins-classes:quality_equipment_leggings] from power ResourceKey[apoli:configured_power / origins-classes:quality_equipment]
+[09Aug2025 00:54:40.047] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / origins-classes:quality_equipment_chestplate] from power ResourceKey[apoli:configured_power / origins-classes:quality_equipment]
+[09Aug2025 00:54:40.047] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / origins-classes:quality_equipment_melee] from power ResourceKey[apoli:configured_power / origins-classes:quality_equipment]
+[09Aug2025 00:54:40.047] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / origins-classes:quality_equipment_shield] from power ResourceKey[apoli:configured_power / origins-classes:quality_equipment]
+[09Aug2025 00:54:40.047] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / origins-classes:quality_equipment_range] from power ResourceKey[apoli:configured_power / origins-classes:quality_equipment]
+[09Aug2025 00:54:40.048] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / origins-classes:efficient_repairs_less_material_cost] from power ResourceKey[apoli:configured_power / origins-classes:efficient_repairs]
+[09Aug2025 00:54:40.048] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / origins-classes:efficient_repairs_more_combine_durability] from power ResourceKey[apoli:configured_power / origins-classes:efficient_repairs]
+[09Aug2025 00:54:40.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MrSanZzZ: Teleported MrSanZzZ to CT_Gabo]
+[09Aug2025 00:54:41.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrSanZzZ fell from a high place
+[09Aug2025 00:54:43.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ROMPEKUKA has made the advancement [Acquire Hardware]
+[09Aug2025 00:54:44.465] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[09Aug2025 00:54:44.466] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[09Aug2025 00:54:45.365] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player CT_Gabo picking up: PermanentItemEntity['Soul Crystal'/15234, l='ServerLevel[world]', x=-409.66, y=68.50, z=-303.25]
+[09Aug2025 00:54:45.365] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Soul Crystal'/15234, l='ServerLevel[world]', x=-409.66, y=68.50, z=-303.25]
+[09Aug2025 00:55:04.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ROMPEKUKA was slain by Phantom
+[09Aug2025 00:55:04.668] [Server thread/INFO] [Enigmatic Legacy/INFO]: Teared Soul Crystal from ROMPEKUKA at X: -349.85520139319215, Y: 64.02442408821369, Z: -360.89374777431874
+[09Aug2025 00:55:05.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrSanZzZ has made the advancement [This Must be a Sign!]
+[09Aug2025 00:55:12.924] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[09Aug2025 00:55:12.924] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 wisdom_scroll
+[09Aug2025 00:55:12.925] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_block
+[09Aug2025 00:55:17.176] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[09Aug2025 00:55:17.176] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[09Aug2025 00:55:26.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CT_Gabo: Teleported ROMPEKUKA to CT_Gabo]
+[09Aug2025 00:55:56.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrSanZzZ was slain by Royal Zombie
+[09Aug2025 00:56:19.565] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[09Aug2025 00:56:19.566] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[09Aug2025 00:56:19.566] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 wisdom_scroll
+[09Aug2025 00:56:19.566] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_block
+[09Aug2025 00:56:22.315] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=46, y=-58, z=-81}
+[09Aug2025 00:56:22.316] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=45, y=-57, z=-79}
+[09Aug2025 00:56:22.316] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=47, y=-58, z=-78}
+[09Aug2025 00:56:23.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ROMPEKUKA was doomed to fall by Necromancer
+[09Aug2025 00:56:23.876] [Server thread/INFO] [Enigmatic Legacy/INFO]: Teared Soul Crystal from ROMPEKUKA at X: -132.19538718026288, Y: 77.0, Z: -383.30000001192093
+[09Aug2025 00:56:54.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ROMPEKUKA was slain by Royal Zombie
+[09Aug2025 00:56:54.288] [Server thread/INFO] [Enigmatic Legacy/INFO]: Teared Soul Crystal from ROMPEKUKA at X: -95.5, Y: 67.0, Z: -109.5
+[09Aug2025 00:56:59.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrSanZzZ has made the advancement [Rotten King]
+[09Aug2025 00:57:00.582] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-111, y=70, z=-116}
+[09Aug2025 00:57:03.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VCDORITO has made the advancement [I Found It Underground]
+[09Aug2025 00:57:15.719] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_block
+[09Aug2025 00:57:15.719] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[09Aug2025 00:57:15.719] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[09Aug2025 00:57:25.627] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_block
+[09Aug2025 00:57:41.291] [Worker-Main15/INFO] [com.teampotato.redirector.Redirector/]: Redirecting software/bernie/ars_nouveau/geckolib3/core/builder/ILoopType$EDefaultLoopTypes
+[09Aug2025 00:57:44.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CT_Gabo has made the advancement [Brrrrrr]
+[09Aug2025 00:58:03.975] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/gossip/GossipType
+[09Aug2025 00:58:05.728] [Server thread/ERROR] [Apotheosis : Adventure/]: Failed to locate any gear sets matching the following predicates: 
+[09Aug2025 00:58:05.729] [Server thread/ERROR] [Apotheosis : Adventure/]: SetPredicate[#terrible]
+[09Aug2025 00:58:05.900] [Worker-Main8/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [3, 9], pos: BlockPos{x=54, y=39, z=159}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / aquamirae:oxygelium]
+[09Aug2025 00:58:05.900] [Worker-Main8/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [3, 9], pos: BlockPos{x=54, y=40, z=159}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / aquamirae:oxygelium]
+[09Aug2025 00:58:05.900] [Worker-Main8/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [3, 9], pos: BlockPos{x=54, y=41, z=159}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / aquamirae:oxygelium]
+[09Aug2025 00:58:11.942] [Worker-Main8/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [2, 10], pos: BlockPos{x=32, y=39, z=175}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / aquamirae:oxygelium]
+[09Aug2025 00:58:11.943] [Worker-Main8/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [2, 10], pos: BlockPos{x=37, y=39, z=175}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / aquamirae:oxygelium]
+[09Aug2025 00:58:11.943] [Worker-Main8/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [2, 10], pos: BlockPos{x=37, y=41, z=175}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / aquamirae:oxygelium]
+[09Aug2025 00:58:19.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrSanZzZ has made the advancement [You Are A Pirate]
+[09Aug2025 00:58:31.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CT_Gabo has made the advancement [Barrel Booty]
+[09Aug2025 00:58:41.478] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/player/Player$BedSleepingProblem
+[09Aug2025 00:58:41.479] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/illusivesoulworks/comforts/common/ComfortsEvents$Result
+[09Aug2025 00:58:41.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VCDORITO has made the advancement [Sweet Dreams]
+[09Aug2025 00:58:59.769] [Worker-Main8/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[09Aug2025 00:58:59.770] [Worker-Main8/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[09Aug2025 00:58:59.770] [Worker-Main8/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[09Aug2025 00:58:59.770] [Worker-Main8/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[09Aug2025 00:59:00.482] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 netherite_scrap
+[09Aug2025 00:59:00.483] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[09Aug2025 00:59:00.483] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[09Aug2025 00:59:00.483] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[09Aug2025 00:59:14.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VCDORITO has made the advancement [Isn't It Iron Pick]
+[09Aug2025 00:59:24.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CT_Gabo has made the advancement [The Lighthouse]
+[09Aug2025 00:59:27.906] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/structure/StructureCheckResult
+[09Aug2025 00:59:39.980] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12133ms or 242 ticks behind
+[09Aug2025 01:00:08.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrSanZzZ has made the advancement [Ice Maze]
+[09Aug2025 01:00:12.919] [Worker-Main8/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[09Aug2025 01:00:15.849] [Worker-Main15/WARN] [ModernFix/]: The namespace structory contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[09Aug2025 01:00:31.488] [Worker-Main8/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1329, y=109, z=1363}
+[09Aug2025 01:00:32.065] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/20623, l='ServerLevel[world]', x=105.50, y=65.00, z=104.70] died, message: 'Unemployed suffocated in a wall'
+[09Aug2025 01:00:38.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CT_Gabo has made the advancement [Sweet Dreams]
+[09Aug2025 01:00:53.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CT_Gabo: Teleported VCDORITO to CT_Gabo]
+[09Aug2025 01:00:54.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VCDORITO has made the advancement [The Lighthouse]
+[09Aug2025 01:01:27.031] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[09Aug2025 01:01:27.032] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_block
+[09Aug2025 01:01:27.032] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[09Aug2025 01:01:27.032] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[09Aug2025 01:01:35.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ROMPEKUKA was struck by lightning whilst fighting Stray
+[09Aug2025 01:01:35.734] [Server thread/INFO] [Enigmatic Legacy/INFO]: Teared Soul Crystal from ROMPEKUKA at X: -188.75593899469405, Y: 67.0, Z: -146.1303098256924
+[09Aug2025 01:01:39.145] [Worker-Main15/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[09Aug2025 01:01:39.146] [Worker-Main15/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[09Aug2025 01:01:39.146] [Worker-Main15/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[09Aug2025 01:01:39.146] [Worker-Main15/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[09Aug2025 01:01:40.824] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[09Aug2025 01:01:40.825] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_block
+[09Aug2025 01:01:40.825] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 wisdom_scroll
+[09Aug2025 01:01:41.428] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[09Aug2025 01:01:41.428] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[09Aug2025 01:01:41.428] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[09Aug2025 01:01:41.429] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_block
+[09Aug2025 01:01:41.585] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[09Aug2025 01:01:41.585] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 wisdom_scroll
+[09Aug2025 01:01:41.585] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[09Aug2025 01:01:41.792] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[09Aug2025 01:01:41.792] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[09Aug2025 01:01:41.792] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[09Aug2025 01:01:41.792] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[09Aug2025 01:01:43.686] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CT_Gabo: Teleported VCDORITO to CT_Gabo]
+[09Aug2025 01:01:44.051] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 netherite_scrap
+[09Aug2025 01:01:44.052] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[09Aug2025 01:01:44.052] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[09Aug2025 01:01:47.231] [Worker-Main8/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=39, y=2, z=-690}
+[09Aug2025 01:01:47.231] [Worker-Main8/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=39, y=11, z=-690}
+[09Aug2025 01:01:47.231] [Worker-Main8/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=39, y=5, z=-690}
+[09Aug2025 01:01:47.231] [Worker-Main8/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=38, y=7, z=-690}
+[09Aug2025 01:01:47.232] [Worker-Main8/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=40, y=3, z=-690}
+[09Aug2025 01:01:47.232] [Worker-Main8/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=38, y=3, z=-690}
+[09Aug2025 01:01:47.236] [Worker-Main8/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=39, y=9, z=-688}
+[09Aug2025 01:01:47.237] [Worker-Main8/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=38, y=10, z=-688}
+[09Aug2025 01:01:47.237] [Worker-Main8/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=40, y=6, z=-688}
+[09Aug2025 01:01:47.237] [Worker-Main8/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=39, y=2, z=-688}
+[09Aug2025 01:01:47.237] [Worker-Main8/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=11, y=-8, z=-718}
+[09Aug2025 01:01:47.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CT_Gabo: Teleported ROMPEKUKA to CT_Gabo]
+[09Aug2025 01:01:49.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ROMPEKUKA fell from a high place
+[09Aug2025 01:01:49.098] [Server thread/INFO] [Enigmatic Legacy/INFO]: Teared Soul Crystal from ROMPEKUKA at X: -101.25818888268888, Y: 63.0, Z: -883.9278274169468
+[09Aug2025 01:01:49.909] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/axolotl/Axolotl$Variant
+[09Aug2025 01:01:58.156] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/25652, l='ServerLevel[world]', x=-65.50, y=70.00, z=-798.50]
+[09Aug2025 01:02:01.557] [Worker-Main8/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=202, y=47, z=211}
+[09Aug2025 01:02:02.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CT_Gabo: Teleported ROMPEKUKA to CT_Gabo]
+[09Aug2025 01:02:02.375] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player ROMPEKUKA picking up: PermanentItemEntity['Soul Crystal'/25450, l='ServerLevel[world]', x=-101.26, y=64.50, z=-883.93]
+[09Aug2025 01:02:02.375] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Soul Crystal'/25450, l='ServerLevel[world]', x=-101.26, y=64.50, z=-883.93]
+[09Aug2025 01:02:12.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrSanZzZ has made the advancement [Barrel Booty]
+[09Aug2025 01:02:15.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrSanZzZ has made the advancement [Acquire Hardware]
+[09Aug2025 01:02:31.051] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/25905, l='ServerLevel[world]', x=-102.50, y=71.00, z=-879.50]
+[09Aug2025 01:02:40.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MrSanZzZ: Teleported MrSanZzZ to CT_Gabo]
+[09Aug2025 01:02:45.699] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/26013, l='ServerLevel[world]', x=-123.50, y=72.00, z=-859.50]
+[09Aug2025 01:02:47.800] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/26015, l='ServerLevel[world]', x=-101.50, y=71.00, z=-879.50]
+[09Aug2025 01:02:52.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ROMPEKUKA has made the advancement [Suit Up]
+[09Aug2025 01:03:17.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CT_Gabo has made the advancement [Suit Up]
+[09Aug2025 01:03:18.398] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/26049, l='ServerLevel[world]', x=-140.50, y=76.00, z=-799.50]
+[09Aug2025 01:03:56.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ROMPEKUKA has reached the goal [Worthy Equipment]
+[09Aug2025 01:04:04.351] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/26143, l='ServerLevel[world]', x=-86.50, y=73.00, z=-850.50]
+[09Aug2025 01:04:15.198] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/26174, l='ServerLevel[world]', x=16.50, y=71.00, z=-889.50]
+[09Aug2025 01:04:20.100] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/26180, l='ServerLevel[world]', x=-49.50, y=72.00, z=-878.50]
+[09Aug2025 01:04:21.050] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/26181, l='ServerLevel[world]', x=-41.50, y=73.00, z=-904.50]
+[09Aug2025 01:04:52.549] [Worker-Main15/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-19, y=-42, z=-299}
+[09Aug2025 01:05:12.160] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/entity/BeehiveBlockEntity$BeeReleaseStatus
+[09Aug2025 01:05:34.202] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/27205, l='ServerLevel[world]', x=-99.50, y=75.00, z=-806.50]
+[09Aug2025 01:05:37.514] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 netherite_scrap
+[09Aug2025 01:05:37.514] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[09Aug2025 01:05:37.514] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[09Aug2025 01:05:37.514] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_block
+[09Aug2025 01:05:42.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MrSanZzZ: Teleported MrSanZzZ to ROMPEKUKA]
+[09Aug2025 01:05:45.112] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player ROMPEKUKA picking up: PermanentItemEntity['Soul Crystal'/26838, l='ServerLevel[world]', x=-132.20, y=78.50, z=-383.30]
+[09Aug2025 01:05:45.112] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Soul Crystal'/26838, l='ServerLevel[world]', x=-132.20, y=78.50, z=-383.30]
+[09Aug2025 01:06:14.867] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player ROMPEKUKA picking up: PermanentItemEntity['Soul Crystal'/27536, l='ServerLevel[world]', x=-349.86, y=65.52, z=-360.89]
+[09Aug2025 01:06:14.867] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Soul Crystal'/27536, l='ServerLevel[world]', x=-349.86, y=65.52, z=-360.89]
+[09Aug2025 01:06:18.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MrSanZzZ: Teleported MrSanZzZ to ROMPEKUKA]
+[09Aug2025 01:06:18.959] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player ROMPEKUKA picking up: PermanentItemEntity['Soul Crystal'/27567, l='ServerLevel[world]', x=-354.75, y=65.50, z=-348.62]
+[09Aug2025 01:06:18.960] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Soul Crystal'/27567, l='ServerLevel[world]', x=-354.75, y=65.50, z=-348.62]
+[09Aug2025 01:06:30.815] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player ROMPEKUKA picking up: PermanentItemEntity['Soul Crystal'/27579, l='ServerLevel[world]', x=-365.42, y=71.50, z=-285.90]
+[09Aug2025 01:06:30.815] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Soul Crystal'/27579, l='ServerLevel[world]', x=-365.42, y=71.50, z=-285.90]
+[09Aug2025 01:06:42.711] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player CT_Gabo picking up: PermanentItemEntity['Soul Crystal'/27671, l='ServerLevel[world]', x=-410.92, y=72.30, z=-303.38]
+[09Aug2025 01:06:42.711] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Soul Crystal'/27671, l='ServerLevel[world]', x=-410.92, y=72.30, z=-303.38]
+[09Aug2025 01:06:49.717] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CT_Gabo lost connection: Disconnected
+[09Aug2025 01:06:49.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CT_Gabo left the game
+[09Aug2025 01:06:58.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MrSanZzZ: Teleported MrSanZzZ to VCDORITO]
+[09Aug2025 01:07:12.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ROMPEKUKA has made the advancement [Not a Diamond]
+[09Aug2025 01:07:53.535] [Worker-Main17/WARN] [ModernFix/]: The namespace betterdungeons contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[09Aug2025 01:07:58.412] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[09Aug2025 01:07:58.412] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[09Aug2025 01:07:58.413] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 wisdom_scroll
+[09Aug2025 01:07:58.413] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[09Aug2025 01:08:17.463] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player ROMPEKUKA picking up: PermanentItemEntity['Soul Crystal'/25058, l='ServerLevel[world]', x=-188.76, y=68.50, z=-146.13]
+[09Aug2025 01:08:17.463] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Soul Crystal'/25058, l='ServerLevel[world]', x=-188.76, y=68.50, z=-146.13]
+[09Aug2025 01:08:23.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MrSanZzZ: Teleported MrSanZzZ to ROMPEKUKA]
+[09Aug2025 01:08:33.759] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player ROMPEKUKA picking up: PermanentItemEntity['Soul Crystal'/19302, l='ServerLevel[world]', x=-95.50, y=68.50, z=-109.50]
+[09Aug2025 01:08:33.759] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Soul Crystal'/19302, l='ServerLevel[world]', x=-95.50, y=68.50, z=-109.50]
+[09Aug2025 01:08:39.165] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ROMPEKUKA was incinerated by MrSanZzZ's burning dash
+[09Aug2025 01:08:39.167] [Server thread/INFO] [Enigmatic Legacy/INFO]: Teared Soul Crystal from ROMPEKUKA at X: -83.8580451164282, Y: 69.0, Z: -106.34312370561072
+[09Aug2025 01:08:48.804] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player ROMPEKUKA picking up: PermanentItemEntity['Soul Crystal'/29195, l='ServerLevel[world]', x=-83.86, y=70.50, z=-106.34]
+[09Aug2025 01:08:48.805] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Soul Crystal'/29195, l='ServerLevel[world]', x=-83.86, y=70.50, z=-106.34]
+[09Aug2025 01:08:51.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MrSanZzZ: Teleported ROMPEKUKA to MrSanZzZ]
+[09Aug2025 01:09:46.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ROMPEKUKA has made the advancement [Monster Hunter]
+[09Aug2025 01:09:47.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VCDORITO has made the advancement [Monster Hunter]
+[09Aug2025 01:09:58.008] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player ROMPEKUKA picking up: PermanentItemEntity['Soul Crystal'/14492, l='ServerLevel[world]', x=-62.00, y=68.50, z=-133.37]
+[09Aug2025 01:09:58.008] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Soul Crystal'/14492, l='ServerLevel[world]', x=-62.00, y=68.50, z=-133.37]
+[09Aug2025 01:10:58.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MrSanZzZ: Teleported ROMPEKUKA to MrSanZzZ]
+[09Aug2025 01:11:17.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MrSanZzZ: Teleported MrSanZzZ to MrSanZzZ]
+[09Aug2025 01:11:59.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrSanZzZ has made the advancement [Sweet Dreams]
+[09Aug2025 01:12:05.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ROMPEKUKA has made the advancement [Sweet Dreams]
+[09Aug2025 01:14:53.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ROMPEKUKA was burnt to a crisp whilst fighting MrSanZzZ
+[09Aug2025 01:14:53.962] [Server thread/INFO] [Enigmatic Legacy/INFO]: Teared Soul Crystal from ROMPEKUKA at X: 85.95578177604048, Y: 130.8055465517737, Z: -241.3136091841026
+[09Aug2025 01:14:57.557] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player ROMPEKUKA picking up: PermanentItemEntity['Soul Crystal'/30925, l='ServerLevel[world]', x=85.96, y=132.31, z=-241.31]
+[09Aug2025 01:14:57.557] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Soul Crystal'/30925, l='ServerLevel[world]', x=85.96, y=132.31, z=-241.31]
+[09Aug2025 01:16:10.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MrSanZzZ: Teleported ROMPEKUKA to MrSanZzZ]
+[09Aug2025 01:17:01.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VCDORITO has made the advancement [Brrrrrr]
+[09Aug2025 01:17:03.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VCDORITO has made the advancement [Disme A Dozen]
+[09Aug2025 01:17:20.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MrSanZzZ: Teleported MrSanZzZ to VCDORITO]
+[09Aug2025 01:17:20.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrSanZzZ has made the advancement [Brrrrrr]
+[09Aug2025 01:17:39.637] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/blay09/mods/waystones/core/WaystoneEditPermissions
+[09Aug2025 01:17:41.659] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/blay09/mods/waystones/core/WarpMode
+[09Aug2025 01:17:50.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MrSanZzZ: Teleported ROMPEKUKA to MrSanZzZ]
+[09Aug2025 01:17:51.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ROMPEKUKA has made the advancement [Brrrrrr]
+[09Aug2025 01:18:10.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ROMPEKUKA fell from a high place
+[09Aug2025 01:18:10.673] [Server thread/INFO] [Enigmatic Legacy/INFO]: Teared Soul Crystal from ROMPEKUKA at X: 125.03690685752193, Y: 79.0, Z: -602.1958648330987
+[09Aug2025 01:18:50.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrSanZzZ was doomed to fall
+[09Aug2025 01:19:12.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MrSanZzZ: Teleported MrSanZzZ to VCDORITO]
+[09Aug2025 01:19:19.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MrSanZzZ: Teleported ROMPEKUKA to VCDORITO]
+[09Aug2025 01:19:47.108] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player ROMPEKUKA picking up: PermanentItemEntity['Soul Crystal'/32108, l='ServerLevel[world]', x=125.04, y=80.50, z=-602.20]
+[09Aug2025 01:19:47.108] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Soul Crystal'/32108, l='ServerLevel[world]', x=125.04, y=80.50, z=-602.20]
+[09Aug2025 01:20:28.957] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ROMPEKUKA has made the advancement [The Lighthouse]
+[09Aug2025 01:21:09.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrSanZzZ has made the advancement [The Lighthouse]
+[09Aug2025 01:21:29.277] [Worker-Main17/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=216, y=47, z=211}
+[09Aug2025 01:21:37.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrSanZzZ has made the advancement [Disme A Dozen]
+[09Aug2025 01:22:02.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MrSanZzZ: Teleported MrSanZzZ to ROMPEKUKA]
+[09Aug2025 01:22:03.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VCDORITO has made the advancement [Crops of the Wild]
+[09Aug2025 01:22:36.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MrSanZzZ: Teleported VCDORITO to MrSanZzZ]
+[09Aug2025 01:22:49.850] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/34552, l='ServerLevel[world]', x=150.50, y=72.00, z=-767.50]
+[09Aug2025 01:22:55.556] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 netherite_scrap
+[09Aug2025 01:22:55.556] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[09Aug2025 01:22:55.556] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 wisdom_scroll
+[09Aug2025 01:22:55.556] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[09Aug2025 01:23:01.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VCDORITO has made the advancement [Stone Age]
+[09Aug2025 01:23:40.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ROMPEKUKA has made the advancement [Stone Age]
+[09Aug2025 01:23:55.957] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/hollingsworth/arsnouveau/common/network/PacketANEffect$EffectType
+[09Aug2025 01:23:59.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MrSanZzZ: Teleported MrSanZzZ to ROMPEKUKA]
+[09Aug2025 01:24:15.610] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 235
+[09Aug2025 01:24:15.659] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 236
+[09Aug2025 01:24:15.723] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 237
+[09Aug2025 01:24:15.774] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 238
+[09Aug2025 01:24:15.814] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 239
+[09Aug2025 01:24:15.861] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 240
+[09Aug2025 01:24:15.916] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 241
+[09Aug2025 01:24:15.961] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 242
+[09Aug2025 01:24:16.018] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 243
+[09Aug2025 01:24:16.058] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 244
+[09Aug2025 01:24:16.117] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 245
+[09Aug2025 01:24:16.160] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 246
+[09Aug2025 01:24:16.317] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 247
+[09Aug2025 01:24:16.319] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 248
+[09Aug2025 01:24:16.325] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 249
+[09Aug2025 01:24:16.434] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@1a89ff8e
+[09Aug2025 01:24:16.447] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: CT_Gabo[/100.80.105.17:50444] logged in with entity id 34826 at (-398.22819427994784, 86.0, -336.3839638197187)
+[09Aug2025 01:24:16.481] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to CT_Gabo
+[09Aug2025 01:24:16.482] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to CT_Gabo
+[09Aug2025 01:24:16.482] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to CT_Gabo
+[09Aug2025 01:24:16.482] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to CT_Gabo
+[09Aug2025 01:24:16.483] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to CT_Gabo
+[09Aug2025 01:24:16.485] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to CT_Gabo
+[09Aug2025 01:24:16.485] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to CT_Gabo
+[09Aug2025 01:24:16.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CT_Gabo joined the game
+[09Aug2025 01:24:16.566] [Server thread/INFO] [Jade/]: Syncing config to CT_Gabo (3fb4bfb0-8501-3e7b-aa30-0a039c52975b)
+[09Aug2025 01:24:16.643] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to CT_Gabo...
+[09Aug2025 01:24:16.643] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticaddons-common.omniconf
+[09Aug2025 01:24:16.643] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[09Aug2025 01:24:16.644] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to CT_Gabo
+[09Aug2025 01:24:34.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CT_Gabo: Teleported CT_Gabo to VCDORITO]
+[09Aug2025 01:24:50.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ROMPEKUKA fell from a high place
+[09Aug2025 01:24:50.219] [Server thread/INFO] [Enigmatic Legacy/INFO]: Teared Soul Crystal from ROMPEKUKA at X: 208.62161515726885, Y: 65.0, Z: -742.31019656926
+[09Aug2025 01:25:09.057] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player ROMPEKUKA picking up: PermanentItemEntity['Soul Crystal'/35280, l='ServerLevel[world]', x=208.62, y=66.50, z=-742.31]
+[09Aug2025 01:25:09.058] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Soul Crystal'/35280, l='ServerLevel[world]', x=208.62, y=66.50, z=-742.31]
+[09Aug2025 01:25:33.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VCDORITO has made the advancement [Let's Get To Work]
+[09Aug2025 01:25:40.179] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Chicken['Evil Chicken'/32834, l='ServerLevel[world]', x=169.51, y=62.51, z=-814.68] died: Evil Chicken was slain by MrSanZzZ
+[09Aug2025 01:25:46.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VCDORITO has made the advancement [Barrel Booty]
+[09Aug2025 01:25:52.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CT_Gabo withered away whilst fighting Evil Chicken
+[09Aug2025 01:25:52.823] [Server thread/INFO] [Enigmatic Legacy/INFO]: Teared Soul Crystal from CT_Gabo at X: 163.9025085808003, Y: 63.0, Z: -809.7270213456221
+[09Aug2025 01:26:00.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CT_Gabo: Teleported CT_Gabo to VCDORITO]
+[09Aug2025 01:26:07.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CT_Gabo: Teleported CT_Gabo to VCDORITO]
+[09Aug2025 01:26:09.263] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player CT_Gabo picking up: PermanentItemEntity['Soul Crystal'/36076, l='ServerLevel[world]', x=163.90, y=64.50, z=-809.73]
+[09Aug2025 01:26:09.263] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Soul Crystal'/36076, l='ServerLevel[world]', x=163.90, y=64.50, z=-809.73]
+[09Aug2025 01:26:11.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CT_Gabo: Teleported CT_Gabo to VCDORITO]
+[09Aug2025 01:26:15.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CT_Gabo: Teleported CT_Gabo to VCDORITO]
+[09Aug2025 01:26:25.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CT_Gabo has made the advancement [Disme A Dozen]
+[09Aug2025 01:26:32.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrSanZzZ has made the advancement [Getting it Twisted]
+[09Aug2025 01:26:43.150] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/36432, l='ServerLevel[world]', x=148.50, y=72.00, z=-766.50]
+[09Aug2025 01:27:00.956] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/36549, l='ServerLevel[world]', x=96.50, y=76.00, z=-871.50]
+[09Aug2025 01:27:09.327] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[09Aug2025 01:27:09.327] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[09Aug2025 01:27:10.019] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[09Aug2025 01:27:10.020] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[09Aug2025 01:27:10.020] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[09Aug2025 01:27:10.020] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_block
+[09Aug2025 01:27:11.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CT_Gabo was slain by Zombie
+[09Aug2025 01:27:11.741] [Server thread/INFO] [Enigmatic Legacy/INFO]: Teared Soul Crystal from CT_Gabo at X: 117.82146565880093, Y: 71.0, Z: -979.8356095211079
+[09Aug2025 01:27:15.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CT_Gabo: Teleported CT_Gabo to VCDORITO]
+[09Aug2025 01:27:22.239] [Worker-Main17/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=203, y=48, z=159}
+[09Aug2025 01:27:29.216] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player CT_Gabo picking up: PermanentItemEntity['Soul Crystal'/36920, l='ServerLevel[world]', x=117.82, y=72.50, z=-979.84]
+[09Aug2025 01:27:29.216] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Soul Crystal'/36920, l='ServerLevel[world]', x=117.82, y=72.50, z=-979.84]
+[09Aug2025 01:27:30.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ROMPEKUKA has made the advancement [Crops of the Wild]
+[09Aug2025 01:27:34.700] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/37225, l='ServerLevel[world]', x=41.50, y=71.00, z=-888.50]
+[09Aug2025 01:27:38.635] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: VCDORITO moved wrongly!
+[09Aug2025 01:27:48.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrSanZzZ was slain by Zombie
+[09Aug2025 01:27:51.201] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/37615, l='ServerLevel[world]', x=112.50, y=73.00, z=-866.50]
+[09Aug2025 01:27:56.201] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/37744, l='ServerLevel[world]', x=-129.50, y=80.00, z=-814.50]
+[09Aug2025 01:27:59.952] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/37827, l='ServerLevel[world]', x=126.50, y=71.00, z=-881.50]
+[09Aug2025 01:28:00.026] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[09Aug2025 01:28:00.026] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[09Aug2025 01:28:00.026] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[09Aug2025 01:28:07.451] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/37966, l='ServerLevel[world]', x=-49.50, y=72.00, z=-880.50]
+[09Aug2025 01:28:09.301] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/37999, l='ServerLevel[world]', x=-74.50, y=73.00, z=-825.50]
+[09Aug2025 01:28:14.451] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/38082, l='ServerLevel[world]', x=70.50, y=72.00, z=-863.50]
+[09Aug2025 01:28:16.463] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 netherite_scrap
+[09Aug2025 01:28:16.463] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[09Aug2025 01:28:16.463] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[09Aug2025 01:28:18.167] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[09Aug2025 01:28:18.167] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[09Aug2025 01:28:18.167] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[09Aug2025 01:28:18.167] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[09Aug2025 01:28:18.819] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[09Aug2025 01:28:18.819] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[09Aug2025 01:28:18.820] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[09Aug2025 01:28:18.820] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[09Aug2025 01:28:20.698] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/38226, l='ServerLevel[world]', x=-123.50, y=72.00, z=-861.50]
+[09Aug2025 01:28:21.600] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/38249, l='ServerLevel[world]', x=69.50, y=72.00, z=-865.50]
+[09Aug2025 01:28:21.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CT_Gabo was slain by Zombie
+[09Aug2025 01:28:21.762] [Server thread/INFO] [Enigmatic Legacy/INFO]: Teared Soul Crystal from CT_Gabo at X: 139.69669357779213, Y: 76.5, Z: -978.3402796235757
+[09Aug2025 01:28:21.771] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[09Aug2025 01:28:21.771] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 3 is dual wielding: false
+[09Aug2025 01:28:21.771] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 1 air
+[09Aug2025 01:28:21.771] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 1 air
+[09Aug2025 01:28:21.771] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 0 | client: 0
+[09Aug2025 01:28:24.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CT_Gabo: Teleported CT_Gabo to VCDORITO]
+[09Aug2025 01:28:33.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrSanZzZ was slain by Zombie
+[09Aug2025 01:28:34.676] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 netherite_scrap
+[09Aug2025 01:28:34.676] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[09Aug2025 01:28:34.676] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[09Aug2025 01:28:34.677] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[09Aug2025 01:28:38.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CT_Gabo was slain by Zombie
+[09Aug2025 01:28:38.813] [Server thread/INFO] [Enigmatic Legacy/INFO]: Teared Soul Crystal from CT_Gabo at X: 142.22789885246095, Y: 78.0, Z: -976.625033399776
+[09Aug2025 01:28:39.550] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/39073, l='ServerLevel[world]', x=-84.50, y=73.00, z=-851.50]
+[09Aug2025 01:28:41.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CT_Gabo: Teleported CT_Gabo to VCDORITO]
+[09Aug2025 01:28:42.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MrSanZzZ: Teleported MrSanZzZ to VCDORITO]
+[09Aug2025 01:28:42.122] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_block
+[09Aug2025 01:28:42.122] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[09Aug2025 01:28:46.100] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/39194, l='ServerLevel[world]', x=97.50, y=76.00, z=-870.50]
+[09Aug2025 01:28:58.600] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/39232, l='ServerLevel[world]', x=6.50, y=69.00, z=-873.50]
+[09Aug2025 01:29:00.749] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/39240, l='ServerLevel[world]', x=18.50, y=71.00, z=-889.50]
+[09Aug2025 01:29:07.649] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/39270, l='ServerLevel[world]', x=101.50, y=73.00, z=-897.50]
+[09Aug2025 01:29:08.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrSanZzZ has made the advancement [Boo!]
+[09Aug2025 01:29:10.250] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/39283, l='ServerLevel[world]', x=43.50, y=70.00, z=-1016.50]
+[09Aug2025 01:29:13.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrSanZzZ was slain by Haunter
+[09Aug2025 01:29:15.162] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player CT_Gabo picking up: PermanentItemEntity['Soul Crystal'/38288, l='ServerLevel[world]', x=139.70, y=78.00, z=-978.34]
+[09Aug2025 01:29:15.162] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Soul Crystal'/38288, l='ServerLevel[world]', x=139.70, y=78.00, z=-978.34]
+[09Aug2025 01:29:15.479] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player CT_Gabo picking up: PermanentItemEntity['Soul Crystal'/38998, l='ServerLevel[world]', x=142.23, y=79.50, z=-976.63]
+[09Aug2025 01:29:15.479] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Soul Crystal'/38998, l='ServerLevel[world]', x=142.23, y=79.50, z=-976.63]
+[09Aug2025 01:29:19.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MrSanZzZ: Teleported MrSanZzZ to VCDORITO]
+[09Aug2025 01:29:22.950] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/39673, l='ServerLevel[world]', x=19.50, y=70.00, z=-875.50]
+[09Aug2025 01:29:25.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CT_Gabo: Teleported ROMPEKUKA to CT_Gabo]
+[09Aug2025 01:29:34.299] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/39737, l='ServerLevel[world]', x=43.50, y=70.00, z=-1014.50]
+[09Aug2025 01:29:48.375] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ROMPEKUKA moved wrongly!
+[09Aug2025 01:29:51.024] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ROMPEKUKA has made the advancement [Barrel Booty]
+[09Aug2025 01:30:10.249] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/39859, l='ServerLevel[world]', x=17.50, y=71.00, z=-889.50]
+[09Aug2025 01:30:10.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ROMPEKUKA has made the advancement [Disme A Dozen]
+[09Aug2025 01:30:11.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrSanZzZ has made the advancement [Diamonds!]
+[09Aug2025 01:30:12.561] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[09Aug2025 01:30:12.562] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[09Aug2025 01:30:12.562] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 wisdom_scroll
+[09Aug2025 01:30:12.562] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[09Aug2025 01:30:21.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CT_Gabo was slain by Zombie
+[09Aug2025 01:30:21.259] [Server thread/INFO] [Enigmatic Legacy/INFO]: Teared Soul Crystal from CT_Gabo at X: 112.24772948214388, Y: 67.0, Z: -976.3984129702569
+[09Aug2025 01:30:23.018] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[09Aug2025 01:30:23.018] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_block
+[09Aug2025 01:30:23.018] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[09Aug2025 01:30:23.018] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[09Aug2025 01:30:25.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CT_Gabo: Teleported CT_Gabo to VCDORITO]
+[09Aug2025 01:30:44.899] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/40111, l='ServerLevel[world]', x=99.50, y=71.00, z=-920.50]
+[09Aug2025 01:30:57.049] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/40124, l='ServerLevel[world]', x=24.50, y=69.00, z=-904.50]
+[09Aug2025 01:30:58.347] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/40130, l='ServerLevel[world]', x=25.50, y=69.00, z=-902.50]
+[09Aug2025 01:31:00.248] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/40132, l='ServerLevel[world]', x=111.50, y=73.00, z=-866.50]
+[09Aug2025 01:31:00.860] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player CT_Gabo picking up: PermanentItemEntity['Soul Crystal'/39901, l='ServerLevel[world]', x=112.25, y=68.50, z=-976.40]
+[09Aug2025 01:31:00.860] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Soul Crystal'/39901, l='ServerLevel[world]', x=112.25, y=68.50, z=-976.40]
+[09Aug2025 01:31:03.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MrSanZzZ: Teleported CT_Gabo to MrSanZzZ]
+[09Aug2025 01:31:06.398] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/40154, l='ServerLevel[world]', x=90.50, y=74.00, z=-870.50]
+[09Aug2025 01:31:12.748] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/40169, l='ServerLevel[world]', x=24.50, y=69.00, z=-902.50]
+[09Aug2025 01:31:14.249] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/40170, l='ServerLevel[world]', x=23.50, y=69.00, z=-904.50]
+[09Aug2025 01:31:15.613] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[09Aug2025 01:31:15.613] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[09Aug2025 01:31:15.613] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 wisdom_scroll
+[09Aug2025 01:31:24.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ROMPEKUKA has made the advancement [Knight Quest]
+[09Aug2025 01:31:24.750] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/40187, l='ServerLevel[world]', x=13.50, y=73.00, z=-1023.50]
+[09Aug2025 01:31:28.948] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/40200, l='ServerLevel[world]', x=90.50, y=74.00, z=-871.50]
+[09Aug2025 01:31:32.348] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/40204, l='ServerLevel[world]', x=13.50, y=73.00, z=-1025.50]
+[09Aug2025 01:31:33.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ROMPEKUKA has made the advancement [Boo!]
+[09Aug2025 01:31:36.799] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/40209, l='ServerLevel[world]', x=57.50, y=70.00, z=-1056.50]
+[09Aug2025 01:31:41.199] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/40222, l='ServerLevel[world]', x=99.50, y=73.00, z=-897.50]
+[09Aug2025 01:31:47.450] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/40225, l='ServerLevel[world]', x=-12.50, y=74.00, z=-1021.50]
+[09Aug2025 01:31:54.350] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/40242, l='ServerLevel[world]', x=38.50, y=71.00, z=-1057.50]
+[09Aug2025 01:31:59.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CT_Gabo has made the advancement [I Found It Underground]
+[09Aug2025 01:32:01.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VCDORITO has made the advancement [Close Quarters]
+[09Aug2025 01:32:02.299] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/40246, l='ServerLevel[world]', x=37.50, y=71.00, z=-1058.50]
+[09Aug2025 01:32:16.299] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/40265, l='ServerLevel[world]', x=77.50, y=74.00, z=-888.50]
+[09Aug2025 01:32:28.149] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/40281, l='ServerLevel[world]', x=126.50, y=71.00, z=-880.50]
+[09Aug2025 01:32:28.998] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/40283, l='ServerLevel[world]', x=91.50, y=74.00, z=-871.50]
+[09Aug2025 01:32:35.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ROMPEKUKA has reached the goal [Adventure Time]
+[09Aug2025 01:32:47.000] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/40323, l='ServerLevel[world]', x=4.50, y=73.00, z=-1020.50]
+[09Aug2025 01:33:05.548] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/40356, l='ServerLevel[world]', x=127.50, y=71.00, z=-879.50]
+[09Aug2025 01:33:09.949] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/40374, l='ServerLevel[world]', x=42.50, y=71.00, z=-888.50]
+[09Aug2025 01:33:10.599] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/40375, l='ServerLevel[world]', x=13.50, y=73.00, z=-1024.50]
+[09Aug2025 01:33:12.101] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/40376, l='ServerLevel[world]', x=59.50, y=70.00, z=-1058.50]
+[09Aug2025 01:33:14.701] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/40378, l='ServerLevel[world]', x=31.50, y=74.00, z=-1009.50]
+[09Aug2025 01:33:23.101] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/40391, l='ServerLevel[world]', x=58.50, y=70.00, z=-1058.50]
+[09Aug2025 01:33:34.600] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/40493, l='ServerLevel[world]', x=37.50, y=71.00, z=-1057.50]
+[09Aug2025 01:33:41.899] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/40505, l='ServerLevel[world]', x=52.50, y=72.00, z=-1030.50]
+[09Aug2025 01:33:42.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrSanZzZ has made the advancement [Close Quarters]
+[09Aug2025 01:33:54.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CT_Gabo has made the advancement [Close Quarters]
+[09Aug2025 01:33:58.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VCDORITO has made the advancement [Diamonds!]
+[09Aug2025 01:34:09.200] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/40558, l='ServerLevel[world]', x=44.50, y=70.00, z=-1014.50]
+[09Aug2025 01:34:12.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ROMPEKUKA has made the advancement [Diamonds!]
+[09Aug2025 01:34:15.650] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/40587, l='ServerLevel[world]', x=96.50, y=76.00, z=-872.50]
+[09Aug2025 01:34:16.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CT_Gabo has made the advancement [Knight Quest]
+[09Aug2025 01:34:20.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CT_Gabo has made the advancement [Diamonds!]
+[09Aug2025 01:34:21.700] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/40600, l='ServerLevel[world]', x=51.50, y=72.00, z=-1028.50]
+[09Aug2025 01:34:22.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrSanZzZ has made the advancement [Isn't It Iron Pick]
+[09Aug2025 01:34:25.598] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/40602, l='ServerLevel[world]', x=92.50, y=74.00, z=-869.50]
+[09Aug2025 01:34:26.498] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/40610, l='ServerLevel[world]', x=79.50, y=74.00, z=-886.50]
+[09Aug2025 01:34:28.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ROMPEKUKA has made the advancement [Close Quarters]
+[09Aug2025 01:34:46.850] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/40680, l='ServerLevel[world]', x=5.50, y=73.00, z=-1018.50]
+[09Aug2025 01:34:51.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ROMPEKUKA was slain by Zombie
+[09Aug2025 01:34:51.161] [Server thread/INFO] [Enigmatic Legacy/INFO]: Teared Soul Crystal from ROMPEKUKA at X: 129.50180724464406, Y: 64.0625, Z: -979.486761387639
+[09Aug2025 01:34:51.849] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/40764, l='ServerLevel[world]', x=3.50, y=73.00, z=-1020.50]
+[09Aug2025 01:34:59.558] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[09Aug2025 01:34:59.558] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[09Aug2025 01:35:00.602] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/41044, l='ServerLevel[world]', x=149.50, y=72.00, z=-768.50]
+[09Aug2025 01:35:12.451] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/41192, l='ServerLevel[world]', x=41.50, y=71.00, z=-1026.50]
+[09Aug2025 01:35:14.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MrSanZzZ: Teleported ROMPEKUKA to MrSanZzZ]
+[09Aug2025 01:35:17.149] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/41255, l='ServerLevel[world]', x=5.50, y=73.00, z=-1019.50]
+[09Aug2025 01:35:17.350] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/41256, l='ServerLevel[world]', x=39.50, y=71.00, z=-1028.50]
+[09Aug2025 01:35:20.057] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player ROMPEKUKA picking up: PermanentItemEntity['Soul Crystal'/40762, l='ServerLevel[world]', x=129.50, y=65.56, z=-979.49]
+[09Aug2025 01:35:20.058] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Soul Crystal'/40762, l='ServerLevel[world]', x=129.50, y=65.56, z=-979.49]
+[09Aug2025 01:35:29.548] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/41342, l='ServerLevel[world]', x=128.50, y=71.00, z=-881.50]
+[09Aug2025 01:35:44.249] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/41373, l='ServerLevel[world]', x=71.50, y=72.00, z=-863.50]
+[09Aug2025 01:35:44.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ROMPEKUKA was slain by MrSanZzZ
+[09Aug2025 01:35:44.782] [Server thread/INFO] [Enigmatic Legacy/INFO]: Teared Soul Crystal from ROMPEKUKA at X: 128.73565581781665, Y: 64.0625, Z: -976.2078925568247
+[09Aug2025 01:35:49.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VCDORITO has made the advancement [Knight Quest]
+[09Aug2025 01:35:49.511] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[09Aug2025 01:35:49.511] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[09Aug2025 01:35:49.511] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[09Aug2025 01:35:51.168] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-84, y=69, z=-117}
+[09Aug2025 01:35:51.364] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-85, y=68, z=-117}
+[09Aug2025 01:35:52.624] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-82, y=69, z=-125}
+[09Aug2025 01:35:53.013] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-80, y=69, z=-125}
+[09Aug2025 01:35:54.018] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-79, y=68, z=-124} BlockPos{x=-81, y=69, z=-128}
+[09Aug2025 01:35:57.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MrSanZzZ: Teleported ROMPEKUKA to MrSanZzZ]
+[09Aug2025 01:35:58.106] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player ROMPEKUKA picking up: PermanentItemEntity['Soul Crystal'/41414, l='ServerLevel[world]', x=128.74, y=65.56, z=-976.21]
+[09Aug2025 01:35:58.107] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Soul Crystal'/41414, l='ServerLevel[world]', x=128.74, y=65.56, z=-976.21]
+[09Aug2025 01:36:05.049] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/41687, l='ServerLevel[world]', x=39.50, y=71.00, z=-1058.50]
+[09Aug2025 01:36:05.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CT_Gabo: Teleported CT_Gabo to VCDORITO]
+[09Aug2025 01:36:06.299] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/41705, l='ServerLevel[world]', x=23.50, y=69.00, z=-902.50]
+[09Aug2025 01:36:08.499] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/41710, l='ServerLevel[world]', x=98.50, y=76.00, z=-870.50]
+[09Aug2025 01:36:10.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CT_Gabo: Teleported ROMPEKUKA to CT_Gabo]
+[09Aug2025 01:36:17.349] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/41741, l='ServerLevel[world]', x=40.50, y=73.00, z=-872.50]
+[09Aug2025 01:36:20.200] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/41750, l='ServerLevel[world]', x=39.50, y=71.00, z=-1027.50]
+[09Aug2025 01:36:26.750] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/41767, l='ServerLevel[world]', x=90.50, y=74.00, z=-869.50]
+[09Aug2025 01:36:27.350] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/41768, l='ServerLevel[world]', x=100.50, y=71.00, z=-918.50]
+[09Aug2025 01:36:28.149] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/41769, l='ServerLevel[world]', x=79.50, y=74.00, z=-888.50]
+[09Aug2025 01:36:37.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CT_Gabo withered away
+[09Aug2025 01:36:37.461] [Server thread/INFO] [Enigmatic Legacy/INFO]: Teared Soul Crystal from CT_Gabo at X: 107.30000001192093, Y: 61.0, Z: -977.2771170562359
+[09Aug2025 01:36:39.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrSanZzZ has made the advancement [Cover Me with Diamonds]
+[09Aug2025 01:36:43.999] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/41841, l='ServerLevel[world]', x=30.50, y=74.00, z=-1009.50]
+[09Aug2025 01:36:51.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ROMPEKUKA withered away
+[09Aug2025 01:36:51.310] [Server thread/INFO] [Enigmatic Legacy/INFO]: Teared Soul Crystal from ROMPEKUKA at X: 109.54480660296133, Y: 64.0, Z: -976.477106050641
+[09Aug2025 01:36:52.604] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player CT_Gabo picking up: PermanentItemEntity['Soul Crystal'/41819, l='ServerLevel[world]', x=107.30, y=62.50, z=-977.28]
+[09Aug2025 01:36:52.604] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Soul Crystal'/41819, l='ServerLevel[world]', x=107.30, y=62.50, z=-977.28]
+[09Aug2025 01:36:55.350] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/42096, l='ServerLevel[world]', x=-14.50, y=74.00, z=-1022.50]
+[09Aug2025 01:36:56.699] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting vazkii/quark/api/ICollateralMover$MoveResult
+[09Aug2025 01:37:02.304] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/42124, l='ServerLevel[world]', x=-12.50, y=74.00, z=-1023.50]
+[09Aug2025 01:37:03.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CT_Gabo: Teleported ROMPEKUKA to CT_Gabo]
+[09Aug2025 01:37:05.797] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/42128, l='ServerLevel[world]', x=23.50, y=69.00, z=-903.50]
+[09Aug2025 01:37:11.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CT_Gabo was slain by Zombie
+[09Aug2025 01:37:11.506] [Server thread/INFO] [Enigmatic Legacy/INFO]: Teared Soul Crystal from CT_Gabo at X: 114.28797133623557, Y: 61.0, Z: -977.0020737803076
+[09Aug2025 01:37:16.608] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player ROMPEKUKA picking up: PermanentItemEntity['Soul Crystal'/41887, l='ServerLevel[world]', x=109.54, y=65.50, z=-976.48]
+[09Aug2025 01:37:16.608] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Soul Crystal'/41887, l='ServerLevel[world]', x=109.54, y=65.50, z=-976.48]
+[09Aug2025 01:37:17.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CT_Gabo: Teleported ROMPEKUKA to CT_Gabo]
+[09Aug2025 01:37:19.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CT_Gabo has made the advancement [Cover Me with Diamonds]
+[09Aug2025 01:37:25.700] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/42256, l='ServerLevel[world]', x=44.50, y=70.00, z=-1016.50]
+[09Aug2025 01:37:31.298] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/42270, l='ServerLevel[world]', x=42.50, y=71.00, z=-890.50]
+[09Aug2025 01:37:32.750] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/42271, l='ServerLevel[world]', x=39.50, y=71.00, z=-1059.50]
+[09Aug2025 01:37:35.900] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/42276, l='ServerLevel[world]', x=3.50, y=73.00, z=-1018.50]
+[09Aug2025 01:37:36.358] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player CT_Gabo picking up: PermanentItemEntity['Soul Crystal'/42174, l='ServerLevel[world]', x=114.29, y=62.50, z=-977.00]
+[09Aug2025 01:37:36.358] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Soul Crystal'/42174, l='ServerLevel[world]', x=114.29, y=62.50, z=-977.00]
+[09Aug2025 01:37:46.009] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ROMPEKUKA has made the advancement [Cover Me with Diamonds]
+[09Aug2025 01:37:49.999] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/42327, l='ServerLevel[world]', x=101.50, y=73.00, z=-898.50]
+[09Aug2025 01:37:53.497] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/42328, l='ServerLevel[world]', x=39.50, y=73.00, z=-873.50]
+[09Aug2025 01:37:55.099] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/42329, l='ServerLevel[world]', x=92.50, y=74.00, z=-871.50]
+[09Aug2025 01:38:18.149] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/42387, l='ServerLevel[world]', x=17.50, y=71.00, z=-887.50]
+[09Aug2025 01:38:31.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CT_Gabo was slain by Zombie
+[09Aug2025 01:38:31.856] [Server thread/INFO] [Enigmatic Legacy/INFO]: Teared Soul Crystal from CT_Gabo at X: 126.06467653097036, Y: 72.0, Z: -978.1639334203411
+[09Aug2025 01:38:45.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VCDORITO has made the advancement [Penteconter]
+[09Aug2025 01:38:45.365] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CT_Gabo moved wrongly!
+[09Aug2025 01:38:48.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrSanZzZ has made the advancement [Far From Perfect]
+[09Aug2025 01:38:48.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CT_Gabo: Teleported ROMPEKUKA to CT_Gabo]
+[09Aug2025 01:38:51.348] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/42455, l='ServerLevel[world]', x=99.50, y=73.00, z=-898.50]
+[09Aug2025 01:38:53.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CT_Gabo was slain by Zombie
+[09Aug2025 01:38:53.705] [Server thread/INFO] [Enigmatic Legacy/INFO]: Teared Soul Crystal from CT_Gabo at X: 114.18196704562152, Y: 67.28083665125403, Z: -975.644778346029
+[09Aug2025 01:38:54.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ROMPEKUKA was slain by Zombie
+[09Aug2025 01:38:54.312] [Server thread/INFO] [Enigmatic Legacy/INFO]: Teared Soul Crystal from ROMPEKUKA at X: 114.69212878272576, Y: 67.32689665283691, Z: -975.6928936673685
+[09Aug2025 01:38:58.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CT_Gabo: Teleported ROMPEKUKA to CT_Gabo]
+[09Aug2025 01:39:08.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CT_Gabo: Teleported ROMPEKUKA to CT_Gabo]
