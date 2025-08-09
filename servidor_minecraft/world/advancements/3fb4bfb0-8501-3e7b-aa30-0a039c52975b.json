@@ -5,6 +5,12 @@
     },
     "done": true
   },
+  "apotheosis:affix/rare": {
+    "criteria": {
+      "sword": "2025-08-09 00:31:01 +0000"
+    },
+    "done": true
+  },
   "enigmaticaddons:book/misc/bless_stone": {
     "criteria": {
       "has_the_recipe": "2025-08-09 00:19:44 +0000"
@@ -58,6 +64,12 @@
       "has_the_recipe": "2025-08-09 00:19:44 +0000"
     },
     "done": true
+  },
+  "enigmaticlegacy:recipes/generic/magnet_ring": {
+    "criteria": {
+      "has_parent_recipe": "2025-08-09 00:30:47 +0000"
+    },
+    "done": false
   },
   "naturescompass:natures_compass": {
     "criteria": {
@@ -131,6 +143,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:recipes/generic/iron_ring": {
+    "criteria": {
+      "has_iron_ingot": "2025-08-09 00:30:47 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_black": {
     "criteria": {
       "has_the_recipe": "2025-08-09 00:19:44 +0000"
@@ -159,6 +177,12 @@
     "criteria": {
       "has_recipe": "2025-08-09 00:19:44 +0000",
       "has_cobweb": "2025-08-09 00:19:44 +0000"
+    },
+    "done": true
+  },
+  "lootr:1chest": {
+    "criteria": {
+      "opened_chest": "2025-08-09 00:30:43 +0000"
     },
     "done": true
   },
@@ -201,6 +225,12 @@
   "vinery:cherry_slab": {
     "criteria": {
       "has_the_recipe": "2025-08-09 00:19:44 +0000"
+    },
+    "done": true
+  },
+  "apotheotic_additions:main/tower": {
+    "criteria": {
+      "enter_tower": "2025-08-09 00:30:12 +0000"
     },
     "done": true
   },
@@ -300,6 +330,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:book/accessories/golden_ring": {
+    "criteria": {
+      "has_the_recipe": "2025-08-09 00:30:47 +0000"
+    },
+    "done": true
+  },
   "enigmaticaddons:book/accessories/chaos_elytra": {
     "criteria": {
       "has_the_recipe": "2025-08-09 00:19:44 +0000"
@@ -323,6 +359,12 @@
       "has_the_recipe": "2025-08-09 00:19:44 +0000"
     },
     "done": true
+  },
+  "enigmaticlegacy:recipes/generic/desolation_ring": {
+    "criteria": {
+      "has_parent_recipe": "2025-08-09 00:30:47 +0000"
+    },
+    "done": false
   },
   "takesapillage:root": {
     "criteria": {
@@ -351,6 +393,12 @@
   "vinery:spruce_wine_rack_big": {
     "criteria": {
       "has_the_recipe": "2025-08-09 00:19:44 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/accessories/iron_ring": {
+    "criteria": {
+      "has_the_recipe": "2025-08-09 00:30:47 +0000"
     },
     "done": true
   },
@@ -396,11 +444,23 @@
     },
     "done": true
   },
+  "enigmaticlegacy:recipes/generic/ender_ring": {
+    "criteria": {
+      "has_parent_recipe": "2025-08-09 00:30:47 +0000"
+    },
+    "done": false
+  },
   "comforts:hammock_red": {
     "criteria": {
       "has_the_recipe": "2025-08-09 00:19:44 +0000"
     },
     "done": true
+  },
+  "lootr:social": {
+    "criteria": {
+      "opened_chest": "2025-08-09 00:30:43 +0000"
+    },
+    "done": false
   },
   "vinery:cherry_door": {
     "criteria": {
@@ -471,6 +531,12 @@
   "vinery:wine_rack_1": {
     "criteria": {
       "has_the_recipe": "2025-08-09 00:19:44 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/rare_gem": {
+    "criteria": {
+      "gem": "2025-08-09 00:29:30 +0000"
     },
     "done": true
   },
@@ -720,6 +786,13 @@
     },
     "done": true
   },
+  "enigmaticlegacy:recipes/generic/golden_ring": {
+    "criteria": {
+      "has_parent_recipe": "2025-08-09 00:30:47 +0000",
+      "has_items": "2025-08-09 00:30:47 +0000"
+    },
+    "done": true
+  },
   "cataclysm:root": {
     "criteria": {
       "custom_test_name": "2025-08-09 00:19:44 +0000"
@@ -789,6 +862,12 @@
   "vinery:wine_bottle": {
     "criteria": {
       "has_the_recipe": "2025-08-09 00:19:44 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/gem": {
+    "criteria": {
+      "gem": "2025-08-09 00:29:25 +0000"
     },
     "done": true
   },
@@ -1175,6 +1254,12 @@
   "enigmaticaddons:book/misc/bless_amplifier": {
     "criteria": {
       "has_the_recipe": "2025-08-09 00:19:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2025-08-09 00:30:47 +0000"
     },
     "done": true
   },

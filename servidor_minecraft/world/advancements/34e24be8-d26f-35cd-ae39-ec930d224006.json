@@ -168,6 +168,12 @@
     },
     "done": true
   },
+  "lootr:1chest": {
+    "criteria": {
+      "opened_chest": "2025-08-09 00:30:45 +0000"
+    },
+    "done": true
+  },
   "enigmaticlegacy:recipes/generic/infernal_shield": {
     "criteria": {
       "has_parent_recipe": "2025-08-08 23:43:23 +0000"
@@ -198,6 +204,12 @@
     },
     "done": true
   },
+  "immersive_armors:recipes/misc/slime": {
+    "criteria": {
+      "has_item": "2025-08-09 00:30:55 +0000"
+    },
+    "done": true
+  },
   "enigmaticaddons:book/materials/pure_heart": {
     "criteria": {
       "has_the_recipe": "2025-08-08 23:43:23 +0000"
@@ -207,6 +219,12 @@
   "vinery:cherry_slab": {
     "criteria": {
       "has_the_recipe": "2025-08-08 23:43:23 +0000"
+    },
+    "done": true
+  },
+  "apotheotic_additions:main/tower": {
+    "criteria": {
+      "enter_tower": "2025-08-09 00:30:26 +0000"
     },
     "done": true
   },
@@ -390,6 +408,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-08-09 00:26:18 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_orange": {
     "criteria": {
       "has_the_recipe": "2025-08-08 23:43:23 +0000"
@@ -425,6 +449,12 @@
       "has_the_recipe": "2025-08-08 23:43:23 +0000"
     },
     "done": true
+  },
+  "lootr:social": {
+    "criteria": {
+      "opened_chest": "2025-08-09 00:30:45 +0000"
+    },
+    "done": false
   },
   "vinery:cherry_door": {
     "criteria": {
@@ -481,6 +511,12 @@
       "log_spam_fixer": "2025-08-08 23:43:24 +0000"
     },
     "done": false
+  },
+  "apotheosis:affix/mythic_gem": {
+    "criteria": {
+      "gem": "2025-08-09 00:31:11 +0000"
+    },
+    "done": true
   },
   "ars_elemental:caster_bag": {
     "criteria": {
@@ -605,6 +641,12 @@
   "enigmaticaddons:book/accessories/earth_promise": {
     "criteria": {
       "has_the_recipe": "2025-08-08 23:43:23 +0000"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/wooden": {
+    "criteria": {
+      "has_item": "2025-08-09 00:28:55 +0000"
     },
     "done": true
   },
@@ -769,6 +811,12 @@
       "has_the_recipe": "2025-08-08 23:43:23 +0000"
     },
     "done": true
+  },
+  "enigmaticlegacy:recipes/generic/golden_ring": {
+    "criteria": {
+      "has_items": "2025-08-09 00:30:53 +0000"
+    },
+    "done": false
   },
   "cataclysm:root": {
     "criteria": {
@@ -950,6 +998,12 @@
     },
     "done": true
   },
+  "twilightforest:twilight_dinner": {
+    "criteria": {
+      "cooked_meef": "2025-08-09 00:26:18 +0000"
+    },
+    "done": false
+  },
   "knightquest:knightquest": {
     "criteria": {
       "requirement": "2025-08-08 23:52:13 +0000"
@@ -1032,6 +1086,12 @@
   "vinery:vinemaker_apron": {
     "criteria": {
       "has_the_recipe": "2025-08-08 23:43:23 +0000"
+    },
+    "done": true
+  },
+  "byg:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-08-09 00:26:18 +0000"
     },
     "done": true
   },
@@ -1158,6 +1218,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:book/misc/animal_guidebook": {
+    "criteria": {
+      "has_the_recipe": "2025-08-09 00:30:59 +0000"
+    },
+    "done": true
+  },
   "enigmaticaddons:book/accessories/quartz_ring": {
     "criteria": {
       "has_the_recipe": "2025-08-08 23:43:23 +0000"
@@ -1233,6 +1299,12 @@
   "comforts:hammock_brown": {
     "criteria": {
       "has_the_recipe": "2025-08-08 23:43:23 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:recipes/generic/animal_guidebook": {
+    "criteria": {
+      "has_items": "2025-08-09 00:30:59 +0000"
     },
     "done": true
   },

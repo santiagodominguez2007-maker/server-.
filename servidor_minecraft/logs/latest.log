@@ -53,3 +53,39 @@
 [09Aug2025 00:28:48.860] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
 [09Aug2025 00:28:48.861] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 wisdom_scroll
 [09Aug2025 00:28:48.861] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[09Aug2025 00:29:07.079] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/renderdata/TankPosition
+[09Aug2025 00:29:09.278] [Worker-Main16/WARN] [ModernFix/]: The namespace totw_modded contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[09Aug2025 00:29:12.613] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/citadel/animation/AnimationHandler
+[09Aug2025 00:29:22.449] [Worker-Main17/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=203, y=48, z=159}
+[09Aug2025 00:29:25.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CT_Gabo has made the advancement [Not a Diamond]
+[09Aug2025 00:29:26.378] [Worker-Main16/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/Fox$Type
+[09Aug2025 00:29:30.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CT_Gabo has made the advancement [Far From Perfect]
+[09Aug2025 00:29:48.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CT_Gabo: Teleported MrSanZzZ to CT_Gabo]
+[09Aug2025 00:30:02.563] [Worker-Main16/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[09Aug2025 00:30:02.564] [Worker-Main16/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[09Aug2025 00:30:02.564] [Worker-Main16/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[09Aug2025 00:30:02.564] [Worker-Main16/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[09Aug2025 00:30:04.878] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CT_Gabo moved wrongly!
+[09Aug2025 00:30:12.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CT_Gabo has made the advancement [Tower of Power]
+[09Aug2025 00:30:26.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CT_Gabo: Teleported MrSanZzZ to CT_Gabo]
+[09Aug2025 00:30:26.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrSanZzZ has made the advancement [Tower of Power]
+[09Aug2025 00:30:43.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CT_Gabo has made the advancement ['X' Marks the Spot]
+[09Aug2025 00:30:43.650] [Server thread/INFO] [mixin/]: Mixing MixinPiglinTasks from enigmaticlegacy.mixins.json into net.minecraft.world.entity.monster.piglin.PiglinAi
+[09Aug2025 00:30:43.651] [Server thread/INFO] [mixin/]: Renaming synthetic method lambda$onPiglinBarter$0(Ljava/util/List;Lnet/minecraft/world/item/ItemStack;)V to md01ad8d$lambda$onPiglinBarter$0$2 in enigmaticlegacy.mixins.json:MixinPiglinTasks
+[09Aug2025 00:30:45.123] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting vazkii/quark/base/handler/SortingHandler$ItemType
+[09Aug2025 00:30:45.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrSanZzZ has made the advancement ['X' Marks the Spot]
+[09Aug2025 00:30:47.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CT_Gabo has made the advancement [Acquire Hardware]
+[09Aug2025 00:31:01.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CT_Gabo has reached the goal [Worthy Equipment]
+[09Aug2025 00:31:11.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrSanZzZ has reached the goal [Flawless Crystals]
+[09Aug2025 00:34:06.809] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[09Aug2025 00:34:06.809] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[09Aug2025 00:34:06.809] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[09Aug2025 00:36:02.943] [Worker-Main16/WARN] [ModernFix/]: The namespace byg contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[09Aug2025 00:36:21.329] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=46, y=-58, z=-81}
+[09Aug2025 00:36:21.330] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=45, y=-57, z=-79}
+[09Aug2025 00:36:21.330] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=47, y=-58, z=-78}
+[09Aug2025 00:36:22.064] [Worker-Main17/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=202, y=47, z=211}
+[09Aug2025 00:36:22.089] [Worker-Main16/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-129, y=8, z=234}
+[09Aug2025 00:38:19.739] [Netty Epoll Server IO #5/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/bettercombat/logic/AnimatedHand
+[09Aug2025 00:38:41.873] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CT_Gabo moved wrongly!
+[09Aug2025 00:38:52.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CT_Gabo has made the advancement [Rotten King]
