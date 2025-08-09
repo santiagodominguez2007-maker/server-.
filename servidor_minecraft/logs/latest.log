@@ -89,3 +89,141 @@
 [09Aug2025 00:38:19.739] [Netty Epoll Server IO #5/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/bettercombat/logic/AnimatedHand
 [09Aug2025 00:38:41.873] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CT_Gabo moved wrongly!
 [09Aug2025 00:38:52.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CT_Gabo has made the advancement [Rotten King]
+[09Aug2025 00:39:25.919] [Worker-Main8/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1329, y=109, z=1363}
+[09Aug2025 00:39:44.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CT_Gabo: Teleported MrSanZzZ to CT_Gabo]
+[09Aug2025 00:40:04.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CT_Gabo has made the advancement [Monster Hunter]
+[09Aug2025 00:40:05.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CT_Gabo has made the advancement [How'd You Get This?]
+[09Aug2025 00:41:17.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CT_Gabo has made the advancement [Boo!]
+[09Aug2025 00:41:33.872] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CT_Gabo moved wrongly!
+[09Aug2025 00:42:11.756] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[09Aug2025 00:42:11.757] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[09Aug2025 00:42:11.757] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[09Aug2025 00:42:31.260] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[09Aug2025 00:42:31.260] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_block
+[09Aug2025 00:42:31.260] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[09Aug2025 00:43:03.425] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 235
+[09Aug2025 00:43:03.473] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 236
+[09Aug2025 00:43:03.523] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 237
+[09Aug2025 00:43:03.578] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 238
+[09Aug2025 00:43:03.623] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 239
+[09Aug2025 00:43:03.673] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 240
+[09Aug2025 00:43:03.722] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 241
+[09Aug2025 00:43:03.772] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 242
+[09Aug2025 00:43:03.824] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 243
+[09Aug2025 00:43:03.873] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 244
+[09Aug2025 00:43:03.921] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 245
+[09Aug2025 00:43:03.970] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 246
+[09Aug2025 00:43:04.176] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 247
+[09Aug2025 00:43:04.180] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 248
+[09Aug2025 00:43:04.187] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 249
+[09Aug2025 00:43:04.256] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@4e415854
+[09Aug2025 00:43:04.258] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: VCDORITO[/100.104.190.66:50322] logged in with entity id 8597 at (-92.5, 69.0, -115.5)
+[09Aug2025 00:43:04.305] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to VCDORITO
+[09Aug2025 00:43:04.305] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to VCDORITO
+[09Aug2025 00:43:04.305] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to VCDORITO
+[09Aug2025 00:43:04.305] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to VCDORITO
+[09Aug2025 00:43:04.306] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to VCDORITO
+[09Aug2025 00:43:04.308] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to VCDORITO
+[09Aug2025 00:43:04.308] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to VCDORITO
+[09Aug2025 00:43:04.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VCDORITO joined the game
+[09Aug2025 00:43:04.370] [Server thread/INFO] [insane96mcp.insanelib.InsaneLib/]: [Progressive Bosses] VCDORITO first spawned. Set First Dragon to 1
+[09Aug2025 00:43:04.421] [Server thread/INFO] [Jade/]: Syncing config to VCDORITO (c18f23c2-90a9-32c9-be3c-21526b4e6d23)
+[09Aug2025 00:43:04.572] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to VCDORITO...
+[09Aug2025 00:43:04.573] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticaddons-common.omniconf
+[09Aug2025 00:43:04.575] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[09Aug2025 00:43:04.575] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to VCDORITO
+[09Aug2025 00:43:04.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VCDORITO has made the advancement [Apothic Affixes]
+[09Aug2025 00:43:40.213] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[09Aug2025 00:43:40.213] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[09Aug2025 00:43:40.213] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[09Aug2025 00:43:40.214] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_block
+[09Aug2025 00:44:03.834] [Worker-Main17/WARN] [ModernFix/]: The namespace minecolonies contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[09Aug2025 00:44:12.518] [Worker-Main17/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[09Aug2025 00:44:12.518] [Worker-Main17/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[09Aug2025 00:44:12.518] [Worker-Main17/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[09Aug2025 00:44:12.518] [Worker-Main17/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[09Aug2025 00:44:26.985] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 netherite_scrap
+[09Aug2025 00:44:26.986] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[09Aug2025 00:44:26.986] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[09Aug2025 00:44:26.986] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_block
+[09Aug2025 00:45:17.922] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CT_Gabo: Teleported MrSanZzZ to CT_Gabo]
+[09Aug2025 00:45:50.964] [Worker-Main8/WARN] [ModernFix/]: The namespace repurposed_structures contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[09Aug2025 00:45:51.423] [Worker-Main8/WARN] [ModernFix/]: The namespace savage_and_ravage contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[09Aug2025 00:46:02.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CT_Gabo: Teleported MrSanZzZ to CT_Gabo]
+[09Aug2025 00:46:07.313] [Worker-Main15/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[09Aug2025 00:46:07.313] [Worker-Main15/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[09Aug2025 00:46:07.313] [Worker-Main15/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[09Aug2025 00:46:07.313] [Worker-Main15/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[09Aug2025 00:46:07.313] [Worker-Main15/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[09Aug2025 00:46:10.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrSanZzZ has made the advancement [I Found It Underground]
+[09Aug2025 00:46:23.037] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / cisco_rpg_origins:zephyrus_boon_major_flap] from power ResourceKey[apoli:configured_power / cisco_rpg_origins:zephyrus_boon_major]
+[09Aug2025 00:46:23.037] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / cisco_rpg_origins:zephyrus_boon_major_elytra] from power ResourceKey[apoli:configured_power / cisco_rpg_origins:zephyrus_boon_major]
+[09Aug2025 00:46:49.222] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / origins-classes:quality_equipment_helmet] from power ResourceKey[apoli:configured_power / origins-classes:quality_equipment]
+[09Aug2025 00:46:49.222] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / origins-classes:quality_equipment_shoes] from power ResourceKey[apoli:configured_power / origins-classes:quality_equipment]
+[09Aug2025 00:46:49.222] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / origins-classes:quality_equipment_digger] from power ResourceKey[apoli:configured_power / origins-classes:quality_equipment]
+[09Aug2025 00:46:49.222] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / origins-classes:quality_equipment_leggings] from power ResourceKey[apoli:configured_power / origins-classes:quality_equipment]
+[09Aug2025 00:46:49.222] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / origins-classes:quality_equipment_chestplate] from power ResourceKey[apoli:configured_power / origins-classes:quality_equipment]
+[09Aug2025 00:46:49.223] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / origins-classes:quality_equipment_melee] from power ResourceKey[apoli:configured_power / origins-classes:quality_equipment]
+[09Aug2025 00:46:49.223] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / origins-classes:quality_equipment_shield] from power ResourceKey[apoli:configured_power / origins-classes:quality_equipment]
+[09Aug2025 00:46:49.223] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / origins-classes:quality_equipment_range] from power ResourceKey[apoli:configured_power / origins-classes:quality_equipment]
+[09Aug2025 00:46:49.223] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / origins-classes:efficient_repairs_less_material_cost] from power ResourceKey[apoli:configured_power / origins-classes:efficient_repairs]
+[09Aug2025 00:46:49.223] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / origins-classes:efficient_repairs_more_combine_durability] from power ResourceKey[apoli:configured_power / origins-classes:efficient_repairs]
+[09Aug2025 00:46:54.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CT_Gabo was slain by Vindicator
+[09Aug2025 00:46:54.428] [Netty Epoll Server IO #5/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[09Aug2025 00:46:54.428] [Netty Epoll Server IO #5/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 0 is dual wielding: false
+[09Aug2025 00:46:54.428] [Netty Epoll Server IO #5/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 1 air
+[09Aug2025 00:46:54.428] [Netty Epoll Server IO #5/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 1 air
+[09Aug2025 00:46:54.428] [Netty Epoll Server IO #5/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 0 | client: 0
+[09Aug2025 00:46:55.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrSanZzZ was slain by Vindicator
+[09Aug2025 00:47:11.468] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 netherite_scrap
+[09Aug2025 00:47:11.468] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[09Aug2025 00:47:11.468] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[09Aug2025 00:47:16.775] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[09Aug2025 00:47:39.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CT_Gabo has made the advancement [Darkness Lies Ahead]
+[09Aug2025 00:48:28.362] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[09Aug2025 00:48:28.362] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[09Aug2025 00:48:28.363] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[09Aug2025 00:48:28.363] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[09Aug2025 00:48:33.367] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/DoubleBlockCombiner$BlockType
+[09Aug2025 00:48:37.379] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 235
+[09Aug2025 00:48:37.409] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 236
+[09Aug2025 00:48:37.460] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 237
+[09Aug2025 00:48:37.512] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 238
+[09Aug2025 00:48:37.560] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 239
+[09Aug2025 00:48:37.611] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 240
+[09Aug2025 00:48:37.659] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 241
+[09Aug2025 00:48:37.710] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 242
+[09Aug2025 00:48:37.761] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 243
+[09Aug2025 00:48:37.816] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 244
+[09Aug2025 00:48:37.860] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 245
+[09Aug2025 00:48:37.911] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 246
+[09Aug2025 00:48:38.808] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 247
+[09Aug2025 00:48:38.813] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 248
+[09Aug2025 00:48:38.823] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 249
+[09Aug2025 00:48:38.912] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@3a628142
+[09Aug2025 00:48:38.915] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ROMPEKUKA[/100.83.140.62:50946] logged in with entity id 11765 at (-89.5, 69.0, -102.5)
+[09Aug2025 00:48:38.960] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to ROMPEKUKA
+[09Aug2025 00:48:38.960] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to ROMPEKUKA
+[09Aug2025 00:48:38.960] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to ROMPEKUKA
+[09Aug2025 00:48:38.960] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to ROMPEKUKA
+[09Aug2025 00:48:38.962] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to ROMPEKUKA
+[09Aug2025 00:48:38.963] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to ROMPEKUKA
+[09Aug2025 00:48:38.963] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to ROMPEKUKA
+[09Aug2025 00:48:39.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ROMPEKUKA joined the game
+[09Aug2025 00:48:39.015] [Server thread/INFO] [insane96mcp.insanelib.InsaneLib/]: [Progressive Bosses] ROMPEKUKA first spawned. Set First Dragon to 1
+[09Aug2025 00:48:39.104] [Server thread/INFO] [Jade/]: Syncing config to ROMPEKUKA (0795b98f-7db8-3980-90de-349dd2b96939)
+[09Aug2025 00:48:39.273] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to ROMPEKUKA...
+[09Aug2025 00:48:39.273] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticaddons-common.omniconf
+[09Aug2025 00:48:39.273] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[09Aug2025 00:48:39.274] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to ROMPEKUKA
+[09Aug2025 00:48:39.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ROMPEKUKA has made the advancement [Apothic Affixes]
+[09Aug2025 00:48:42.023] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Knight['Elias Tomasson'/251, l='ServerLevel[world]', x=-234.30, y=67.06, z=-229.67] died: Elias Tomasson was slain by MrSanZzZ
+[09Aug2025 00:48:43.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrSanZzZ has made the advancement [Suit Up]
+[09Aug2025 00:48:46.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CT_Gabo has made the advancement [Stone Age]
+[09Aug2025 00:48:48.617] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 netherite_scrap
+[09Aug2025 00:48:48.618] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[09Aug2025 00:48:48.618] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[09Aug2025 00:48:48.618] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_block
+[09Aug2025 00:48:53.981] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting io/redspace/ironsspellbooks/api/spells/CastResult$Type
+[09Aug2025 00:49:03.462] [Netty Epoll Server IO #3/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/combatroll/client/RollEffect$Particles
+[09Aug2025 00:49:04.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CT_Gabo has made the advancement [Getting an Upgrade]
