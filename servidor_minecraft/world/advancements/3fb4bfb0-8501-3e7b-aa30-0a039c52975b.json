@@ -65,6 +65,12 @@
     },
     "done": false
   },
+  "enigmaticaddons:book/relics/void_tome": {
+    "criteria": {
+      "has_items": "2025-08-09 01:57:26 +0000"
+    },
+    "done": true
+  },
   "vinery:window": {
     "criteria": {
       "has_the_recipe": "2025-08-09 00:19:44 +0000"
@@ -75,6 +81,12 @@
     "criteria": {
       "has_parent_recipe": "2025-08-09 00:30:47 +0000",
       "has_items": "2025-08-09 01:34:20 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_heavenly_challenger": {
+    "criteria": {
+      "location0": "2025-08-09 02:03:57 +0000"
     },
     "done": true
   },
@@ -221,6 +233,12 @@
   "vinery:oak_wine_rack_small": {
     "criteria": {
       "has_the_recipe": "2025-08-09 00:19:44 +0000"
+    },
+    "done": true
+  },
+  "simplyswords:soulstealer": {
+    "criteria": {
+      "requirement": "2025-08-09 01:59:15 +0000"
     },
     "done": true
   },
@@ -636,6 +654,7 @@
     "criteria": {
       "minecraft:pillager": "2025-08-09 00:41:17 +0000",
       "minecraft:skeleton": "2025-08-09 01:44:55 +0000",
+      "minecraft:magma_cube": "2025-08-09 01:56:50 +0000",
       "minecraft:phantom": "2025-08-09 00:52:18 +0000",
       "minecraft:stray": "2025-08-09 00:40:04 +0000",
       "minecraft:zombie": "2025-08-09 00:46:31 +0000"
@@ -1599,6 +1618,12 @@
   "farmersdelight:main/eat_nourishing_food": {
     "criteria": {
       "nourishment": "2025-08-09 00:39:57 +0000"
+    },
+    "done": true
+  },
+  "lootr:50loot": {
+    "criteria": {
+      "loot_stat": "2025-08-09 02:06:36 +0000"
     },
     "done": true
   },

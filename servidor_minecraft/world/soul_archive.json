@@ -18,6 +18,34 @@
       "f_135804_": "minecraft",
       "f_135805_": "overworld"
     },
+    "id": "70b697b1-a904-462d-bd5f-30b2ffff06c7",
+    "ownerID": "3fb4bfb0-8501-3e7b-aa30-0a039c52975b",
+    "pos": {
+      "f_123285_": 163,
+      "f_123286_": 165,
+      "f_123289_": -1777
+    },
+    "type": 0
+  },
+  {
+    "dimension": {
+      "f_135804_": "minecraft",
+      "f_135805_": "overworld"
+    },
+    "id": "0cd1ed39-6375-4fc9-81e9-17cac53e0ab9",
+    "ownerID": "b4adcd70-c330-3de8-8053-0c291c36c423",
+    "pos": {
+      "f_123285_": 156,
+      "f_123286_": 164,
+      "f_123289_": -1778
+    },
+    "type": 0
+  },
+  {
+    "dimension": {
+      "f_135804_": "minecraft",
+      "f_135805_": "overworld"
+    },
     "id": "329adbf7-99ad-47bc-aa58-c36076507aa5",
     "ownerID": "3fb4bfb0-8501-3e7b-aa30-0a039c52975b",
     "pos": {

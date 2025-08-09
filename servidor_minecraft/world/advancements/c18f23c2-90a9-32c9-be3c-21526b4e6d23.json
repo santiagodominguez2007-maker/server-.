@@ -66,6 +66,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_heavenly_challenger": {
+    "criteria": {
+      "location0": "2025-08-09 02:04:34 +0000"
+    },
+    "done": true
+  },
   "naturescompass:natures_compass": {
     "criteria": {
       "has_compass": "2025-08-09 00:43:04 +0000"
@@ -193,6 +199,12 @@
     },
     "done": true
   },
+  "simplyswords:soulstealer": {
+    "criteria": {
+      "requirement": "2025-08-09 01:57:40 +0000"
+    },
+    "done": true
+  },
   "vinery:oak_wine_rack_small": {
     "criteria": {
       "has_the_recipe": "2025-08-09 00:43:04 +0000"
@@ -280,7 +292,8 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2025-08-09 00:52:26 +0000",
-      "cooked_beef": "2025-08-09 01:35:01 +0000"
+      "cooked_beef": "2025-08-09 01:35:01 +0000",
+      "golden_carrot": "2025-08-09 02:09:41 +0000"
     },
     "done": false
   },
@@ -335,6 +348,12 @@
   "comforts:sleeping_bag_light_blue_from_white": {
     "criteria": {
       "has_the_recipe": "2025-08-09 00:43:04 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/materials/netherite": {
+    "criteria": {
+      "has_scrap": "2025-08-09 02:06:39 +0000"
     },
     "done": true
   },
@@ -460,6 +479,12 @@
     },
     "done": true
   },
+  "undead_unleashed:shards_of_the_past": {
+    "criteria": {
+      "shards_of_the_past": "2025-08-09 01:58:13 +0000"
+    },
+    "done": true
+  },
   "morevillagers:root": {
     "criteria": {
       "always": "2025-08-09 00:43:04 +0000"
@@ -511,6 +536,12 @@
   "lootr:10loot": {
     "criteria": {
       "loot_stat": "2025-08-09 01:17:03 +0000"
+    },
+    "done": true
+  },
+  "simplyswords:hearthflame": {
+    "criteria": {
+      "requirement": "2025-08-09 01:58:25 +0000"
     },
     "done": true
   },
@@ -601,8 +632,11 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:skeleton": "2025-08-09 01:59:52 +0000",
+      "minecraft:magma_cube": "2025-08-09 02:00:02 +0000",
       "minecraft:spider": "2025-08-09 01:42:59 +0000",
       "minecraft:phantom": "2025-08-09 01:09:47 +0000",
+      "minecraft:wither_skeleton": "2025-08-09 02:05:47 +0000",
       "minecraft:zombie": "2025-08-09 01:31:11 +0000"
     },
     "done": false
@@ -666,6 +700,12 @@
       "barrel": "2025-08-09 01:25:33 +0000"
     },
     "done": false
+  },
+  "enigmaticlegacy:book/materials/ancient_debris": {
+    "criteria": {
+      "has_scrap": "2025-08-09 02:06:39 +0000"
+    },
+    "done": true
   },
   "toms_storage:unlock_chest": {
     "criteria": {
@@ -981,6 +1021,12 @@
     },
     "done": true
   },
+  "immersive_armors:recipes/misc/bone": {
+    "criteria": {
+      "has_item": "2025-08-09 02:06:29 +0000"
+    },
+    "done": true
+  },
   "irons_spellbooks:grant_patchouli": {
     "criteria": {
       "tick": "2025-08-09 00:43:04 +0000"
@@ -1116,6 +1162,12 @@
   "comforts:rope_and_nail": {
     "criteria": {
       "has_the_recipe": "2025-08-09 00:43:04 +0000"
+    },
+    "done": true
+  },
+  "enigmaticaddons:book/relics/antique_bag": {
+    "criteria": {
+      "has_items": "2025-08-09 01:58:30 +0000"
     },
     "done": true
   },
@@ -1279,9 +1331,11 @@
       "minecraft:snowy_plains": "2025-08-09 00:43:05 +0000",
       "minecraft:snowy_taiga": "2025-08-09 01:21:33 +0000",
       "minecraft:cold_ocean": "2025-08-09 01:25:19 +0000",
+      "minecraft:forest": "2025-08-09 02:09:51 +0000",
       "minecraft:frozen_ocean": "2025-08-09 01:05:24 +0000",
       "minecraft:snowy_beach": "2025-08-09 01:00:54 +0000",
-      "minecraft:old_growth_birch_forest": "2025-08-09 01:51:25 +0000"
+      "minecraft:old_growth_birch_forest": "2025-08-09 01:51:25 +0000",
+      "minecraft:plains": "2025-08-09 02:04:34 +0000"
     },
     "done": false
   },

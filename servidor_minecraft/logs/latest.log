@@ -1044,3 +1044,194 @@
 [09Aug2025 01:58:52.607] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player CT_Gabo picking up: PermanentItemEntity['Soul Crystal'/56479, l='ServerLevel[world]', x=112.10, y=149.00, z=-1517.30]
 [09Aug2025 01:58:52.607] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Soul Crystal'/56479, l='ServerLevel[world]', x=112.10, y=149.00, z=-1517.30]
 [09Aug2025 01:59:15.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CT_Gabo has made the advancement [Stealer of Souls]
+[09Aug2025 01:59:55.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CT_Gabo was slain by Goblin Thief
+[09Aug2025 01:59:55.858] [Server thread/INFO] [Enigmatic Legacy/INFO]: Teared Soul Crystal from CT_Gabo at X: 112.30000001192093, Y: 141.5, Z: -1519.2112382535195
+[09Aug2025 01:59:58.614] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_block
+[09Aug2025 01:59:58.614] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 wisdom_scroll
+[09Aug2025 01:59:59.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CT_Gabo: Teleported CT_Gabo to VCDORITO]
+[09Aug2025 02:00:03.958] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player CT_Gabo picking up: PermanentItemEntity['Soul Crystal'/57088, l='ServerLevel[world]', x=112.30, y=143.00, z=-1519.21]
+[09Aug2025 02:00:03.958] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Soul Crystal'/57088, l='ServerLevel[world]', x=112.30, y=143.00, z=-1519.21]
+[09Aug2025 02:00:10.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CT_Gabo was burnt to a crisp whilst fighting Goblin Thief
+[09Aug2025 02:00:10.709] [Server thread/INFO] [Enigmatic Legacy/INFO]: Teared Soul Crystal from CT_Gabo at X: 112.86951698687658, Y: 143.0, Z: -1524.2194523573075
+[09Aug2025 02:00:13.004] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 netherite_scrap
+[09Aug2025 02:00:13.005] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[09Aug2025 02:00:13.005] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 wisdom_scroll
+[09Aug2025 02:00:13.005] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[09Aug2025 02:00:13.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CT_Gabo: Teleported CT_Gabo to VCDORITO]
+[09Aug2025 02:00:19.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CT_Gabo was slain by Goblin Thief
+[09Aug2025 02:00:19.457] [Server thread/INFO] [Enigmatic Legacy/INFO]: Teared Soul Crystal from CT_Gabo at X: 113.24126140887778, Y: 142.15552175294314, Z: -1522.8597389880538
+[09Aug2025 02:00:22.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CT_Gabo: Teleported CT_Gabo to VCDORITO]
+[09Aug2025 02:00:29.807] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player CT_Gabo picking up: PermanentItemEntity['Soul Crystal'/57869, l='ServerLevel[world]', x=113.24, y=143.66, z=-1522.86]
+[09Aug2025 02:00:29.807] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Soul Crystal'/57869, l='ServerLevel[world]', x=113.24, y=143.66, z=-1522.86]
+[09Aug2025 02:00:29.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrSanZzZ has completed the challenge [Red as a ruby]
+[09Aug2025 02:00:29.861] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player CT_Gabo picking up: PermanentItemEntity['Soul Crystal'/57561, l='ServerLevel[world]', x=112.87, y=144.50, z=-1524.22]
+[09Aug2025 02:00:29.861] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Soul Crystal'/57561, l='ServerLevel[world]', x=112.87, y=144.50, z=-1524.22]
+[09Aug2025 02:00:36.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CT_Gabo was slain by Goblin Thief
+[09Aug2025 02:00:36.108] [Server thread/INFO] [Enigmatic Legacy/INFO]: Teared Soul Crystal from CT_Gabo at X: 123.68570612352599, Y: 144.0, Z: -1522.5212576836668
+[09Aug2025 02:00:38.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CT_Gabo: Teleported CT_Gabo to VCDORITO]
+[09Aug2025 02:00:45.355] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player CT_Gabo picking up: PermanentItemEntity['Soul Crystal'/58233, l='ServerLevel[world]', x=123.69, y=145.50, z=-1522.52]
+[09Aug2025 02:00:45.356] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Soul Crystal'/58233, l='ServerLevel[world]', x=123.69, y=145.50, z=-1522.52]
+[09Aug2025 02:00:54.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CT_Gabo was burnt to a crisp whilst fighting VCDORITO
+[09Aug2025 02:00:54.408] [Server thread/INFO] [Enigmatic Legacy/INFO]: Teared Soul Crystal from CT_Gabo at X: 118.30000001192093, Y: 144.0, Z: -1522.4433721092073
+[09Aug2025 02:00:56.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CT_Gabo: Teleported CT_Gabo to VCDORITO]
+[09Aug2025 02:01:13.008] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player CT_Gabo picking up: PermanentItemEntity['Soul Crystal'/58613, l='ServerLevel[world]', x=118.30, y=145.50, z=-1522.44]
+[09Aug2025 02:01:13.009] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Soul Crystal'/58613, l='ServerLevel[world]', x=118.30, y=145.50, z=-1522.44]
+[09Aug2025 02:02:11.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CT_Gabo was killed by magic
+[09Aug2025 02:02:11.109] [Server thread/INFO] [Enigmatic Legacy/INFO]: Teared Soul Crystal from CT_Gabo at X: 111.93934692749362, Y: 136.0, Z: -1521.0033879610774
+[09Aug2025 02:02:12.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrSanZzZ was killed by magic
+[09Aug2025 02:02:15.590] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 235
+[09Aug2025 02:02:15.618] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 236
+[09Aug2025 02:02:15.675] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 237
+[09Aug2025 02:02:15.723] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 238
+[09Aug2025 02:02:15.769] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 239
+[09Aug2025 02:02:15.826] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 240
+[09Aug2025 02:02:15.891] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 241
+[09Aug2025 02:02:15.928] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 242
+[09Aug2025 02:02:15.978] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 243
+[09Aug2025 02:02:16.023] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 244
+[09Aug2025 02:02:16.071] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 245
+[09Aug2025 02:02:16.118] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 246
+[09Aug2025 02:02:17.301] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 247
+[09Aug2025 02:02:17.314] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 248
+[09Aug2025 02:02:17.314] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 249
+[09Aug2025 02:02:17.405] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@533b7caf
+[09Aug2025 02:02:17.408] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Iann23[/100.84.171.63:57504] logged in with entity id 59245 at (-87.5, 69.0, -121.5)
+[09Aug2025 02:02:17.454] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Iann23
+[09Aug2025 02:02:17.454] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Iann23
+[09Aug2025 02:02:17.455] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Iann23
+[09Aug2025 02:02:17.455] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Iann23
+[09Aug2025 02:02:17.456] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Iann23
+[09Aug2025 02:02:17.457] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Iann23
+[09Aug2025 02:02:17.457] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Iann23
+[09Aug2025 02:02:17.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Iann23 joined the game
+[09Aug2025 02:02:17.512] [Server thread/INFO] [insane96mcp.insanelib.InsaneLib/]: [Progressive Bosses] Iann23 first spawned. Set First Dragon to 1
+[09Aug2025 02:02:17.558] [Server thread/INFO] [Jade/]: Syncing config to Iann23 (b4adcd70-c330-3de8-8053-0c291c36c423)
+[09Aug2025 02:02:17.688] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to Iann23...
+[09Aug2025 02:02:17.689] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticaddons-common.omniconf
+[09Aug2025 02:02:17.689] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[09Aug2025 02:02:17.689] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to Iann23
+[09Aug2025 02:02:17.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Iann23 has made the advancement [Apothic Affixes]
+[09Aug2025 02:02:23.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MrSanZzZ: Teleported MrSanZzZ to VCDORITO]
+[09Aug2025 02:02:29.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CT_Gabo: Teleported CT_Gabo to VCDORITO]
+[09Aug2025 02:02:48.114] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player CT_Gabo picking up: PermanentItemEntity['Soul Crystal'/59184, l='ServerLevel[world]', x=111.94, y=137.50, z=-1521.00]
+[09Aug2025 02:02:48.114] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Soul Crystal'/59184, l='ServerLevel[world]', x=111.94, y=137.50, z=-1521.00]
+[09Aug2025 02:02:59.553] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class dev.itsmeow.whisperwoods.entity.EntityHidebehind from class dev.itsmeow.whisperwoods.imdlib.entity.EntityTypeContainer
+[09Aug2025 02:03:05.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MrSanZzZ: Teleported MrSanZzZ to VCDORITO]
+[09Aug2025 02:03:38.365] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[09Aug2025 02:03:38.366] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[09Aug2025 02:03:38.366] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_block
+[09Aug2025 02:03:46.596] [Worker-Main15/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=198, y=48, z=187}
+[09Aug2025 02:03:57.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CT_Gabo has made the advancement [The Imperial March]
+[09Aug2025 02:04:00.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CT_Gabo was slain by Wither Skeleton
+[09Aug2025 02:04:00.146] [Server thread/INFO] [Enigmatic Legacy/INFO]: Teared Soul Crystal from CT_Gabo at X: 121.09506696581585, Y: 167.0, Z: -1774.1679389178726
+[09Aug2025 02:04:03.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MrSanZzZ: Teleported MrSanZzZ to CT_Gabo]
+[09Aug2025 02:04:06.922] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CT_Gabo: Teleported CT_Gabo to VCDORITO]
+[09Aug2025 02:04:23.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MrSanZzZ: Teleported MrSanZzZ to CT_Gabo]
+[09Aug2025 02:04:34.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VCDORITO has made the advancement [The Imperial March]
+[09Aug2025 02:04:34.818] [Server thread/INFO] [mixin/]: Mixing MixinHoglinTasks from enigmaticlegacy.mixins.json into net.minecraft.world.entity.monster.hoglin.HoglinAi
+[09Aug2025 02:04:36.815] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player CT_Gabo picking up: PermanentItemEntity['Soul Crystal'/61495, l='ServerLevel[world]', x=121.10, y=168.50, z=-1774.17]
+[09Aug2025 02:04:36.815] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Soul Crystal'/61495, l='ServerLevel[world]', x=121.10, y=168.50, z=-1774.17]
+[09Aug2025 02:04:52.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MrSanZzZ: Teleported MrSanZzZ to CT_Gabo]
+[09Aug2025 02:05:30.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CT_Gabo was killed by magic
+[09Aug2025 02:05:30.124] [Server thread/INFO] [Enigmatic Legacy/INFO]: Teared Soul Crystal from CT_Gabo at X: 137.1037790637126, Y: 168.0, Z: -1775.291656040761
+[09Aug2025 02:05:34.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CT_Gabo: Teleported CT_Gabo to VCDORITO]
+[09Aug2025 02:05:39.217] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player CT_Gabo picking up: PermanentItemEntity['Soul Crystal'/62351, l='ServerLevel[world]', x=137.10, y=169.50, z=-1775.29]
+[09Aug2025 02:05:39.217] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Soul Crystal'/62351, l='ServerLevel[world]', x=137.10, y=169.50, z=-1775.29]
+[09Aug2025 02:05:50.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CT_Gabo: Teleported MrSanZzZ to CT_Gabo]
+[09Aug2025 02:05:50.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrSanZzZ has made the advancement [The Imperial March]
+[09Aug2025 02:05:59.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CT_Gabo was killed by magic
+[09Aug2025 02:05:59.115] [Server thread/INFO] [Enigmatic Legacy/INFO]: Teared Soul Crystal from CT_Gabo at X: 146.88847337134652, Y: 165.0, Z: -1778.300000011921
+[09Aug2025 02:06:01.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrSanZzZ was slain by Hoglin
+[09Aug2025 02:06:03.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CT_Gabo: Teleported CT_Gabo to VCDORITO]
+[09Aug2025 02:06:03.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CT_Gabo was slain by VCDORITO
+[09Aug2025 02:06:03.629] [Server thread/INFO] [Enigmatic Legacy/INFO]: Teared Soul Crystal from CT_Gabo at X: 145.84675933435926, Y: 166.0, Z: -1769.6045032911818
+[09Aug2025 02:06:05.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CT_Gabo: Teleported CT_Gabo to VCDORITO]
+[09Aug2025 02:06:05.796] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player CT_Gabo picking up: PermanentItemEntity['Soul Crystal'/63376, l='ServerLevel[world]', x=145.85, y=167.50, z=-1769.60]
+[09Aug2025 02:06:05.797] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Soul Crystal'/63376, l='ServerLevel[world]', x=145.85, y=167.50, z=-1769.60]
+[09Aug2025 02:06:07.825] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MrSanZzZ: Teleported MrSanZzZ to CT_Gabo]
+[09Aug2025 02:06:12.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CT_Gabo: Teleported CT_Gabo to VCDORITO]
+[09Aug2025 02:06:19.715] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player CT_Gabo picking up: PermanentItemEntity['Soul Crystal'/62875, l='ServerLevel[world]', x=146.89, y=166.50, z=-1778.30]
+[09Aug2025 02:06:19.715] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Soul Crystal'/62875, l='ServerLevel[world]', x=146.89, y=166.50, z=-1778.30]
+[09Aug2025 02:06:36.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CT_Gabo has made the advancement [Penteconter]
+[09Aug2025 02:06:44.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CT_Gabo was slain by Cursed Armor
+[09Aug2025 02:06:44.919] [Server thread/INFO] [Enigmatic Legacy/INFO]: Teared Soul Crystal from CT_Gabo at X: 137.92267186699831, Y: 163.0, Z: -1774.6820994028549
+[09Aug2025 02:06:47.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrSanZzZ was slain by Cursed Armor
+[09Aug2025 02:06:47.431] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[09Aug2025 02:06:47.431] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[09Aug2025 02:06:47.431] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[09Aug2025 02:06:47.431] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_block
+[09Aug2025 02:06:49.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CT_Gabo: Teleported CT_Gabo to VCDORITO]
+[09Aug2025 02:06:49.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VCDORITO was slain by Cursed Armor
+[09Aug2025 02:06:50.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Iann23 has made the advancement [Darkness Lies Ahead]
+[09Aug2025 02:06:59.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CT_Gabo: Teleported VCDORITO to CT_Gabo]
+[09Aug2025 02:07:05.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrSanZzZ was slain by Cursed Armor
+[09Aug2025 02:07:11.167] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[09Aug2025 02:07:11.168] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[09Aug2025 02:07:11.168] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[09Aug2025 02:07:11.168] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[09Aug2025 02:07:15.565] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player CT_Gabo picking up: PermanentItemEntity['Soul Crystal'/63932, l='ServerLevel[world]', x=137.92, y=164.50, z=-1774.68]
+[09Aug2025 02:07:15.566] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Soul Crystal'/63932, l='ServerLevel[world]', x=137.92, y=164.50, z=-1774.68]
+[09Aug2025 02:07:20.265] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 netherite_scrap
+[09Aug2025 02:07:20.266] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[09Aug2025 02:07:20.266] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[09Aug2025 02:07:28.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CT_Gabo: Teleported Iann23 to CT_Gabo]
+[09Aug2025 02:07:28.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Iann23 has made the advancement [The Imperial March]
+[09Aug2025 02:07:33.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Iann23 has reached the goal [Worthy Equipment]
+[09Aug2025 02:07:44.917] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 netherite_scrap
+[09Aug2025 02:07:44.918] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_block
+[09Aug2025 02:07:44.918] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[09Aug2025 02:07:44.918] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_block
+[09Aug2025 02:07:44.918] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[09Aug2025 02:07:54.945] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedbackpacks/common/gui/BackpackContext$ContextType
+[09Aug2025 02:08:10.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Iann23 has made the advancement [Monster Hunter]
+[09Aug2025 02:08:11.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Iann23 has made the advancement [Spooky Scary Skeleton]
+[09Aug2025 02:08:11.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Iann23 was killed by Potion using magic
+[09Aug2025 02:08:11.863] [Server thread/INFO] [Enigmatic Legacy/INFO]: Teared Soul Crystal from Iann23 at X: 147.96901532551254, Y: 163.0, Z: -1775.2346048266536
+[09Aug2025 02:08:34.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CT_Gabo: Teleported Iann23 to CT_Gabo]
+[09Aug2025 02:08:40.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrSanZzZ has made the advancement [Stealer of Souls]
+[09Aug2025 02:08:44.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrSanZzZ was slain by Iann23
+[09Aug2025 02:08:46.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Iann23 was killed by magic
+[09Aug2025 02:08:46.718] [Server thread/INFO] [Enigmatic Legacy/INFO]: Teared Soul Crystal from Iann23 at X: 142.98199257329296, Y: 163.0, Z: -1772.7214700073885
+[09Aug2025 02:08:59.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CT_Gabo was shot by Skeleton
+[09Aug2025 02:08:59.170] [Server thread/INFO] [Enigmatic Legacy/INFO]: Teared Soul Crystal from CT_Gabo at X: 161.69367301608682, Y: 163.0, Z: -1767.1029081911038
+[09Aug2025 02:09:00.979] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_block
+[09Aug2025 02:09:00.979] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 wisdom_scroll
+[09Aug2025 02:09:03.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrSanZzZ was slain by Skeleton
+[09Aug2025 02:09:05.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CT_Gabo: Teleported CT_Gabo to VCDORITO]
+[09Aug2025 02:09:14.518] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player CT_Gabo picking up: PermanentItemEntity['Soul Crystal'/65806, l='ServerLevel[world]', x=161.69, y=164.50, z=-1767.10]
+[09Aug2025 02:09:14.518] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Soul Crystal'/65806, l='ServerLevel[world]', x=161.69, y=164.50, z=-1767.10]
+[09Aug2025 02:09:17.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrSanZzZ was shot by Skeleton
+[09Aug2025 02:09:18.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CT_Gabo: Teleported VCDORITO to CT_Gabo]
+[09Aug2025 02:09:21.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CT_Gabo: Teleported Iann23 to CT_Gabo]
+[09Aug2025 02:09:24.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CT_Gabo was shot by Skeleton
+[09Aug2025 02:09:24.817] [Server thread/INFO] [Enigmatic Legacy/INFO]: Teared Soul Crystal from CT_Gabo at X: 163.36885041382905, Y: 163.87518719878483, Z: -1776.9068241100056
+[09Aug2025 02:09:27.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VCDORITO withered away whilst fighting Skeleton
+[09Aug2025 02:09:28.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CT_Gabo: Teleported CT_Gabo to VCDORITO]
+[09Aug2025 02:09:30.569] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player Iann23 picking up: PermanentItemEntity['Soul Crystal'/65417, l='ServerLevel[world]', x=142.98, y=164.50, z=-1772.72]
+[09Aug2025 02:09:30.569] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Soul Crystal'/65417, l='ServerLevel[world]', x=142.98, y=164.50, z=-1772.72]
+[09Aug2025 02:09:32.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CT_Gabo was shot by Wither Skeleton
+[09Aug2025 02:09:32.416] [Server thread/INFO] [Enigmatic Legacy/INFO]: Teared Soul Crystal from CT_Gabo at X: 151.5112435672746, Y: 166.0, Z: -1779.173752261854
+[09Aug2025 02:09:35.013] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player CT_Gabo picking up: PermanentItemEntity['Soul Crystal'/67119, l='ServerLevel[world]', x=151.51, y=167.50, z=-1779.17]
+[09Aug2025 02:09:35.013] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Soul Crystal'/67119, l='ServerLevel[world]', x=151.51, y=167.50, z=-1779.17]
+[09Aug2025 02:09:36.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Iann23 has made the advancement ['X' Marks the Spot]
+[09Aug2025 02:09:38.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Iann23 has made the advancement [Hunt and Gather]
+[09Aug2025 02:09:38.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Iann23 has made the advancement [I Found It Underground]
+[09Aug2025 02:09:39.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Iann23 has reached the goal [Adventure Time]
+[09Aug2025 02:09:39.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Iann23 has made the advancement [Cover Me with Diamonds]
+[09Aug2025 02:09:43.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Iann23 has made the advancement [Ice Bucket Challenge]
+[09Aug2025 02:09:43.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Iann23 has made the advancement [Acquire Hardware]
+[09Aug2025 02:09:43.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CT_Gabo was shot by Wither Skeleton
+[09Aug2025 02:09:43.917] [Server thread/INFO] [Enigmatic Legacy/INFO]: Teared Soul Crystal from CT_Gabo at X: 157.4731575520426, Y: 163.0, Z: -1775.693311345734
+[09Aug2025 02:09:46.270] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player Iann23 picking up: PermanentItemEntity['Soul Crystal'/64990, l='ServerLevel[world]', x=147.97, y=164.50, z=-1775.23]
+[09Aug2025 02:09:46.270] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Soul Crystal'/64990, l='ServerLevel[world]', x=147.97, y=164.50, z=-1775.23]
+[09Aug2025 02:09:47.820] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player CT_Gabo picking up: PermanentItemEntity['Soul Crystal'/67139, l='ServerLevel[world]', x=157.47, y=164.50, z=-1775.69]
+[09Aug2025 02:09:47.820] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Soul Crystal'/67139, l='ServerLevel[world]', x=157.47, y=164.50, z=-1775.69]
+[09Aug2025 02:09:49.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Iann23 was shot by Wither Skeleton
+[09Aug2025 02:09:49.269] [Server thread/INFO] [Enigmatic Legacy/INFO]: Teared Soul Crystal from Iann23 at X: 156.0594817723937, Y: 163.0, Z: -1777.3356510022877
+[09Aug2025 02:09:49.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrSanZzZ was slain by Hoglin
+[09Aug2025 02:09:51.223] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[09Aug2025 02:09:51.223] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[09Aug2025 02:09:51.223] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[09Aug2025 02:09:51.223] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_block
+[09Aug2025 02:10:00.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CT_Gabo: Teleported CT_Gabo to VCDORITO]
+[09Aug2025 02:10:09.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrSanZzZ was slain by Hoglin
